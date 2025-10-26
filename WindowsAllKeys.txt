@@ -1,0 +1,544 @@
+------------------------ Windows 95 ------------------------------------------------
+394-8494197                    Windows 95 Retail
+16095-OEM-0172524-66720        Windows 95 OEM COA
+------------------------ Windows NT ------------------------------------------------
+980-7151275                    Windows NT Retail
+25100-OEM-0456776-98553        Windows NT OEM COA
+CC6DX-2PYC8-XJ29H-97PJG-693RB  Windows NT Embedded OEM COA
+------------------------ Windows 98 ------------------------------------------------
+FFT7P-XBJD2-HH7HT-87W2V-BCV6T  Windows 98  Retail
+R6TCK-9F8CC-KC7WT-J3WF3-DVTBW  Windows 98  OEM COA
+------------------------ Windows 2000 ----------------------------------------------
+TQ46P-CY32Q-KJKC8-XFHMJ-PH83B  Windows 2000 Server Retail
+G9PMP-WFFJQ-4PV7M-B6TDP-86PVT  Windows 2000 Server OEM COA
+F2BMK-37WGQ-YC6XM-BKYBJ-M9Q4B  Windows 2000 Professional Retail
+WGB8R-9HKQ6-24KP2-HWCPG-WD4YQ  Windows 2000 Professional OEM COA
+------------------------ Windows Me ------------------------------------------------
+MYDJB-F7D8K-2WC7W-3DKC3-88QT8  Windows Me Retail
+V4DCV-6B4YH-2JG6B-9RXPF-8QHC3  Windows Me OEM COA
+------------------------ Windows XP ------------------------------------------------
+WB8QP-4XV6D-H46KF-HF86K-TJBMJ  Windows XP Home Edition Retail
+H6Q29-44RWG-2CXRW-XRHM4-QJXWT  Windows XP Home Edition OEM SLP
+JW9G3-KCB9X-8RQYX-RHTQB-YFBGM  Windows XP Home Edition OEM COA
+FFQMT-RVGG2-CV6JD-89G4V-8G7TW  Windows XP Media Center Edition Retail
+QJBQR-C3BPY-KJDG8-FW96Q-FFXF6  Windows XP Media Center Edition OEM SLP
+FDBH7-TC268-BM7MC-6Y4M8-HWDYY  Windows XP Media Center Edition OEM COA
+GXK38-JQ93C-6QC6C-C4QCT-YCRGJ  Windows XP Media Center Edition 2005 Retail
+CYHK3-MQF98-WFWRC-GJVDD-KDJD6  Windows XP Media Center Edition 2005 OEM
+VF4BT-H7HF9-WG6QY-FD7X4-QWCCM  Windows XP Tablet PC Edition Retail
+QJBQR-C3BPY-KJDG8-FW96Q-FFXF6  Windows XP Tablet PC Edition OEM SLP
+J6B7V-8K6MG-GJ74B-XHWC3-K8XMW  Windows XP Tablet PC Edition OEM COA
+KWP26-MKV28-J3PY9-RGXRR-Q4B4B  Windows XP Tablet PC Edition Volume
+RT9WT-CQGD3-D6BYK-X6CMH-GQDDG  Windows XP Tablet PC Edition 2005 Retail
+QJBQR-C3BPY-KJDG8-FW96Q-FFXF6  Windows XP Tablet PC Edition 2005 OEM SLP
+BM6TD-2Y284-8KGT3-XMPR8-TQTPY  Windows XP Tablet PC Edition 2005 OEM COA
+FRDT6-9WCKC-XC2CR-JY6VK-733XJ  Windows XP Tablet PC Edition 2005 Volume
+WMW9K-H9PBJ-JMRWQ-HTX73-TJJ7B  Windows XP Professional Edition Retail
+QJBQR-C3BPY-KJDG8-FW96Q-FFXF6  Windows XP Professional Edition OEM SLP
+QYX7V-GCRWH-FY2YW-CH7M4-YQJD6  Windows XP Professional Edition OEM COA
+PMB6C-JT7QM-434RP-YH4V4-PJ2FT  Windows XP Professional Edition Volume
+HV2FC-8M9PG-T329J-P63YD-HYR2T  Windows XP Professional x64 Edition Retail
+G7D22-94YGW-6FXW3-27XQ3-MXV28  Windows XP Professional x64 Edition OEM SLP
+HJ3V2-7XYD7-YK6JB-4M36T-WCGRD  Windows XP Professional x64 Edition OEM COA
+RG3YH-B4KFK-8MX8R-HY6T3-7PFDY  Windows XP Professional x64 Edition Volume
+K2W26-WDMJ2-3F8PY-VKKQK-Y4THJ  Windows XP Starter Edition OEM SLP
+KHF6Q-C9KM4-RJ2YF-M2787-2HPC6  Windows XP Starter Edition OEM COA
+RJRFC-DGD8J-7F6Y7-4GYW8-9MHKM  Windows XP Fundamentals for Legacy PCs Volume
+M8YHH-V7BJD-GGVXT-HQM8G-8QT2M  Windows XP Embedded POSReady 2009 Volume
+MCQY2-V49H4-MJ9MP-W6MH2-D4WJD  Windows XP Embedded Standard 2009 Runtime Volume
+DPVFV-QHB4R-PDGKB-PV4V2-D388D  Windows XP Embedded Standard 2009 Toolkit Volume
+JJ9HR-8K2VB-XKHDR-8YCFP-JVCXJ  Windows XP Embedded Runtime Volume
+GHK88-BW24G-7WFHQ-P8QW8-X8C9Y  Windows XP Embedded Toolkit Volume
+Q6DFQ-YFMQ9-Y7H84-P9G2K-RVBPD  Windows XP Embedded for Point of Service Volume
+------------------------ Windows Server 2003 ---------------------------------------
+D42X8-7MWXD-M4B76-MKYP7-CW9FD  Windows Server 2003 Web Edition 32-bit Retail
+RV2F9-XRFY3-2H9RB-J8YXP-JJH28  Windows Server 2003 Web Edition 32-bit OEM SLP
+BWM88-TPRRP-932D9-6RCG9-GWDGY  Windows Server 2003 Web Edition 32-bit OEM COA
+JB88F-WT2Q3-DPXTT-Y8GHG-7YYQY  Windows Server 2003 Web Edition 32-bit Volume
+M6RJ9-TBJH3-9DDXM-4VX9Q-K8M8M  Windows Server 2003 Standard Edition 32-bit Retail
+RV2F9-XRFY3-2H9RB-J8YXP-JJH28  Windows Server 2003 Standard Edition 32-bit OEM SLP
+KM63V-GW6H6-WY4BP-HMCK4-G7CKJ  Windows Server 2003 Standard Edition 32-bit OEM COA
+JB88F-WT2Q3-DPXTT-Y8GHG-7YYQY  Windows Server 2003 Standard Edition 32-bit Volume
+G87FR-KGK99-94HYX-4WTRK-FQYCB  Windows Server 2003 Standard Edition 64-bit Retail
+BX84Y-JVWMQ-48D4K-VWVWH-VYWXJ  Windows Server 2003 Standard Edition 64-bit OEM SLP
+H44QP-QG8YP-8TXCW-Q6289-WH8X8  Windows Server 2003 Standard Edition 64-bit OEM COA
+BXD88-QGH3V-XG44M-MDXGW-CBYQY  Windows Server 2003 Standard Edition 64-bit Volume
+QW32K-48T2T-3D2PJ-DXBWY-C6WRJ  Windows Server 2003 Enterprise Edition 32-bit Retail
+RV2F9-XRFY3-2H9RB-J8YXP-JJH28  Windows Server 2003 Enterprise Edition 32-bit OEM SLP
+T62KC-C78VW-FPGMG-QMDPD-KCG7Y  Windows Server 2003 Enterprise Edition 32-bit OEM COA
+JB88F-WT2Q3-DPXTT-Y8GHG-7YYQY  Windows Server 2003 Enterprise Edition 32-bit Volume
+KGG4W-47CJB-K6HWF-2RG8D-XJ44J  Windows Server 2003 Enterprise Edition 64-bit Retail
+BX84Y-JVWMQ-48D4K-VWVWH-VYWXJ  Windows Server 2003 Enterprise Edition 64-bit OEM SLP
+FRJKP-RX4XD-9JRWB-VRYTF-JWJFM  Windows Server 2003 Enterprise Edition 64-bit OEM COA
+BXD88-QGH3V-XG44M-MDXGW-CBYQY  Windows Server 2003 Enterprise Edition 64-bit Volume
+R8MT6-VRKVB-H7C6X-PVTBX-4QDCW  Windows Server 2003 Datacenter Edition 32-bit Retail
+RV2F9-XRFY3-2H9RB-J8YXP-JJH28  Windows Server 2003 Datacenter Edition 32-bit OEM SLP
+MTHWM-TQ4HV-Q6DG6-4348H-GGRHT  Windows Server 2003 Datacenter Edition 32-bit OEM COA
+JB88F-WT2Q3-DPXTT-Y8GHG-7YYQY  Windows Server 2003 Datacenter Edition 32-bit Volume
+BTMBB-KPHBM-VRQWR-C6V9P-DTKPW  Windows Server 2003 Datacenter Edition 64-bit Retail
+BX84Y-JVWMQ-48D4K-VWVWH-VYWXJ  Windows Server 2003 Datacenter Edition 64-bit OEM SLP
+VPBRF-FXC46-9JCH6-RM97G-2CTRG  Windows Server 2003 Datacenter Edition 64-bit OEM COA
+BXD88-QGH3V-XG44M-MDXGW-CBYQY  Windows Server 2003 Datacenter Edition 64-bit Volume
+VKH89-R3WWV-R29HP-K9T8R-F8HVT  Windows Small Business Server 2003 Retail
+RV2F9-XRFY3-2H9RB-J8YXP-JJH28  Windows Small Business Server 2003 OEM SLP
+XGRDV-JYBFW-Y7DQ4-DTX9M-KFJX8  Windows Small Business Server 2003 OEM COA
+H34TQ-22XJD-H34FH-3FV8M-TD4V8  Windows Home Server 2007 Retail
+RV2F9-XRFY3-2H9RB-J8YXP-JJH28  Windows Home Server 2007 OEM SLP
+Q26MJ-FXD8V-PCX8T-XKV2T-VWPKT  Windows Home Server 2007 OEM COA
+------------------------ Windows Server 2003 R2 ------------------------------------
+F9GMH-3V7W6-XFRF9-VHQJM-D4DYQ  Windows Server 2003 R2 Web Edition 32-bit Retail
+HW86F-VQ2PM-FMT49-F6FHT-FBBP8  Windows Server 2003 R2 Web Edition 32-bit OEM SLP
+J6CJQ-9WW6V-XYMH2-66VGX-Q2XTY  Windows Server 2003 R2 Web Edition 32-bit OEM COA
+HDXR2-62748-6XG6Y-4BT6T-R6H43  Windows Server 2003 R2 Web Edition 32-bit Volume
+QKDCQ-TP2JM-G4MDG-VR6F2-P9C48  Windows Server 2003 R2 Standard Edition 32-bit Retail
+HW86F-VQ2PM-FMT49-F6FHT-FBBP8  Windows Server 2003 R2 Standard Edition 32-bit OEM SLP
+PWBJC-22697-D4CVH-FCJWW-DTF9J  Windows Server 2003 R2 Standard Edition 32-bit OEM COA
+HDXR2-62748-6XG6Y-4BT6T-R6H43  Windows Server 2003 R2 Standard Edition 32-bit Volume
+P4WJG-WK3W7-3HM8W-RWHCK-8JTRY  Windows Server 2003 R2 Standard Edition 64-bit Retail
+TD4F9-YYHDP-KG27Y-379KW-BRFC8  Windows Server 2003 R2 Standard Edition 64-bit OEM SLP
+WMWRD-3C4TX-66KMC-27T62-RK2K8  Windows Server 2003 R2 Standard Edition 64-bit OEM COA
+B76XF-FCR39-XBGFF-YMBFH-G6PMT  Windows Server 2003 R2 Standard Edition 64-bit Volume
+BMCM6-WYKBH-2CTVY-KKKFM-RTP6G  Windows Server 2003 R2 Enterprise Edition 32-bit Retail
+HW86F-VQ2PM-FMT49-F6FHT-FBBP8  Windows Server 2003 R2 Enterprise Edition 32-bit OEM SLP
+GYKM8-RFV8G-QQD34-YQQJ9-K3PMM  Windows Server 2003 R2 Enterprise Edition 32-bit OEM COA
+HDXR2-62748-6XG6Y-4BT6T-R6H43  Windows Server 2003 R2 Enterprsie Edition 32-bit Volume
+VYTMJ-8K9XR-FK63H-6VBXX-8TJJ6  Windows Server 2003 R2 Enterprise Edition 64-bit Retail
+TD4F9-YYHDP-KG27Y-379KW-BRFC8  Windows Server 2003 R2 Enterprise Edition 64-bit OEM SLP
+M93P2-HDWY7-TMGC2-KHXB7-QQJFM  Windows Server 2003 R2 Enterprise Edition 64-bit OEM COA
+B76XF-FCR39-XBGFF-YMBFH-G6PMT  Windows Server 2003 R2 Enterprise Edition 64-bit Volume
+KM4DK-Y8CQY-64FC2-FQ32K-KRQCW  Windows Server 2003 R2 Datacenter Edition 32-bit Retail
+HW86F-VQ2PM-FMT49-F6FHT-FBBP8  Windows Server 2003 R2 Datacenter Edition 32-bit OEM SLP
+BK9T9-GGDB4-4HMT4-FBTBP-9GGD6  Windows Server 2003 R2 Datacenter Edition 32-bit OEM COA
+HDXR2-62748-6XG6Y-4BT6T-R6H43  Windows Server 2003 R2 Datacenter Edition 32-bit Volume
+JF2XH-RTTBV-PGJ49-RFT8D-3PG2W  Windows Server 2003 R2 Datacenter Edition 64-bit Retail
+TD4F9-YYHDP-KG27Y-379KW-BRFC8  Windows Server 2003 R2 Datacenter Edition 64-bit OEM SLP
+Q864D-8P6Y6-CBTTJ-WFYP8-HY8H6  Windows Server 2003 R2 Datacenter Edition 64-bit OEM COA
+B76XF-FCR39-XBGFF-YMBFH-G6PMT  Windows Server 2003 R2 Datacenter Edition 64-bit Volume
+TJHKT-TPTJ9-GXW23-DRPQJ-XJ9MG  Windows Small Business Server 2003 R2 Retail
+HW86F-VQ2PM-FMT49-F6FHT-FBBP8  Windows Small Business Server 2003 R2 OEM SLP
+GGHJR-39VG6-VJY4F-PM8BJ-RYBQW  Windows Small Business Server 2003 R2 OEM COA
+VXMMY-4GCMH-2TPB9-6M73R-TYQYW  Windows Home Server 2007 R2 Retail
+HW86F-VQ2PM-FMT49-F6FHT-FBBP8  Windows Home Server 2007 R2 OEM SLP
+W3M3W-CXMWM-JTBGD-QHH9G-4RV3G  Windows Home Server 2007 R2 OEM COA
+DM826-BQP8G-Q4MVY-6PVKH-KCR78  Windows Storage Server Standard 32-bit Retail
+DJQX6-Y9JFK-24MRY-CWX87-GFF28  Windows Storage Server Standard 64-bit Retail
+BXHB9-PR3MV-V6QVH-FT2KJ-Q2G4G  Windows Storage Server Enterprise 32-bit Retail
+W98XK-VJXJ2-9C8PH-H334P-W8JQD  Windows Storage Server Enterprise 64-bit Retail
+KFGK3-GR9B4-T4FF2-TKDQK-WC4BJ  Windows Compute Cluster Server 32-bit Retail
+WVFM4-HFQRR-6J2P7-9TP88-TX7VM  Windows Compute Cluster Server 64-bit Retail
+HRXYC-PP8FB-CD43F-PQGQF-DP2PJ  Windows Compute Cluster Server 32-bit Volume
+MD47V-X48M8-GK3PQ-3V3M2-PXMRM  Windows Compute Cluster Server 64-bit Volume
+----------------------- Windows Vista ----------------------------------------------
+223JH-DDMFR-3WBTR-H3V93-28JK8 Windows Vista Starter OEM SLP
+X9PYV-YBQRV-9BXWV-TQDMK-QDWK4 Windows Vista Starter OEM NONSLP
+4BXM8-HKM38-YMY84-9CFM9-WM2W9 Windows Vista Home Basic Retail
+2432B-Q9RGP-VT9CK-64JFP-X6XVT Windows Vista Home Basic OEM SLP
+2QHR9-QJ82K-MVBCG-D83Y3-PY64W Windows Vista Home Basic OEM NONSLP
+4BX3B-FQDT4-R24X6-7VCK2-P3QB9 Windows Vista Home Basic OEM COA
+7W3KH-TG8DP-W78W8-KMV8C-DV9J7 Windows Vista Home Premium Retail
+MPDXF-Y2JDQ-FFVHW-6H2FG-WTRQC Windows Vista Home Premium OEM SLP
+7XJRC-B4D6K-HQYGC-PH4V6-9H6VX Windows Vista Home Premium OEM COA
+FBKRR-W66YH-9G67B-BWVYM-XWQ3Y Windows Vista Home Premium OEM NONSLP
+P78KF-HTRW6-MPMQ7-4JQ6J-G22Q2 Windows Vista Business Retail
+VXT94-YB6KJ-XVDR4-DPV2Y-KK8B6 Windows Vista Business OEM SLP
+W3KWY-XHDTK-MB49P-CV7MH-2MFQY Windows Vista Business OEM COA
+H9K9F-WK4HP-9HY6K-CCWK3-G3TRK Windows Vista Business OEM NONSLP
+FJF88-9WM2G-R6CYF-72368-J67TY Windows Vista Business Volume MAK
+YFKBB-PQJJV-G996G-VWGXY-2V3X8 Windows Vista Business Volume GVLK
+YV9YD-6YFCD-R8HRJ-DYR2H-7HC76 Windows Vista Ultimate Retail
+3YDB8-YY3P4-G7FCW-GJMPG-VK48C Windows Vista Ultimate OEM SLP
+Q3XT6-DC249-DKYJY-6YCTY-DC689 Windows Vista Ultimate OEM NONSLP
+P3YDW-7XG4B-B78MQ-VC9R7-DYRC3 Windows Vista Ultimate OEM COA
+YQPQV-RW8R3-XMPFG-RXG9R-JGTVF Windows Vista Enterprise Retail
+6RBQ3-H9G9B-RTHM4-MYMXM-66PCC Windows Vista Enterprise Volume MAK
+VKK3X-68KWM-X2YGT-QR4M6-4BWMV Windows Vista Enterprise Volume GVLK
+GM4JD-QPFD9-7C9XC-7Q4PY-QK44T Windows Vista All Volume CSVLK
+--------------------- Windows Server 2008 -------------------------------------------
+BGT39-9FYH7-X2CYD-T628F-QPQPW Windows Server 2008 Web Retail
+V7JHV-BHWFQ-KFPX7-6Y9XP-7KXP4 Windows Server 2008 Web Volume MAK
+FDTP7-HXQ6K-B4WGK-H8KH4-46MD7 Windows Server 2008 Web Volume GVLK
+8YVM4-YQBDH-7WDQM-R27WR-WVCWG Windows Server 2008 Standard Retail
+9D32D-Y6D29-34HCQ-JY6KK-FQH8M Windows Server 2008 Standard Volume MAK
+7QDPK-J3GHR-76GCK-BFDDR-DXRC3 Windows Server 2008 Standard Volume GVLK
+MRB7H-QJRHG-FXTBR-B2Q2M-8WMTJ Windows Server 2008 Enterprise Retail
+YMDJ3-2M72Q-79G4F-GFG39-2JVK7 Windows Server 2008 Enterprise Volume MAK
+TTP8Y-TXGJC-K33JR-6XJGK-8FF78 Windows Server 2008 Enterprise Volume GVLK
+6QBHY-DXTPJ-T9W3P-DTJXX-4VQMB Windows Server 2008 Datacenter Retail
+BRFDH-H337R-6P9RJ-2D4DJ-49FKQ Windows Server 2008 Datacenter Volume MAK
+MR23X-CD7Y6-H9TM3-4VGHJ-2KCCX Windows Server 2008 Datacenter Volume GVLK
+24FV9-H7JW8-C8Q6X-BQKMK-K977J Windows Compute Cluster Server Retail
+7XRBY-6MP2K-VQPT8-F37JV-YYQ83 Windows Server Medium Business Management Retail
+6PDTD-JK48J-662TF-8J2QV-R4CRB Windows Server Medium Business Messaging Retail
+D694V-CMWKH-PY92X-PFQKQ-JCB69 Windows Server Medium Business Security Retail
+MRDK3-YYQF3-88BQJ-D6FJG-69YJY Windows Small Business Server Premium Retail
+2KB23-GJRBD-W3T9C-6CH2W-39B7V Windows Small Business Server Prime Retail
+H4XDD-B27GY-667P6-XWVV7-GYG8J Windows Small Business Server Standard Retail
+RGBMC-PQBVF-94Q9K-HD63B-VY6MP Windows Server Home Premium Retail
+6C8KR-MD3QK-9GWFW-44CY2-W9CBM Windows Server Home Standard Retail
+2264C-TD9T8-P8HPW-CC9GH-MHM2V Windows Storage Server Enterprise Retail
+RCYMT-YX342-8T6YY-XYHYC-3DD7X Windows Storage Server Express Retail
+FKFT2-WXYY9-WBPY7-6YMY4-X48JF Windows Storage Server Standard Retail
+8X9J7-HCJ7J-3WDJT-QM7D8-464YH Windows Storage Server Workgroup Retail
+BHC4Q-6D7B7-QMVH7-4MKQH-Y9VK7 Windows Server 2008 Volume CSVLK
+-------------------- Windows 7 -----------------------------------------------------
+7Q28W-FT9PC-CMMYT-WHMY2-89M6G Windows 7 Starter Retail
+73JWR-XQM3H-DTP3W-WQH99-27MC6 Windows 7 Starter OEM COA
+FKV8P-X64PH-JYPG2-BTK9K-TRJ48 Windows 7 Starter OEM SLP
+TMD37-GT6BG-QJ2WK-9362G-T7HHF Windows 7 Starter OEM NONSLP
+YFC4Q-GKXB4-D8PYP-4GCB2-DRFD8 Windows 7 Home Basic Retail
+VRDH4-HKYT2-BD9YM-2H8K2-MFTKP Windows 7 Home Basic OEM COA
+BBR6J-XPXCX-9VWXV-V8DY3-VHCCV Windows 7 Home Basic OEM SLP
+VRTWM-9WMDC-Q4YJ6-XBHB8-XRFWM Windows 7 Home Basic OEM NONSLP
+PVWMY-TJ7FH-Q6G8Y-JXW9F-V8RR7 Windows 7 Home Premium Retail
+MR7K4-VTCCQ-GHWTF-QMB84-2K9XY Windows 7 Home Premium OEM COA
+27GBM-Y4QQC-JKHXW-D9W83-FJQKD Windows 7 Home Premium OEM SLP
+YDVGD-TTRVQ-YV3CV-WP93Y-MK63P Windows 7 Home Premium OEM NONSLP
+32BJG-26HVK-THG3B-TDXCM-4CRT7 Windows 7 Professional Retail
+D4PT3-WWW8X-WXK23-F2MKP-G3M8Q Windows 7 Professional OEM COA
+74TQ3-CR34Y-CKKKQ-BR97X-8KWJ3 Windows 7 Professional OEM SLP
+XCW64-V7JBW-TBRKH-BGV2C-JPR2J Windows 7 Professional OEM NONSLP
+FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4 Windows 7 Professional Volume GVLK
+YKFRY-HJ63B-KYR9H-X7CJK-7D93K Windows 7 Professional Volume MAK
+VVG3Y-YD934-3HHJY-93XXJ-PC2FX Windows 7 Ultimate Retail
+Q44FT-DC3FR-PXB7H-63YY7-KR8RD Windows 7 Ultimate OEM COA
+FJGCP-4DFJD-GJY49-VJBQ7-HYRR2 Windows 7 Ultimate OEM SLP
+BMB34-PMB4B-3DBVK-BVYTT-JXXQQ Windows 7 Ultimate OEM NONSLP
+H7X92-3VPBB-Q799D-Y6JJ3-86WC6 Windows 7 Enterprise Retail
+BR3CT-Y7YH7-VCCVP-688R9-DYP96 Windows 7 Enterprise Volume GVLK
+MTYRG-BJ8XQ-8827Q-893PW-KW226 Windows 7 Enterprise Volume MAK
+GC8HD-8F49P-QVPTQ-FYDK4-VG3BH Windows 7 All Volume CSVLK
+MGBJF-PPY7X-FRWHK-2P9GQ-8YGWY Windows 7 Embedded Standard 2011 Runtime OEM
+7XT84-3XQFP-YMXQF-PP96H-F74DV Windows 7 Embedded Standard 2011 Toolkit OEM
+WY7TH-QDRM4-MWTBQ-32HMR-B33WH Windows 7 Embedded POSReady 2011 OEM
+73KQT-CD9G6-K7TQG-66MRP-CQ22C Windows 7 Embedded ThinPC 2011 Volume
+-------------------- Windows Server 2008 R2 ------------------------------------------
+36RXV-4Y4PJ-B7DWH-XY4VW-KQXDQ Windows Server 2008 R2 Essentials Retail
+YGTGP-9XH8D-8BVGY-BVK4V-3CPRF Windows Server 2008 R2 Web Retail
+37PHV-V77Q8-KY9KT-8JWF7-J8FQD Windows Server 2008 R2 Web Volume MAK
+6TPJF-RBVHG-WBW2R-86QPH-6RTM4 Windows Server 2008 R2 Web Volume GVLK
+HMG6P-C7VGP-47GJ9-TWBD4-2YYCD Windows Server 2008 R2 Standard Retail
+X9V3R-QHWR2-YQXVD-Q667F-YKYRV Windows Server 2008 R2 Standard Volume MAK
+YC6KT-GKW9T-YTKYR-T4X34-R7VHC Windows Server 2008 R2 Standard Volume GVLK
+7P8GH-FV2FF-8FDCR-YK49D-D7P97 Windows Server 2008 R2 Enterprise Retail
+GF4Q4-RWRCH-8GQ2B-J37D8-HFXK6 Windows Server 2008 R2 Enterprise Volume MAK
+489J6-VHDMP-X63PK-3K798-CPX3Y Windows Server 2008 R2 Enterprise Volume GVLK
+7X29B-RDCR7-J6R29-K27FF-H9CR9 Windows Server 2008 R2 Datacenter Retail
+PXFPB-PF9TH-F4HDG-RJHGM-GW6TY Windows Server 2008 R2 Datacenter Volume MAK
+74YFP-3QFB3-KQT8W-PMXWJ-7M648 Windows Server 2008 R2 Datacenter Volume GVLK
+CTPQ9-JMY4K-6DR2G-Q632M-T4962 Windows Server 2008 R2 Std/Ent CSVLK
+HVD4R-RR4W2-XHH9V-HW6M8-R2PKY Windows Server 2008 R2 Web/CC CSVLK
+XHK8T-79GQ6-KT6DR-7QMWJ-QBYJQ Windows Server 2008 R2 Dtc/IA CSVLK
+TT8MH-CG224-D3D7Q-498W2-9QCTX Windows Server 2008 R2 Compute Cluster Server Volume GVLK
+RBY6X-FDBHT-P86CY-MVFV8-4W43X Windows Small Business Server 2008 R2 Retail
+YT76W-VD3W9-QDCK4-9QFPX-WQY4J Windows Small Business Server 2008 R2 Standard Retail
+BXQQP-Q6Q6D-TR7TR-3YXQW-VFHKM Windows Small Business Server 2008 R2 Premium Retail
+YJXJC-Q227R-YBMG7-7VF8K-H24QY Windows Essentials Management Server Retail
+VKP7D-84WCR-YHGQP-TXT76-6283H Windows Essentials Additional Server Retail
+FD499-FD79G-V9D2W-F9WQ6-MD2VC Windows Server Medium Business Management Retail
+YVYC7-KVQ8G-XF6K4-9MG8M-QXFC2 Windows Server Medium Business Messaging Retail
+YQ3V7-79DM4-42PVW-BYRH8-69VXK Windows Server Medium Business Security Retail
+Q7PRR-M2WBM-RJJ99-FG393-MGY3B Windows Compute Cluster Server Retail
+-------------------- Windows 8 ---------------------------------------------------------
+KNG8G-4XD6X-2KCBB-R4FDG-P7F9Q Windows 8 Retail
+9NXDK-MRY98-2VJV8-H3BJF-R3G7T Windows 8 OEM DM
+N8QY4-RGFKY-33D46-HC6RB-QJXVV Windows 8 OEM NONSLP
+NWCHX-TCW3J-4F2V3-KRVB9-QV3QF Windows 8 Volume GVLK
+84NKV-WM3J2-QGRJD-D2WWP-BR9T7 Windows 8 Pro Retail
+Y3XPN-P7PC4-MGPTK-P98QM-DPBRC Windows 8 Pro OEM DM
+NQPXP-WVB87-H3MMD-C2B9D-FM2MQ Windows 8 Pro OEM NONSLP
+FN22C-W33VB-XM8HM-P32XK-8QG68 Windows 8 Pro with Windows Media Center Retail
+2WQNF-GBK4B-XVG6F-BBMX7-M4DQG Windows 8 Pro with Windows Media Center Volume GVLK
+WB4H2-WNDY2-6XGDC-3MGBC-V8MQP Windows 8 Pro Volume MAK
+9W8N6-DK69Q-QCDDB-VTF9H-KHF94 Windows 8 Pro Volume GVLK
+WB4H2-WNDY2-6XGDC-3MGBC-V8MQP Windows 8 Enterprise Volume MAK
+DNJYG-CM8W6-4W3TX-VCK67-RF9VH Windows 8 Enterprise Volume GVLK
+WHK4N-YQGHB-XWXCC-G3HYC-6JDF3 Windows 8 Embedded Standard Runtime Retail
+KNBVD-D87M7-H43T8-MP7W8-Q672M Windows 8 Embedded Standard Runtime OEM NONSLP
+V8YQB-NK79D-3XXDR-HVDQV-M4FCQ Windows 8 Embedded Standard Runtime OEM DM
+D9XDH-78JX9-2KJG8-K7CY9-KF2Q3 Windows 8 Embedded Standard Toolkit Volume
+3HN43-HRCBR-RQ2Y7-GP6MB-39JXK Windows 8 Embedded Industry Pro Retail
+N3H9H-RW7B9-388G3-4CWFF-K4QGY Windows 8 Embedded Industry Pro OEM NONSLP
+VKJ38-7NG2X-83DH2-CFW3P-8W9T2 Windows 8 Embedded Industry Pro OEM DM
+CNVF2-JYBX3-72YYK-DYW9W-JFFDG Windows 8 Embedded Industry Pro Volume MAK
+NBVFM-DBYRK-QP4PJ-K3TX8-QC8XY Windows 8 Embedded Industry Pro Volume GVLK
+3N7HP-J73H8-KMJVX-M4MBG-HFQHG Windows 8 Embedded Industry Enterprise Retail
+QJ8Y6-XTNFG-73CM4-RC6HH-M4FDV Windows 8 Embedded Industry Enterprise Volume MAK
+XYNTG-R96FY-369HX-YFPHY-F89VP Windows 8 Embedded Industry Enterprise Volume GVLK
+------------------- Windows Server 2012 -------------------------------------------------
+XHG2W-7YNM9-4QK6J-DY44C-RVRGW Windows Server 2012 Standard Retail
+2WFGX-YXN3B-BT46K-32CXQ-B96DB Windows Server 2012 Standard OEM SLP
+RVWR2-PDNVW-JB8WQ-HHC3P-YKH62 Windows Server 2012 Standard OEM NONSLP
+YFDKD-J4N46-G3YFX-YB7YJ-CPKXQ Windows Server 2012 Standard Volume MAK
+JDTNC-PP77T-T9H2W-G4J2J-VH3KR Windows Server 2012 Standard Volume GVLK
+RFNBP-FDD7Q-6FHYQ-9M9Y7-MBFG9 Windows Server 2012 Datacenter Retail
+G74W9-3NYGH-9FY9Y-C9TWD-GFYT7 Windows Server 2012 Datacenter OEM SLP
+6QHXN-KP87G-7V33B-66HGX-8QG9W Windows Server 2012 Datacenter OEM NONSLP
+WWDCN-C3XGV-WVF9H-WDWX6-6FYVB Windows Server 2012 Datacenter Volume MAK
+KBDYM-RPNKM-KKHCH-TQYHW-6MQK2 Windows Server 2012 Datacenter Volume GVLK
+NRR8C-3WP7T-DV9DV-B3QYG-HFPQT Windows Server 2012 Foundation Retail
+2P7VH-NGJJ2-6V27F-J3QXR-MWMVD Windows Server 2012 Foundation OEM SLP
+R3JNT-8PBDP-MTWCK-VD2V8-HMFHF Windows Server 2012 Foundation OEM NONSLP
+9MF9G-CN32B-HV7XX-M49WY-X4PQ8 Windows Server 2012 Essentials Retail
+BN4XJ-R9DYY-96W48-YK8YC-V8MVT Windows Server 2012 Essentials OEM SLP
+39CJR-6NJ8T-3KQVR-JDQCQ-H2W37 Windows Server 2012 Essentials OEM NONSLP
+NRYKG-RJXPJ-WCHVW-74JF8-J8CQ9 Windows Server 2012 Essentials Volume MAK
+3CF2B-RNFRY-M9DH9-6TGTT-H8PJ7 Windows Server 2012 Essentials Volume GVLK
+T8YBN-4YV3X-KK24Q-QXBD7-T274W Windows Server 2012 MultiPoint Standard Volume GVLK
+QVWDT-2N3PD-32CKP-RDBYY-K73JP Windows Server 2012 MultiPoint Standard Volume MAK
+MRQNT-QG7JT-3C222-6QQ86-MKH4X Windows Server 2012 MultiPoint Standard Retail
+NJBTY-8KVGP-3R7H7-VR4KJ-W4YRT Windows Server 2012 MultiPoint Standard OEM SLP
+CC6JP-VN67C-8KCJ4-4V48V-HXH4V Windows Server 2012 MultiPoint Standard OEM NONSLP
+NT3V6-XMBK7-Q66MF-VMKR4-FCW2G Windows Server 2012 MultiPoint Premium Volume GVLK
+8QJPY-YNXJF-6HVMD-RC8Q8-6MQJX Windows Server 2012 MultiPoint Premium Volume MAK
+6QNPD-VV372-HC9H8-3QX72-HH3JV Windows Server 2012 MultiPoint Premium Retail
+VHF9H-NXBBB-63VJD-4GPVK-RM2PD Windows Server 2012 MultiPoint Premium OEM SLP
+3CF2B-RNFRY-M9DH9-672FR-R3G8R Windows Server 2012 MultiPoint Premium OEM NONSLP
+YYHXG-KTNKF-XGRT7-KB893-RJMTJ Windows Server 2012 Storage Server Standard Retail
+RN3QB-GT6D7-YB3VH-F3RPB-3GJ2T Windows Server 2012 Storage Server Standard OEM SLP
+3TB3F-C4NG6-P7GF3-KX3GH-X73J7 Windows Server 2012 Storage Server Standard OEM NONSLP
+97NWH-3QFHM-KBDBW-T2KGY-RCW2X Windows Server 2012 Storage Server Standard Volume MAK
+YQNBX-JY3D3-Y3CDB-G9XBR-K4PP4 Windows Server 2012 Storage Server Workgroup Retail
+MX4NX-D7D3K-HVBG4-2C39C-W2KXC Windows Server 2012 Storage Server Workgroup OEM SLP
+QXY8H-99ND2-6YWJ9-2FXCT-WW823 Windows Server 2012 Storage Server Workgroup OEM NONSLP
+HN27K-JHJ8R-7T7KK-WJYC3-FM2P6 Windows Server 2012 Storage Server Workgroup Volume MAK
+PVGXB-C2TPT-Y3PBJ-VGBTD-K6PQW Windows Server 2012 Volume CSVLK
+------------------- Windows 8.1 ---------------------------------------------------------
+4YV2J-VNG7W-YGTP4-4XK8Q-C36TG Windows 8.1 Retail
+KPFN6-JFTK7-7JD9J-24KXC-DC9F3 Windows 8.1 OEM DM
+KJ3DB-VNXVJ-GJG94-RX4RF-K4Q2H Windows 8.1 OEM NONSLP
+JDTNC-PP77T-T9H2W-G4J2J-VH4XK Windows 8.1 Volume GVLK
+NC44D-83J7Y-3YYW7-C73HD-2WD2Y Windows 8.1 Pro Retail
+NJ3CF-2BRFR-YM9DJ-C6FKM-2PPBC Windows 8.1 Pro OEM DM
+N64J4-HDC73-RTYYB-QKR73-JTXGD Windows 8.1 Pro OEM NONSLP
+9NXDK-MRY98-2VJV8-GF73J-TQ6T9 Windows 8.1 Pro Volume GVLK
+NXK7Q-M4HGY-FQW4P-XHYWY-PR27D Windows 8.1 Pro Volume MAK
+3TB3F-C4NG6-P7GF3-KX3GH-X74X2 Windows 8.1 Pro with Windows Media Center Volume GVLK
+RFNBP-FDD7Q-6FHYQ-9M9Y7-MBGTR Windows 8.1 Pro with Windows Media Center Retail
+Y3R8F-2NVCK-BYHBP-DM89K-8QJKV Windows 8.1 Enterprise Volume GVLK
+NXK7Q-M4HGY-FQW4P-XHYWY-PR27D Windows 8.1 Enterprise Volume MAK
+334XN-CK7RJ-WMMWH-7TXG6-YG8MH Windows 8.1 Embedded Industry Pro Retail
+NJ3CF-2BRFR-YM9DQ-BKK26-TJF8V Windows 8.1 Embedded Industry Pro OEM DM
+J796X-HNGV2-HKYCX-JRRBT-PDJMJ Windows 8.1 Embedded Industry Pro OEM NONSLP
+N3W2Q-69MBT-27RD9-BH8V3-JTXH9 Windows 8.1 Embedded Industry Pro Volume MAK
+27NCT-6DWB8-TTG3Y-9HR7P-6JD4M Windows 8.1 Embedded Industry Pro Volume GVLK
+KVPRY-NX74G-CHG8P-Q68YX-4JP8H Windows 8.1 Embedded Industry Enterprise Retail
+Y6W26-92N38-DX299-MMGGQ-PYRY8 Windows 8.1 Embedded Industry Enterprise Volume MAK
+VN3WH-49MTM-8G2XG-MJP4Q-9D6WK Windows 8.1 Embedded Industry Enterprise Volume GVLK
+J8FKN-7PBWH-T46VT-7FG4W-78P8P Windows 8.1 Embedded Industry Automotive OEM DM
+CJNTK-WV3P7-B3Y22-FRR3C-3YGWM Windows 8.1 Embedded Industry Automotive OEM NONSLP
+VV8GW-N9Q9V-42DGK-BM298-QC9JV Windows 8.1 Embedded Industry Automotive Volume MAK
+84BXD-CNDHY-4GDJJ-X63JW-VH42J Windows 8.1 Embedded Industry Automotive Volume GVLK
+263WK-3N797-7R437-28BKG-3V428 Windows 8.1 with Bing Retail
+JNDXT-XV28B-6RQHR-4RBTP-DC9KF Windows 8.1 with Bing OEM DM
+K6B7N-M3GCC-8GG69-QDC8G-J2PC7 Windows 8.1 with Bing OEM NONSLP
+NWCHX-TCW3J-4F2V3-KRVB9-QV429 Windows 8.1 with Bing Volume GVLK
+2NWVW-QGF4T-9CPMB-WYDQ9-7XKKX Windows 8.1 Pro Academic Retail
+H22N6-BCQ79-WBY4P-9W8JX-WTXKT Windows 8.1 Pro Academic OEM DM
+TX7F7-QRNTH-D6VM8-63FDJ-TQ6XW Windows 8.1 Pro Academic OEM NONSLP
+HRNH7-WFBYW-BV7M2-XCT6H-X743M Windows 8.1 Pro Academic Volume GVLK
+------------------- Windows Server 2012 R2 ----------------------------------------------
+CC92N-X2Y7W-H4H32-QHV2X-3RQY8 Windows Server 2012 R2 Essentials Retail
+4QC36-NW3YH-D2Y9D-RJPC7-VT8JD Windows Server 2012 R2 Essentials OEM SLP
+N2TQ3-Y79C7-7C6MQ-MY7H7-QPC4T Windows Server 2012 R2 Essentials OEM NONSLP
+RBRFX-MQNDJ-4XFHF-7QVDR-JHTR2 Windows Server 2012 R2 Essentials VT:IA
+KNVYQ-G9V6G-YHV8G-6823R-368JK Windows Server 2012 R2 Essentials Volume MAK
+4NW26-CWYHB-HHMP9-4GB7Q-DV4WM Windows Server 2012 R2 Essentials Volume GVLK
+XFNM6-P9FYP-MRF6P-MM6V2-27HJM Windows Server 2012 R2 Standard Retail
+GVCPW-QNHG2-BHGCR-64GFR-HQVJQ Windows Server 2012 R2 Standard OEM SLP
+KG3N2-VRJ6F-P36TD-6MMCF-PPM46 Windows Server 2012 R2 Standard OEM NONSLP
+2K32N-R8CVD-3WG7V-B4HQM-7MGP7 Windows Server 2012 R2 Standard VT:IA
+MJ3RH-G9N22-XWDJ6-JV734-F6XCJ Windows Server 2012 R2 Standard Volume MAK
+7N9YK-DPXWB-QK6QF-G6K3R-JHTPK Windows Server 2012 R2 Standard Volume GVLK
+WFGN9-9F9RP-VXDCQ-84BQ9-M97JY Windows Server 2012 R2 Datacenter Retail
+FT7VF-XBN92-HPDJV-RHMBY-6VHJ3 Windows Server 2012 R2 Datacenter OEM SLP
+KRNQF-HVVDC-J26QY-4VRJX-66K86 Windows Server 2012 R2 Datacenter OEM NONSLP
+DT7F8-9NY4H-3CG9T-YKH2C-BTB6W Windows Server 2012 R2 Datacenter VT:IA
+MVP67-KNH9X-TVDHQ-H4CBK-XKWGJ Windows Server 2012 R2 Datacenter Volume MAK
+N896F-VG44B-HF8HC-WQF7H-XD6PX Windows Server 2012 R2 Datacenter Volume GVLK
+WWNHT-K8RHC-8CMRF-BWK74-K4QXG Windows Server 2012 R2 Foundation Retail
+PV2NG-WJJHF-W7MTJ-JBW8G-VCC2Y Windows Server 2012 R2 Foundation OEM SLP
+PGYBY-WFNGW-B8QWJ-4T37M-TXWGQ Windows Server 2012 R2 Foundation OEM NONSLP
+NGVR4-M72JH-822VG-Y3PT3-4899K Windows Server 2012 R2 CloudStorage Retail
+D2NVH-F9WMB-6T6QQ-BG7TV-VT8GY Windows Server 2012 R2 CloudStorage OEM SLP
+HRDQN-K9GYC-2CY66-BP4CF-FCX9P Windows Server 2012 R2 CloudStorage OEM NONSLP
+WB4H2-WNDY2-6XGDC-RTKXX-6CM63 Windows Server 2012 R2 CloudStorage Volume GVLK
+TNYKV-X79V3-CPD6X-Y2MRW-D9KFG Windows Storage Server Standard Retail
+T8YBN-4YV3X-KK24Q-QXBD7-T29FD Windows Storage Server Standard OEM SLP
+39NMH-BF89V-PK4VH-W3VHJ-YPYBR Windows Storage Server Standard OEM NONSLP
+GXGHK-YPN8M-DG2CD-D3PMV-YY3Y2 Windows Storage Server Workgroup Retail
+9MNQ7-YPQ3B-6WJXM-G83T3-B97MX Windows Storage Server Workgroup OEM SLP
+BN4XJ-R9DYY-96W48-YK8DM-MY3YY Windows Storage Server Workgroup OEM NONSLP
+GQ6XT-3B7FC-DRX72-V3JY8-2R6FK Windows Server 2012 R2 Volume CSVLK
+------------------- Windows 10 ----------------------------------------------------------
+G2N2Q-4QD2T-DY4TP-GY489-3RR7H Windows 10 Home Retail
+BNXJF-4J7G8-TPMM6-V227B-7MHX3 Windows 10 Home OEM DM
+DMXTN-TRKK9-WDFBM-GM4J6-C9XQT Windows 10 Home OEM NONSLP
+RX63Y-4NFK2-XTYC8-C6B3W-YP2HK Windows 10 Home Volume GVLK
+VKJ38-7NG2X-83DH2-CFW3P-8XCJB Windows 10 Education Retail
+3HN43-HRCBR-RQ2Y7-GP6MB-39MMW Windows 10 Education OEM DM
+THFWN-B9X4V-PQX9D-BJKHX-XKXRK Windows 10 Education OEM NONSLP
+N3H9H-RW7B9-388G3-4CWFF-K4R8C Windows 10 Education Volume GVLK
+RNB7V-P48F4-3FYY6-3969X-6CQFQ Windows 10 Education Volume MAK
+7MFGN-34DMC-J8FCR-V3Q43-WQKTT Windows 10 Pro Retail
+2N9K4-4TW4C-798JG-46Q7W-6MT6P Windows 10 Pro OEM DM
+BC47G-N8TYW-Q9F94-BX2W7-PWF9F Windows 10 Pro OEM NONSLP
+4Y2GN-T2B8D-9YY7Y-QRTKQ-B98XK Windows 10 Pro Volume GVLK
+F7X3T-9RN9J-GKXG2-2G22J-J8F9M Windows 10 Pro Volume MAK
+N4MH7-XYH9W-X3T9K-QWXRB-F9DFY Windows 10 Pro Education Retail
+NDM8R-B39PB-HDTBF-PYJ7C-FX9RM Windows 10 Pro Education OEM DM
+JGRP6-TNJWX-KQWHJ-6D3FJ-RX9RP Windows 10 Pro Education OEM NONSLP
+HN8JP-87TQJ-PBF3P-Y66KC-W2RBM Windows 10 Pro Education Volume GVLK
+RPM6J-N62DM-DC6XH-2JXMG-238V3 Windows 10 Pro Education Volume MAK
+N6W7Y-TP6QB-BCQG8-G27BG-RRH77 Windows 10 Pro Workstation Retail
+YYPDQ-NRMKX-8YYB3-6P23H-RGFH4 Windows 10 Pro Workstation OEM DM
+P6CX3-BN6QB-649RB-98JVR-846FG Windows 10 Pro Workstation OEM NONSLP
+QHND4-XY9QW-Q37PB-QQDWK-9HKYW Windows 10 Pro Workstation Volume GVLK
+8MKNC-HWJVC-C3G6P-4M8P9-YDXYX Windows 10 Pro Workstation Volume MAK
+2HM9J-MGN3R-CWJ8K-V9MGP-MP2JM Windows 10 Enterprise OEM DM
+NBVFM-DBYRK-QP4PJ-K3TX8-QDBPC Windows 10 Enterprise OEM NONSLP
+T3NQP-PGGKP-FMX6H-8YVYY-WHV2D Windows 10 Enterprise Volume GVLK
+G4Y4J-NTRQW-7GGBC-64MW8-GVJWR Windows 10 Enterprise Volume MAK
+DJH3J-7QNVK-7DHB8-2DDRT-VCG73 Windows 10 IoT Enterprise OEM DM
+HNBM6-RTM9P-9X4Q9-F79GT-H8T74 Windows 10 IoT Enterprise OEM NONSLP
+NJ3CF-2BRFR-YM9DQ-BKK26-TJF8V Windows 10 Enterprise LTSC 2015 OEM DM
+G46NJ-TYKRF-GYMR9-QYCGD-H22JW Windows 10 Enterprise LTSC 2015 OEM NONSLP
+DQ3MH-N2TCW-YCX98-QMBR8-VH649 Windows 10 Enterprise LTSC 2015 Volume GVLK
+JJWHV-3RNMJ-PQFG7-DC9MM-88F8Y Windows 10 Enterprise LTSC 2015 Volume MAK
+NJ3CF-2BRFR-YM9DQ-BKK26-TJF8V Windows 10 Enterprise LTSC 2016 OEM DM
+R8XNX-XCHWF-496TP-XY74H-YY649 Windows 10 Enterprise LTSC 2016 OEM NONSLP
+W3RFN-3Q6YM-DBQQK-TT3MB-JK9Q8 Windows 10 Enterprise LTSC 2016 Volume GVLK
+D736N-WR94K-BR8PW-TFK83-TCRCD Windows 10 Enterprise LTSC 2016 Volume MAK
+R29WQ-CMNCM-2THCT-K4H92-FYBJK Windows 10 Enterprise LTSC 2019 OEM DM
+C4TGN-QQW6Y-FYKXC-6WJW7-X78RY Windows 10 Enterprise LTSC 2019 OEM NONSLP
+N42BF-CBY9F-W2C7R-X397X-DYKPD Windows 10 Enterprise LTSC 2019 Volume GVLK
+G8NDV-TDMHJ-WGC9R-KKBGK-H6F42 Windows 10 Enterprise LTSC 2019 Volume MAK
+N42BF-CBY9F-W2C7R-X397X-DYKPD Windows 10 Enterprise LTSC 2021 Volume GVLK
+23X3W-NT2JJ-4TJ4K-R84DD-KK3CP Windows 10 Enterprise LTSC 2021 Volume MAK
+PDN6F-RXWR9-V9JWR-37CJR-FC4FG Windows 10 IoT Enterprise LTSC 2021 OEM DM
+79TN4-6H4VT-D4X8H-WGV9M-2PTBV Windows 10 IoT Enterprise LTSC 2021 OEM NONSLP
+YMFDW-9CMG9-VBBQY-TGC9Q-2Q36M Windows 10 Volume CSVLK
+------------------- Windows Server 2016 -------------------------------------------------
+YKRP3-9CNKW-YH8W2-BVXTR-9W39J Windows Server 2016 Essentials Retail
+9GNC3-92HJJ-PFBGJ-DMWKQ-VXPGT Windows Server 2016 Essentials OEM SLP
+B7RFY-7NXPK-Q4342-Y9X2H-3J39D Windows Server 2016 Essentials OEM NONSLP
+G4VMB-MXNQD-VX9TG-HMVV7-GCQ9Q Windows Server 2016 Essentials VT:IA
+RB3ND-FYDFK-QXTG9-D3BYY-K77XM Windows Server 2016 Essentials Volume GVLK
+4WQ7V-NKBF9-WG9QG-V6VKH-B7WT2 Windows Server 2016 Essentials Volume MAK
+CNBBP-GXMGR-RK7KB-38DKX-6CQ9R Windows Server 2016 Standard Retail
+KDM9K-7NQCR-Y38T2-PCXH4-6Q8VJ Windows Server 2016 Standard OEM SLP
+R6NT4-74B6T-3BKT4-P2YWF-HQXQT Windows Server 2016 Standard OEM NONSLP
+J47B7-N896D-FMFDC-BTH4P-76FBD Windows Server 2016 Standard VT:IA
+RNWB7-R6WXF-GVTDF-CGKF2-J447M Windows Server 2016 Standard Volume GVLK
+2WFGX-YXN3B-BT46K-3Y7CY-KD8VP Windows Server 2016 Standard Volume MAK
+BQ2NV-6Q4YX-2P7P6-6R46W-7FT34 Windows Server 2016 Datacenter Retail
+CT633-NMMW3-J2KYR-7PFPP-GQ8VC Windows Server 2016 Datacenter OEM SLP
+N2Y47-PWGVY-MVD4T-RKCRG-723DK Windows Server 2016 Datacenter OEM NONSLP
+T3FQ6-6NTJM-TMJ6Q-2PDDR-TVKQJ Windows Server 2016 Datacenter VT:IA
+KKNCB-T7KWJ-4JV9W-Y9KCM-PR466 Windows Server 2016 Datacenter Volume GVLK
+CJM6N-MP8PM-2JTH4-T4289-H6D9V Windows Server 2016 Datacenter Volume MAK
+9MF9G-CN32B-HV7XT-9XJ8T-9KYJ8 Windows Server 2016 Storage Server Standard Retail
+X3XNB-HJB7K-66THH-8DWQ3-XHKPT Windows Server 2016 Storage Server Standard OEM SLP
+VPVC8-NKHR4-MH42G-73V3W-82Q87 Windows Server 2016 Storage Server Standard OEM NONSLP
+T3J8N-FBMJ6-46RMM-MB47W-CPQ9C Windows Server 2016 Storage Server Workgroup Retail
+KN8QX-WMB42-XGD6M-7M32R-4X9PX Windows Server 2016 Storage Server Workgroup OEM SLP
+33N9D-KR2R3-76VDF-TGM99-HCF6M Windows Server 2016 Storage Server Workgroup OEM NONSLP
+39CJR-6NJ8T-3KQVQ-PRCXC-W2Q83 Windows Server CloudStorage Retail
+J23HN-GY4DR-CMWDQ-3VBWK-QV7W2 Windows Server CloudStorage OEM SLP
+BMNW3-FGW9B-XQMQJ-WTWXT-P7KPM Windows Server CloudStorage OEM NONSLP
+NT889-MBH4X-8MD4H-X8R2D-WQMJ4 Windows Server CloudStorage Volume GVLK
+MCPV3-DJ6BC-P8B93-D83RK-7KBMG Windows Server 2016 Volume CSVLK
+------------------- Windows Server 2019 -------------------------------------------------
+2YNYQ-FQMVG-CB8KW-6XKYD-M7XTQ Windows Server 2019 Essentials Retail
+KPBM9-N9YKP-V28RK-MJ3RM-K78XK Windows Server 2019 Essentials OEM DM
+NJ8QJ-PYYXJ-F6HVM-DQYP4-9W49C Windows Server 2019 Essentials OEM SLP
+CJHPD-JNDM6-P3K27-8GBF6-2BBPY Windows Server 2019 Essentials OEM NONSLP
+8CN4D-4X6KX-TKPP2-Q4T9V-2R66W Windows Server 2019 Essentials VT:IA
+YYHXG-KTNKF-XGRT7-H299D-8MBP6 Windows Server 2019 Essentials Volume GVLK
+VNWHF-FKFBW-Q2RGD-HYHWF-R3PKH Windows Server 2019 Essentials Volume MAK
+HJN63-7Q4G4-VDW7X-TRMW8-GVMMD Windows Server 2019 Standard Retail
+3K4DY-NVP2W-H8DGV-42K3B-2PR7X Windows Server 2019 Standard OEM DM
+N92MW-K723D-FCBCQ-B363R-TVMMH Windows Server 2019 Standard OEM SLP
+D736N-WR94K-BR8PW-TFK83-TCR7R Windows Server 2019 Standard OEM NONSLP
+4TMCN-6B4QM-THQQW-K7MDD-VXQFF Windows Server 2019 Standard VT:IA
+NDM8R-B39PB-HDTBF-PYJ7C-FYBMP Windows Server 2019 Standard Volume GVLK
+Q8NXJ-QP7PY-MX9HM-634RV-6X2H3 Windows Server 2019 Standard Volume MAK
+RPM6J-N62DM-DC6XH-2JXMG-239RR Windows Server 2019 Datacenter Retail
+2YPRX-DNYTF-QBVK4-XK6C7-KHMM6 Windows Server 2019 Datacenter OEM DM
+HN8JP-87TQJ-PBF3P-Y66KC-W2R8C Windows Server 2019 Datacenter OEM SLP
+97Q3N-TJKG4-9R7TY-8CVPV-8HXRK Windows Server 2019 Datacenter OEM NONSLP
+H8DN8-Y2YP3-CR9JT-DHDR9-C7MMW Windows Server 2019 Datacenter VT:IA
+T6JJW-DYN99-WK46B-9MKKV-94VYT Windows Server 2019 Datacenter Volume GVLK
+2N382-D6PKK-QTX4D-2JJYK-PBBMV Windows Server 2019 Datacenter Volume MAK
+RB9JH-P4QQR-Q3JHM-3XCDF-QRDCC Windows Server 2019 Volume CSVLK
+----------------- Windows Server 2022 ---------------------------------------------------
+NH6FW-HXKYX-KBW36-D3YBY-6VM3M Windows Server 2022 Standard Retail
+2HM9J-MGN3R-CWJ8J-87MRW-D9QVP Windows Server 2022 Standard OEM DM
+BGDGN-GMVQ2-6Q7RJ-7JYXD-PYW94 Windows Server 2022 Standard OEM SLP
+C2DQG-63NDB-QYPXY-YRCCB-R63VC Windows Server 2022 Standard OEM NONSLP
+XWDQJ-NP9PC-C7CJJ-G6YQM-XBW99 Windows Server 2022 Standard VT:IA
+7N9YK-DPXWB-QK6QF-RPTCQ-3PHHJ Windows Server 2022 Standard Volume MAK
+DN44T-FPXDG-JBV77-646T3-VXQVH Windows Server 2022 Standard Volume GVLK
+X82GP-WWNMC-2KPYW-KTF6B-FGGM7 Windows Server 2022 Datacenter Retail
+XR9WN-VF3XP-97TJX-87RHJ-F3P2G Windows Server 2022 Datacenter OEM DM
+6H2CM-VN7M8-DWK4C-FWKGH-8HX7X Windows Server 2022 Datacenter OEM SLP
+W3KYT-KNBX4-3TH8Q-BR7Q7-T3DVV Windows Server 2022 Datacenter OEM NONSLP
+QKDGD-N4MF2-HJH62-C2WBK-7XQVT Windows Server 2022 Datacenter VT:IA
+NXYXX-3FYGH-DPF2V-J4FB3-Y4KBD Windows Server 2022 Datacenter Volume GVLK
+CT633-NMMW3-J2KYT-PDF38-6MXBF Windows Server 2022 Datacenter Volume MAK
+W8N92-2J8GW-697PK-H3YMQ-JT3WV Windows Server 2022 Volume CSVLK
+----------------- Windows 11 ------------------------------------------------------------
+G2N2Q-4QD2T-DY4TP-GY489-3RR7H Windows 11 Home Retail
+BNXJF-4J7G8-TPMM6-V227B-7MHX3 Windows 11 Home OEM DM
+DMXTN-TRKK9-WDFBM-GM4J6-C9XQT Windows 11 Home OEM NONSLP
+RX63Y-4NFK2-XTYC8-C6B3W-YP2HK Windows 11 Home Volume GVLK
+VKJ38-7NG2X-83DH2-CFW3P-8XCJB Windows 11 Education Retail
+3HN43-HRCBR-RQ2Y7-GP6MB-39MMW Windows 11 Education OEM DM
+THFWN-B9X4V-PQX9D-BJKHX-XKXRK Windows 11 Education OEM NONSLP
+N3H9H-RW7B9-388G3-4CWFF-K4R8C Windows 11 Education Volume GVLK
+RNB7V-P48F4-3FYY6-3969X-6CQFQ Windows 11 Education Volume MAK
+7MFGN-34DMC-J8FCR-V3Q43-WQKTT Windows 11 Pro Retail
+2N9K4-4TW4C-798JG-46Q7W-6MT6P Windows 11 Pro OEM DM
+BC47G-N8TYW-Q9F94-BX2W7-PWF9F Windows 11 Pro OEM NONSLP
+4Y2GN-T2B8D-9YY7Y-QRTKQ-B98XK Windows 11 Pro Volume GVLK
+F7X3T-9RN9J-GKXG2-2G22J-J8F9M Windows 11 Pro Volume MAK
+N4MH7-XYH9W-X3T9K-QWXRB-F9DFY Windows 11 Pro Education Retail
+NDM8R-B39PB-HDTBF-PYJ7C-FX9RM Windows 11 Pro Education OEM DM
+JGRP6-TNJWX-KQWHJ-6D3FJ-RX9RP Windows 11 Pro Education OEM NONSLP
+HN8JP-87TQJ-PBF3P-Y66KC-W2RBM Windows 11 Pro Education Volume GVLK
+RPM6J-N62DM-DC6XH-2JXMG-238V3 Windows 11 Pro Education Volume MAK
+N6W7Y-TP6QB-BCQG8-G27BG-RRH77 Windows 11 Pro Workstation Retail
+YYPDQ-NRMKX-8YYB3-6P23H-RGFH4 Windows 11 Pro Workstation OEM DM
+P6CX3-BN6QB-649RB-98JVR-846FG Windows 11 Pro Workstation OEM NONSLP
+QHND4-XY9QW-Q37PB-QQDWK-9HKYW Windows 11 Pro Workstation Volume GVLK
+8MKNC-HWJVC-C3G6P-4M8P9-YDXYX Windows 11 Pro Workstation Volume MAK
+2HM9J-MGN3R-CWJ8K-V9MGP-MP2JM Windows 11 Enterprise OEM DM
+NBVFM-DBYRK-QP4PJ-K3TX8-QDBPC Windows 11 Enterprise OEM NONSLP
+T3NQP-PGGKP-FMX6H-8YVYY-WHV2D Windows 11 Enterprise Volume GVLK
+G4Y4J-NTRQW-7GGBC-64MW8-GVJWR Windows 11 Enterprise Volume MAK
+DJH3J-7QNVK-7DHB8-2DDRT-VCG73 Windows 11 IoT Enterprise OEM DM
+HNBM6-RTM9P-9X4Q9-F79GT-H8T74 Windows 11 IoT Enterprise OEM NONSLP
+CVBNJ-BTGXJ-WHTGP-TB7GR-2KGC2 Windows 11 Enterprise LTSC 2024 Retail
+N42BF-CBY9F-W2C7R-X397X-DYKPD Windows 11 Enterprise LTSC 2024 Volume GVLK
+F4N47-MB9JX-2MRG8-X286Q-PYXW7 Windows 11 Enterprise LTSC 2024 Volume MAK
+WKKGF-TTN8F-QC9T2-6C2DC-3YMTR Windows 11 IoT Enterprise LTSC 2024 Retail
+8N7V6-V34B6-4YG2V-24G7B-XBXTR Windows 11 IoT Enterprise LTSC 2024 OEM DM
+PGYBY-WFNGW-B8QWM-FJ9CY-43QGQ Windows 11 IoT Enterprise LTSC 2024 OEM NONSLP
+JNRP3-B8G7V-4P9FY-BXM9B-B4KTT Windows 11 IoT Enterprise LTSC 2024 Volume GVLK
+B4G62-RWNXG-CMCMH-6MY2B-3GR9H Windows 11 IoT Enterprise LTSC 2024 Volume MAK
+----------------- Windows Server 2025 ---------------------------------------------------
+67DYQ-NBWWM-8R6X4-K936P-MP6DY Windows Server 2025 Standard Retail
+7N4KG-P2QDH-86V9C-DJFVF-37DK8 Windows Server 2025 Standard OEM SLP
+NFRHF-G6MKX-C8D3Y-CHMG7-94W3Q Windows Server 2025 Standard OEM DM
+9TYVN-D76HK-BVMWT-Y7G88-9TTDT Windows Server 2025 Standard OEM NONSLP
+Q8R4N-GJCPG-CF32R-JFCYR-K4W34 Windows Server 2025 Standard VT:IA
+NRKT9-C8GP2-XDYXQ-YW72K-MHDMC Windows Server 2025 Standard Volume GVLK
+4FN2K-Y6GRK-64DBK-2M2QW-F3QMD Windows Server 2025 Standard Volume MAK
+N7GCB-WQT7K-QRHWG-TTPYD-7VDKQ Windows Server 2025 Datacenter Retail
+7QPNR-3HFDG-YP6T9-JQCKQ-KK3KM Windows Server 2025 Datacenter OEM SLP
+7FN7V-MJY64-D9CDJ-76X7B-MY827 Windows Server 2025 Datacenter OEM DM
+NPYD8-46D94-K7JRX-2KK2T-C93KJ Windows Server 2025 Datacenter OEM NONSLP
+VB8NK-4DWT3-Y4RJ8-KH9FD-T6TDH Windows Server 2025 Datacenter VT:IA
+QPG96-CNT7M-KH36K-KY4HQ-M7YT4 Windows Server 2025 Datacenter Volume GVLK
+X3RT9-NDG64-VMK2M-KQ6XY-DPH66 Windows Server 2025 Datacenter Volume MAK
+DQW69-VYNCD-MVRTB-4YJY6-BP6DK Windows Server 2025 Volume CSVLK
+------------------------------------------------------------------------------------------
