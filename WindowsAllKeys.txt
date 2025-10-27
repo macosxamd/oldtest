@@ -279,6 +279,7 @@ NBVFM-DBYRK-QP4PJ-K3TX8-QC8XY Windows 8 Embedded Industry Pro Volume GVLK
 3N7HP-J73H8-KMJVX-M4MBG-HFQHG Windows 8 Embedded Industry Enterprise Retail
 QJ8Y6-XTNFG-73CM4-RC6HH-M4FDV Windows 8 Embedded Industry Enterprise Volume MAK
 XYNTG-R96FY-369HX-YFPHY-F89VP Windows 8 Embedded Industry Enterprise Volume GVLK
+BDK4G-M7RP4-VYGMF-B3MB4-K6DHX Windows 8 All Volume CSVLK
 ------------------- Windows Server 2012 -------------------------------------------------
 XHG2W-7YNM9-4QK6J-DY44C-RVRGW Windows Server 2012 Standard Retail
 2WFGX-YXN3B-BT46K-32CXQ-B96DB Windows Server 2012 Standard OEM SLP
@@ -354,6 +355,7 @@ NWCHX-TCW3J-4F2V3-KRVB9-QV429 Windows 8.1 with Bing Volume GVLK
 H22N6-BCQ79-WBY4P-9W8JX-WTXKT Windows 8.1 Pro Academic OEM DM
 TX7F7-QRNTH-D6VM8-63FDJ-TQ6XW Windows 8.1 Pro Academic OEM NONSLP
 HRNH7-WFBYW-BV7M2-XCT6H-X743M Windows 8.1 Pro Academic Volume GVLK
+D9MH2-MRG9G-GDRYV-T8R3G-6HBKQ Windows 8.1 All Volume CSVLK
 ------------------- Windows Server 2012 R2 ----------------------------------------------
 CC92N-X2Y7W-H4H32-QHV2X-3RQY8 Windows Server 2012 R2 Essentials Retail
 4QC36-NW3YH-D2Y9D-RJPC7-VT8JD Windows Server 2012 R2 Essentials OEM SLP
