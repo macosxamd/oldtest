@@ -1,0 +1,4 @@
+C: Office15_KMSHostVL_KMS_Host
+   (edition: KMSHostVolume, group: 206, type: Volume:CSVLK, act_id: {2E28138A-847F-42BC-9752-61B03FFF33CD})
+   [PKEY2005 detected: Displaying only IDs]
+

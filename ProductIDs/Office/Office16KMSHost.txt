@@ -1,0 +1,16 @@
+C: Office21_KMSHost2021VL_KMS_Host
+   (edition: KMSHost2021Volume, group: 206, type: Volume:CSVLK, act_id: {47F3B983-7C53-4D45-ABC6-BCD91E2DD90A})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Office19_KMSHost2019VL_KMS_Host
+   (edition: KMSHost2019Volume, group: 206, type: Volume:CSVLK, act_id: {70512334-47B4-44DB-A233-BE5EA33B914C})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Office16_KMSHostVL_KMS_Host
+   (edition: KMSHostVolume, group: 206, type: Volume:CSVLK, act_id: {98EBFE73-2084-4C97-932C-C0CD1643BEA7})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Office24_KMSHost2024VL_KMS_Host
+   (edition: KMSHost2024Volume, group: 206, type: Volume:CSVLK, act_id: {F3D89BBF-C0EC-47CE-A8FA-E5A5F97E447F})
+   [PKEY2005 detected: Displaying only IDs]
+

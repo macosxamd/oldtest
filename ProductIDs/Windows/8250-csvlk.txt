@@ -1,0 +1,28 @@
+C: WinNext Beta Prerelease;PrereleaseN;PrereleaseARM;Enterprise;EnterpriseN;Professional;ProfessionalN Volume:CSVLK
+   (edition: Prerelease;PrereleaseN;PrereleaseARM;Enterprise;EnterpriseN;Professional;ProfessionalN, group: 204, type: Volume:CSVLK, act_id: {a40c3047-54c3-4bf9-8f09-fb7146cfcb02})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win Next Edition Next Volume:CSVLK
+   (edition: Prerelease;PrereleaseN;PrereleaseARM;Enterprise;EnterpriseN;Professional;ProfessionalN, group: 206, type: Volume:CSVLK, act_id: {99cb2a2c-f7ee-48e9-98b0-ae72906c6d45})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: WinServer Next ServerDatacenter;ServerEnterprise;ServerStandard;ServerWeb;ServerHPC;ServerMultiPointStandard;ServerMultiPointPremium Volume:CSVLK
+   (edition: ServerDatacenter;ServerEnterprise;ServerStandard;ServerWeb;ServerHPC;ServerMultiPointStandard;ServerMultiPointPremium, group: 206, type: Volume:CSVLK, act_id: {c609957a-dc23-48b3-8c6b-31b303479de2})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 All Volume Editions Volume:CSVLK
+   (edition: Enterprise;EnterpriseN;Professional;ProfessionalN, group: 172, type: Volume:CSVLK, act_id: {d188820a-cb63-4bad-a9a2-40b843ee23b7})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 DC Volume:CSVLK (KMS_C)
+   (edition: ServerDatacenter;ServerEnterprise;ServerStandard;ServerWeb;ServerHPC, group: 168, type: Volume:CSVLK, act_id: {8fe15d04-fc66-40e6-bf34-942481e06fd8})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Std and Ent Volume:CSVLK (KMS_B)
+   (edition: ServerStandard;ServerEnterprise;ServerWeb;ServerHPC, group: 168, type: Volume:CSVLK, act_id: {c99b641f-c4ea-4e63-bec3-5ed2ccd0f357})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Web and CC Volume:CSVLK (KMS_A)
+   (edition: ServerWeb;ServerHPC, group: 168, type: Volume:CSVLK, act_id: {f73d1bcd-0802-47dd-b2d9-81bf2f8c0744})
+   [PKEY2005 detected: Displaying only IDs]
+

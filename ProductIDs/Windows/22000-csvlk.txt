@@ -1,0 +1,42 @@
+C: Windows Server 2021 RTM ServerDatacenter;ServerStandard Volume:CSVLK
+   (edition: ServerDatacenter;ServerStandard, group: 4573, type: Volume:CSVLK, act_id: {661f7658-7035-4b4c-9f35-010682943ec2})
+R:          0-     19999 [[Fe]X22-39505]: W8N92-2J8GW-697PK-H3YMQ-JT3WV
+R:      30000-  20029999 [[Fe]X22-39506]: JXXNP-RQWM4-9PCD6-TWDH4-WFKCH
+
+C: Windows Server 2021 RTM ServerDatacenter;ServerStandard Volume:CSVLK Azure Only
+   (edition: ServerDatacenter;ServerStandard, group: 4574, type: Volume:CSVLK, act_id: {e73aabfa-12bc-4705-b551-2dd076bebc7d})
+R:          0-     49999 [[Fe]X22-39520]: NGG2V-9VJJY-94GXB-RWCDF-7H9CJ
+
+C: Windows Server 2021 RTM ServerDatacenter;ServerStandard Volume:CSVLK VL Additional Lab
+   (edition: ServerDatacenter;ServerStandard, group: 4575, type: Volume:CSVLK, act_id: {22105925-48c3-4ff4-a294-f654bb27e390})
+R:          0-     49999 [[Fe]X22-39519]: GMYJ7-2N9Y8-T27WP-3G98F-3DDWX
+
+C: Win 10 RTM Enterprise;EnterpriseN;Professional;ProfessionalN;EnterpriseS;EnterpriseSN;Education;EducationN;ProfessionalWorkstation;ProfessionalWorkstationN Volume:CSVLK
+   (edition: Enterprise;EnterpriseN;Professional;ProfessionalN;EnterpriseS;EnterpriseSN;Education;EducationN;ProfessionalWorkstation;ProfessionalWorkstationN, group: 206, type: Volume:CSVLK, act_id: {0724cb7d-3437-4cb7-93cb-830375d0079d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 10 RTM Enterprise;EnterpriseN;Professional;ProfessionalN;EnterpriseS;EnterpriseSN;Education;EducationN;ProfessionalWorkstation;ProfessionalWorkstationN Volume:CSVLK VL Additional Lab
+   (edition: Enterprise;EnterpriseN;Professional;ProfessionalN;EnterpriseS;EnterpriseSN;Education;EducationN;ProfessionalWorkstation;ProfessionalWorkstationN, group: 206, type: Volume:CSVLK, act_id: {7a802526-4c94-4bd1-ba14-835a1aca2120})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 10 RTM Enterprise;EnterpriseN;Professional;ProfessionalN;EnterpriseS;EnterpriseSN;Education;EducationN;ProfessionalWorkstation;ProfessionalWorkstationN Volume:CSVLK
+   (edition: Enterprise;EnterpriseN;Professional;ProfessionalN;EnterpriseS;EnterpriseSN;Education;EducationN;ProfessionalWorkstation;ProfessionalWorkstationN, group: 206, type: Volume:CSVLK, act_id: {30a42c86-b7a0-4a34-8c90-ff177cb2acb7})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 10 RTM Enterprise;EnterpriseN;Professional;ProfessionalN;EnterpriseS;EnterpriseSN;Education;EducationN;ProfessionalWorkstation;ProfessionalWorkstationN Volume:CSVLK VL Additional Lab
+   (edition: Enterprise;EnterpriseN;Professional;ProfessionalN;EnterpriseS;EnterpriseSN;Education;EducationN;ProfessionalWorkstation;ProfessionalWorkstationN, group: 206, type: Volume:CSVLK, act_id: {d552befb-48cc-4327-8f39-47d2d94f987c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 10 RTM Enterprise;EnterpriseN;Professional;ProfessionalN;EnterpriseS;EnterpriseSN;Education;EducationN;ProfessionalWorkstation;ProfessionalWorkstationN Volume:CSVLK
+   (edition: Enterprise;EnterpriseN;Professional;ProfessionalN;EnterpriseS;EnterpriseSN;Education;EducationN;ProfessionalWorkstation;ProfessionalWorkstationN, group: 206, type: Volume:CSVLK, act_id: {90da7373-1c51-430b-bf26-c97e9c5cdc31})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 10 RTM Enterprise;EnterpriseN;Professional;ProfessionalN;EnterpriseS;EnterpriseSN;Education;EducationN;ProfessionalWorkstation;ProfessionalWorkstationN Volume:CSVLK VL Additional Lab
+   (edition: Enterprise;EnterpriseN;Professional;ProfessionalN;EnterpriseS;EnterpriseSN;Education;EducationN;ProfessionalWorkstation;ProfessionalWorkstationN, group: 206, type: Volume:CSVLK, act_id: {60b3ec1b-9545-4921-821f-311b129dd6f6})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 10 RTM EnterpriseG;EnterpriseGN Volume:CSVLK
+   (edition: EnterpriseG;EnterpriseGN, group: 3858, type: Volume:CSVLK, act_id: {ecc0774a-aed3-4e1a-b815-2b31781adfea})
+R:          0-  14999999 [[RS2]X21-24740]: HNBM6-RTM9P-9X4Q9-F79GT-H8TB3
+R:   15000000- 999999999 [[RS2]res-v3858]: NVK2G-2MY4G-7JX2Q-FC2TJ-GVKWD
+

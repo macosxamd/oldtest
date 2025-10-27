@@ -1,0 +1,1195 @@
+C: WinNext Beta Prerelease OEM:DM
+   (edition: Prerelease, group: 1066, type: OEM:DM, act_id: {18e7b54d-7cb7-462a-89b2-d48785d16cd9})
+R:    1000000- 899999999 [X17-53277]: 77JTN-6434M-2K8Q2-29FWD-9D26Q
+R:  910000000- 999999999 [X17-53277]: MRFV7-7HNHT-FCM3V-QM2VP-V8KGQ
+R:  900000000- 909999999 [X17-97221]: GXKYV-N6H86-PY7VW-WXTRJ-29RXD
+
+C: WinNext Beta Prerelease OEM:NONSLP
+   (edition: Prerelease, group: 1277, type: OEM:NONSLP, act_id: {9df5d2a8-ec6b-46bc-9e89-8bd7ea507daa})
+R:    1000000- 999999999 [X17-53278]: N8JKY-3R748-KJ6M2-GQ9W8-9TH3V
+
+C: WinNext Beta Prerelease Retail
+   (edition: Prerelease, group: 1278, type: Retail, act_id: {9d0bb49b-21a1-4354-9981-ec5dd9393961})
+R:  201000000- 299999999 [X17-53279]: NY38K-8HCD4-9G3TH-JD72K-MG498
+R:  302025000- 309999999 [X17-53279]: NFRHF-G6MKX-C8D37-CDQJV-R873W
+R:    1000000-  49999999 [X17-53306]: MGN8W-BJRCF-GW8KC-JKY37-BDRDW
+R:  300000000- 300999999 [X17-57466]: XHG2W-7YNM9-4QK6P-MDPKF-9WWX8
+R:  301000000- 301999999 [X17-57468]: KG3N2-VRJ6F-P36TK-44X3X-RMYQW
+R:  302000000- 302024999 [X17-90974]: MKCNP-2TX33-JWRJ6-R3H2R-VMDHJ
+R:  340000000- 499999999 [X17-53279]: TKJP3-NH6VG-RQG87-7GMTB-X4MQW
+R:  500000000- 500074999 [X17-90974]: YNK74-VQVPF-W3TD3-D963B-9Y9VJ
+R:  500075000- 599999999 [X17-53279]: NB77V-RPFQ6-PMMK3-4QWDK-KP67J
+R:  310000000- 339999999 [X17-93376]: 67JNF-YGQW7-JBCF8-CYV92-FX4DW
+R:  150000000- 200999999 [X17-53306]: XWDQJ-NP9PC-C7CJM-YPV9X-CDF98
+R:   50000000- 149999999 [X17-93377]: FDBTC-BNPJV-GRBM4-48CVP-V8KVJ
+R:  600200000- 999999999 [X17-53279]: 4NCWR-9V92Y-34VCF-PXBF8-4VQHJ
+R:  600000000- 600199999 [X17-90974]: GGKGH-CN3HG-CJXF2-V3P77-9BPK8
+
+C: WinNext Beta Prerelease Volume:GVLK
+   (edition: Prerelease, group: 1279, type: Volume:GVLK, act_id: {2b9c337f-7a1d-4271-90a3-c6855a2b8a1c})
+R:    1000000- 999999999 [X17-53280]: 992NC-RYK89-M9XBG-4DCB3-GFXVK
+
+C: WinNext Beta PrereleaseN Retail
+   (edition: PrereleaseN, group: 1280, type: Retail, act_id: {f3ff9372-a1f0-4f40-b015-79a1b44cd67c})
+R:    1000000- 999999999 [X17-53281]: R8XNX-XCHWF-496TP-YDQQG-8TT7M
+
+C: WinNext Beta PrereleaseARM OEM:DM
+   (edition: PrereleaseARM, group: 1067, type: OEM:DM, act_id: {0a16da1d-842d-4b37-8b32-27749f28ff25})
+R:    1000000- 999999999 [X17-53282]: PBVN6-THV26-GRVD9-8XW7H-M4B9F
+
+C: WinNext Beta PrereleaseARM OEM:NONSLP
+   (edition: PrereleaseARM, group: 1281, type: OEM:NONSLP, act_id: {7385fb78-9672-423d-b0b0-7107982aed6a})
+R:    1000000- 999999999 [X17-53283]: 3K4DY-NVP2W-H8DGV-6D6M9-9HFD2
+
+C: WinNext Beta PrereleaseARM Retail
+   (edition: PrereleaseARM, group: 1282, type: Retail, act_id: {9ceec7ed-2c25-4a5e-97a6-acea45ad42d3})
+R:    1000000- 999999999 [X17-53284]: H2Q7R-23N68-9BK4W-3Y9KP-3YDHQ
+
+C: WinNext Beta PrereleaseARM Volume:GVLK
+   (edition: PrereleaseARM, group: 1283, type: Volume:GVLK, act_id: {631ead72-a8ab-4df8-bbdf-372029989bdd})
+R:    1000000- 999999999 [X17-53285]: N92MW-K723D-FCBCQ-CGPPQ-3M9VR
+
+C: WinNext Beta EnterpriseEval Retail:TB:Eval
+   (edition: EnterpriseEval, group: 1284, type: Retail:TB:Eval, act_id: {a305c714-0c85-40ba-9c81-f14312305403})
+R:    1000000- 999999999 [X17-53286]: HJN63-7Q4G4-VDW7X-T67H7-QM9VT
+
+C: WinNext Beta EnterpriseNEval Retail:TB:Eval
+   (edition: EnterpriseNEval, group: 1285, type: Retail:TB:Eval, act_id: {82a078fa-d9e4-48d1-9274-b6fc3bf95bb9})
+R:    1000000- 999999999 [X17-53287]: D736N-WR94K-BR8PW-TT6V2-27FD7
+
+C: WinNext Beta Ultimate Retail
+   (edition: Ultimate, group: 1286, type: Retail, act_id: {3ef9a959-0ea4-4df1-b41d-1a86b39728f0})
+R:    1000000- 333333332 [X17-53288]: Q29HH-PN967-JGK3R-VJYKB-VQRD8
+R:  333333333- 666666665 [X17-53392]: 3NTRF-7VKJP-MP2XY-X8KRB-43GBJ
+R:  666666666- 999999999 [X17-53292]: XFHPN-F4KX7-B89M8-3K3VW-KY9VW
+
+C: WinNext Beta Professional Retail
+   (edition: Professional, group: 1287, type: Retail, act_id: {0eb6e7c2-e5ff-4161-acbe-aec0c135de97})
+R:  500000000- 999999999 [X17-53289]: 8WN8Q-7YT38-82G4M-CCCR2-VFMQ9
+R:    1000000- 499999999 [X17-53393]: N4MH7-XYH9W-X3T9K-RBGC9-P33HX
+
+C: Win Next HomePremium OEM:DM
+   (edition: HomePremium, group: 1034, type: OEM:DM, act_id: {d302d5ab-0e5e-4652-a0bb-7a776523e02a})
+R:    1000000-   1999999 [X17-36761]: HBC79-NGY8P-MXQRF-9BBHJ-QC6RD
+R:    3000000- 501499999 [X17-36761]: D2P2N-743KT-VBX8T-Q22WM-3GHMQ
+R:    2000000-   2999999 [X17-36762]: 4NQM2-M8Q2H-23C87-2M78C-D64V3
+R:  501500000- 999999999 [X17-36762]: 94KN8-4BDRG-7TMVQ-9FW9F-2J7MQ
+
+C: Win Next HomePremium OEM:SLP
+   (edition: HomePremium, group: 1035, type: OEM:SLP, act_id: {4b4c990f-31ee-46b7-929e-32389cb5bd00})
+R:    1000000- 999999999 [X17-36763]: DJTNY-4HDWM-TDWB2-84DYY-6VDYR
+
+C: Win Next HomePremium OEM:NONSLP
+   (edition: HomePremium, group: 1036, type: OEM:NONSLP, act_id: {9dae7ae3-db56-45cb-996a-f5632f49af3a})
+R:    1000000- 999999999 [X17-36764]: NM8WT-CFHB2-QBGXK-KMFRH-QM9FG
+
+C: Win Next HomePremium OEM:COA
+   (edition: HomePremium, group: 1037, type: OEM:COA, act_id: {232565cb-b3fe-4de6-87ee-3b529c86a5c2})
+R:    1000000- 999999999 [X17-36765]: 8F3RJ-N3HB3-J327Q-DTVBT-72VMV
+
+C: Win Next Professional OEM:DM
+   (edition: Professional, group: 1038, type: OEM:DM, act_id: {2d8f6823-fa9f-4d3f-bb16-05c475ca97cd})
+R:    1000000- 999999999 [X17-36767]: QBWHN-Y678K-X4QQB-2V2G7-G6HMW
+
+C: Win Next Professional OEM:SLP
+   (edition: Professional, group: 1039, type: OEM:SLP, act_id: {cfb20c87-074f-46c0-9beb-519ea4f17090})
+R:    1000000- 999999999 [X17-36768]: 77NQB-D9W47-B6D8X-MW7PH-R87MX
+
+C: Win Next Professional OEM:NONSLP
+   (edition: Professional, group: 1040, type: OEM:NONSLP, act_id: {4c64cf62-f2d1-4ee6-98a7-bfda0e01c4aa})
+R:    1000000- 999999999 [X17-36769]: N6QTV-42W8H-TWF26-DVHP6-H8KFM
+
+C: Win Next Professional OEM:COA
+   (edition: Professional, group: 1041, type: OEM:COA, act_id: {90f79657-e380-4bbf-a3ac-75a7f1558dcb})
+R:    1000000- 999999999 [X17-36770]: PXYVC-MNW8J-PMY98-72W9F-2J7M2
+
+C: Win Next Ultimate OEM:DM
+   (edition: Ultimate, group: 1062, type: OEM:DM, act_id: {f4259c9d-5ee7-4a0d-9754-af9627726dec})
+R:    1000000- 999999999 [X17-36810]: 9C4NT-BKGTD-9XJY3-JFF8G-4MYCW
+
+C: Win Next Ultimate OEM:SLP
+   (edition: Ultimate, group: 1063, type: OEM:SLP, act_id: {4ee8edae-3ca1-4bcf-996c-aebb400baafd})
+R:    1000000- 999999999 [X17-36811]: MBNVR-KWHVM-2FX49-F2TVV-T26TK
+
+C: Win Next Ultimate OEM:NONSLP
+   (edition: Ultimate, group: 1064, type: OEM:NONSLP, act_id: {ec38ef24-870f-474a-ab27-f231b5698197})
+R:    1000000- 999999999 [X17-36812]: 6NF7G-FXMYK-XXF4J-FMDGK-3RMCY
+
+C: Win Next Ultimate OEM:COA
+   (edition: Ultimate, group: 1065, type: OEM:COA, act_id: {a1425da5-4210-466b-af8a-1c9dbe926f0e})
+R:    1000000- 999999999 [X17-36813]: MXTYW-VQN2J-WTXHB-TF36P-MPVP2
+
+C: Win Next Enterprise Retail
+   (edition: Enterprise, group: 100027, type: Retail, act_id: {ab0b741e-0c08-4242-919b-dbde9e83ef04})
+R:    1000000- 999999999 [X17-36746]: BGNHX-QTPRJ-F9C9G-TK9CG-GXT3R
+
+C: Win Next Enterprise Retail:TB:Eval
+   (edition: Enterprise, group: 100028, type: Retail:TB:Eval, act_id: {23e88101-c1e3-42f8-b4ae-6e86254e310a})
+R:    1000000- 498999999 [X17-36747]: KN3CT-7X4K9-FY6PJ-4GFFF-WQG3T
+R:  500000000- 999999999 [X17-36747]: RYNF2-HD4M3-JVCDC-VWTHC-F88VG
+R:  499000000- 499999999 [X17-53639]: HN8JP-87TQJ-PBF32-88KTK-33R7G
+
+C: Win Next Enterprise Volume:MAK
+   (edition: Enterprise, group: 100029, type: Volume:MAK, act_id: {deecbcaa-3e3c-4e84-93f5-7f6e78ec6af3})
+R:    1000000- 999999999 [X17-36748]: 9F36R-PNVHH-3DXGQ-7QXMG-3C7X7
+
+C: Win Next Enterprise Volume:GVLK
+   (edition: Enterprise, group: 100030, type: Volume:GVLK, act_id: {cde952c7-2f96-4d9d-8f2b-2d349f64fc51})
+R:    1000000- 999999999 [X17-36749]: VHF9H-NXBBB-63VJD-4V8GJ-2RYK8
+
+C: Win Next HomePremium Retail
+   (edition: HomePremium, group: 100031, type: Retail, act_id: {2d257d22-73bf-4df7-8b82-d7248a116094})
+R:    1000000-   1999999 [X17-36750]: XWHN7-TV4PV-PPH3F-4786Q-P9T3X
+R:    3000000- 297999999 [X17-36750]: VKNV2-RG63Y-V3RHT-KXYHT-3C7X9
+R:  300000000- 501499999 [X17-36750]: JM6TV-GNTDP-376YV-732RD-4RDDX
+R:    2000000-   2999999 [X17-36751]: C7RT7-T9NV3-8FYD3-TY4J6-DJXQX
+R:  501500000- 999999999 [X17-36751]: QPNR8-MPG8M-8JF6Q-6CVWK-2GVX9
+R:  298000000- 298999999 [X17-53637]: WHGMQ-JNMGT-MDQVM-TPH2V-YG63X
+R:  299000000- 299999999 [X17-53638]: BJMNR-F3WG7-H8W89-YV8D7-BPWVK
+
+C: Win Next Professional Retail
+   (edition: Professional, group: 100032, type: Retail, act_id: {6f45efa9-4271-4ce8-b9e8-7c58fb98d847})
+R:    1000000- 999999999 [X17-36752]: HRNH7-WFBYW-BV7M2-XRCRG-8B2HM
+
+C: Win Next Professional Volume:MAK
+   (edition: Professional, group: 100033, type: Volume:MAK, act_id: {32abc017-5c25-4c88-acf5-137e4e5091bf})
+R:    1000000- 999999999 [X17-36753]: FDF9N-KGHKC-R9G6Y-XFB4C-HT632
+
+C: Win Next Professional Volume:GVLK
+   (edition: Professional, group: 100034, type: Volume:GVLK, act_id: {a4383e6b-dada-423d-a43d-f25678429676})
+R:    1000000- 999999999 [X17-36754]: Q8MK8-DNHMX-2XWHV-X66TM-CDG33
+
+C: Win Next Ultimate Retail
+   (edition: Ultimate, group: 100051, type: Retail, act_id: {e72830fb-0726-4f21-8fb3-ff8d7daddee0})
+R:    1000000- 497999999 [X17-36809]: JNDXT-XV28B-6RQHR-46VFM-MG64R
+R:  500000000- 999999999 [X17-36809]: TWNCJ-YR84W-X7PPT-DVPKW-T27Y4
+R:  498000000- 498999999 [X17-53640]: JNRP3-B8G7V-4P9GB-JKKVJ-9BQFR
+R:  499000000- 499999999 [X17-53641]: KN8QX-WMB42-XGD62-FQH82-92BM4
+
+C: Win Next Starter Retail
+   (edition: Starter, group: 100054, type: Retail, act_id: {23505d51-32d6-41f0-8ca7-e78ad0f16e71})
+R:    1000000- 999999999 [X17-37458]: 263WK-3N797-7R437-3KT8G-BY2JJ
+
+C: Win Next StarterN Retail
+   (edition: StarterN, group: 100055, type: Retail, act_id: {211b80cc-7f64-482c-89e9-4ba21ff827ad})
+R:    1000000- 999999999 [X17-48253]: NWCHX-TCW3J-4F2V3-K7CX8-YY2JK
+
+C: Win Next HomeBasic Retail
+   (edition: HomeBasic, group: 100056, type: Retail, act_id: {15ab1f94-ddf9-46e8-8ce3-a29ccebf320f})
+R:    1000000- 999999999 [X17-48254]: BJMNR-F3WG7-H8W83-3KGJJ-X73FY
+
+C: Win Next HomeBasicN Retail
+   (edition: HomeBasicN, group: 100057, type: Retail, act_id: {d54a0fcb-4c02-495c-b563-fc183646dd64})
+R:    1000000- 999999999 [X17-48255]: JXR8H-NJ3MK-X66W8-8KWHC-YWMPC
+
+C: Win Next HomePremiumN Retail
+   (edition: HomePremiumN, group: 100058, type: Retail, act_id: {fb4bae47-56e2-4168-ad77-c1c49816c3c9})
+R:    1000000- 999999999 [X17-48256]: 2P3C9-BQNJH-VCVPH-YTHRM-C7F8Q
+
+C: Win Next ProfessionalN Retail
+   (edition: ProfessionalN, group: 100059, type: Retail, act_id: {abee52ee-146b-4fd4-bb8d-14a8dd14b934})
+R:    1000000- 999999999 [X17-48257]: RNPX3-4GPFM-2DHXB-89XVP-CWCJR
+
+C: Win Next EnterpriseN Retail
+   (edition: EnterpriseN, group: 100060, type: Retail, act_id: {7d78d8d0-913e-4575-9a9c-e05d58f67a7a})
+R:    1000000- 999999999 [X17-48258]: Y9NF9-M2QWD-FF6RJ-QYFP4-2WCJT
+
+C: Win Next UltimateN Retail
+   (edition: UltimateN, group: 100061, type: Retail, act_id: {4922fb2a-9866-4d77-9fe6-3206ec449028})
+R:    1000000- 999999999 [X17-48259]: WWDCN-C3XGV-WVF9H-QMD2Y-CDG47
+
+C: Win Next ProfessionalN Volume:GVLK
+   (edition: ProfessionalN, group: 100062, type: Volume:GVLK, act_id: {64192251-81b0-4898-ac63-913cc3edf919})
+R:    1000000- 999999999 [X17-48260]: 9CYB3-NFMRW-YFDG6-XRQFD-J4YPJ
+
+C: Win Next EnterpriseN Volume:GVLK
+   (edition: EnterpriseN, group: 100063, type: Volume:GVLK, act_id: {c23947f3-3f2e-401f-a38c-f38fe0ecb0bd})
+R:    1000000- 999999999 [X17-48261]: NKX82-GPWWM-C2KPY-VG78C-FF9R9
+
+C: ProdKey3 Win 10005 DLA NQR Test Retail
+   (edition: Ultimate, group: 10005, type: Retail, act_id: {6ff2ebed-3f08-4f44-b9c1-39639e6f6ff5})
+R:    2000000-   2999999 [X17-09081]: CGJNB-XF2X2-XJ9JH-KXV94-JJCM7
+
+C: ProdKey3 Win 9984 DLA/Bypass NQR Test Volume:GVLK Vol Lic MLF
+   (edition: Enterprise, group: 9984, type: Volume:GVLK, act_id: {2a4403df-877f-4046-8271-db6fb6ec54c8})
+R:    3000000-   3999999 [X17-09098]: N896F-VG44B-HF8HC-XW23F-MW8YB
+R:    4000000-   4999999 [X17-09103]: JQ9MJ-QYN6B-67PX9-JJJCV-PWXVM
+
+C: ProdKey3 Win 10003 ProdAct 500 NQR Test Volume:MAK Vol Lic MLF
+   (edition: Enterprise, group: 10003, type: Volume:MAK, act_id: {d22353eb-58fc-42ee-bd45-7e29447ec5e2})
+R:    3000000-   3999999 [X17-09101]: 7CXNJ-M6YDX-2RKW4-DQJ22-DDTB4
+
+C: ProdKey3 Win 9985 DLA CCP NQR Test Retail WAU
+   (edition: Ultimate, group: 9985, type: Retail, act_id: {5dad982e-b500-44a2-bdcc-7ef678e2d375})
+R:    2000000-   2999999 [X17-09083]: MDYNK-B6QJ9-4FG4V-QDJPX-H6V32
+
+C: ProdKey3 Win 9976 DLA NQR Test Retail:TB:Eval
+   (edition: Ultimate, group: 9976, type: Retail:TB:Eval, act_id: {27819f71-d8fd-4d9a-a106-68c4fc3fabb6})
+R:    2000000-   2999899 [X17-09085]: 3NTRF-7VKJP-MP2XR-GQB4R-3DR9Y
+R:    2999900-   2999999 [X17-09085]: 9W8N6-DK69Q-QCDDB-WY24T-VCWXY
+
+C: ProdKey3 Win 10001 DLA NQR Test Retail:TB:Promo
+   (edition: Ultimate, group: 10001, type: Retail:TB:Promo, act_id: {3f0c91d2-f54a-4e3a-8b32-5ba7fa428158})
+R:    2000000-   2999999 [X17-09086]: 64NFK-88H7J-GBTGD-2RMYK-7X6B2
+
+C: ProdKey3 Win 10002 DLA NQR Test Retail:TB:Sub
+   (edition: Ultimate, group: 10002, type: Retail:TB:Sub, act_id: {9ae077fe-38bb-4431-a5ad-e99333999fcd})
+R:    2000000-   2999999 [X17-09089]: NQB7G-HGV9M-J44P4-9J2QC-TPBRQ
+
+C: ProdKey3 Win 10006 DLA NQR Test Retail:TB:Trial
+   (edition: Ultimate, group: 10006, type: Retail:TB:Trial, act_id: {2b66b555-4c8a-4a2a-bbc7-9d88dc2b7a51})
+R:    2000000-   2999999 [X17-09090]: YNYYB-84BMY-V2CBW-DTJWP-BTV4W
+
+C: ProdKey3 Win 9980 OEMAct NQR Test OEM:COA OEM OEM
+   (edition: Ultimate, group: 9980, type: OEM:COA, act_id: {2a560041-bb61-4dbc-82b2-769a2b5b167a})
+R:    2000000-   2999999 [X17-09094]: NBGPD-YYHR3-RRJRD-FPHRH-9CBQT
+
+C: ProdKey3 Win 9981 DLA NQR Test OEM:NONSLP OEM OEM
+   (edition: Ultimate, group: 9981, type: OEM:NONSLP, act_id: {d91d8c12-9485-45ab-b950-7e81e6c58095})
+R:    3000000-   3999999 [X17-09095]: RHFNG-6MKXC-8D3YC-JT337-T3R97
+
+C: ProdKey3 Win 9982 OEMAct/Preinstall NQR Test OEM:SLP OEM OEM
+   (edition: Ultimate, group: 9982, type: OEM:SLP, act_id: {7260bc5d-f92f-4e37-b7f0-d6266c82b7e0})
+R:    2000000-   2999999 [X17-09097]: 334XN-CK7RJ-WMMWH-8KYQ4-F7F98
+
+C: Win Next Ultimate OEM:DM
+   (edition: Ultimate, group: 9977, type: OEM:DM, act_id: {32c1c98f-6493-4315-9d4c-dea56620b4d5})
+R:    3000000-   3999999 [X17-25638]: GVNMM-D27H2-XHVCK-FKHWW-BW8X2
+
+C: Win Next Edition Next OEM:COA
+   (edition: Ultimate, group: 206, type: OEM:COA, act_id: {5e63848b-ac67-4cfd-8a24-8704d28913dc})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win Next Edition Next OEM:NONSLP
+   (edition: Ultimate, group: 206, type: OEM:NONSLP, act_id: {87a3a0dc-5bdd-4774-8d5d-bc2cac382cae})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win Next Edition Next OEM:SLP
+   (edition: Ultimate, group: 206, type: OEM:SLP, act_id: {8f5a4904-8ff6-4119-95be-4133b5f7f68d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win Next Edition Next Retail
+   (edition: Ultimate, group: 206, type: Retail, act_id: {6d769bbc-0de1-4b84-8c81-053792c8e155})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win Next Edition Next Retail:TB:Eval
+   (edition: Ultimate, group: 206, type: Retail:TB:Eval, act_id: {dbdcf57b-e42b-46e5-9e30-6c9529d825f8})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win Next Edition Next Retail:TB:Promo
+   (edition: Ultimate, group: 206, type: Retail:TB:Promo, act_id: {738077d2-1299-4bda-a3af-ba5c96a8ef37})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win Next Edition Next Retail:TB:Sub
+   (edition: Ultimate, group: 206, type: Retail:TB:Sub, act_id: {6d05e585-74a7-471e-a109-6e757be94dad})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win Next Edition Next Retail:TB:Trial
+   (edition: Ultimate, group: 206, type: Retail:TB:Trial, act_id: {ef88ee1d-2254-4603-8183-d920a7982e0b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win Next Edition Next Volume:GVLK
+   (edition: Enterprise, group: 206, type: Volume:GVLK, act_id: {38fbe2ac-465a-4ef7-b9d8-72044f2792b6})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win Next Edition Next Volume:MAK
+   (edition: Enterprise, group: 206, type: Volume:MAK, act_id: {b7cb21c7-06bd-4f63-92dd-78db254cdcac})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: WinNext Beta APPXLOB Volume:MAK
+   (edition: APPXLOB, group: 1352, type: Volume:MAK, act_id: {b12aee12-c889-471a-b37e-208afdbb86d5})
+R:    1000000- 499999999 [X17-93456]: NVTDK-QB8J9-M28GT-BDVBB-JK4HY
+R:  500000000- 999999999 [X17-93457]: GRDNC-FK6RW-H24WF-R8YVY-YWKYM
+
+C: Cassini Platform 8 Pre-Beta Embedded Retail
+   (edition: Embedded, group: 1353, type: Retail, act_id: {8e561eaf-e527-4bc4-92f4-702c7c8594b8})
+R:    1000000-   1000009 [X17-97854]: YWD4R-CNKVT-VG8VK-BGKM9-Y7QMP
+
+C: Cassini Platform 8 Pre-Beta Embedded Retail
+   (edition: Embedded, group: 1354, type: Retail, act_id: {0d872315-eb8e-4bf4-9f9b-463ce9df80d7})
+R:    1000000-   1039999 [X17-97855]: M28QN-6FKR8-KTVGP-9QRXY-7MDMQ
+
+C: Cassini Platform 8 Pre-Beta Embedded Retail
+   (edition: Embedded, group: 1355, type: Retail, act_id: {6d6c13c8-91cd-470c-aa71-b2212f049e7c})
+R:    1000000-   1009999 [X17-97856]: 9NQ2G-X4RTG-JDBD6-C9JF8-J8BV4
+
+C: Cassini Platform 8 Pre-Beta Embedded Retail
+   (edition: Embedded, group: 1356, type: Retail, act_id: {162f7a33-c734-4e72-8949-60587063ecbf})
+R:    1000000-   1004999 [X17-97857]: HNVTG-VVCQ2-QCW6H-TDBRP-7484G
+
+C: Cassini Platform 8 Pre-Beta Embedded Retail
+   (edition: Embedded, group: 1357, type: Retail, act_id: {974f76e1-8d4f-40cd-a259-86242468764f})
+R:    1000000-   1004999 [X17-97858]: 97KKJ-DNRGK-X92B4-K4MHQ-XHFH7
+
+C: WinServer Next ServerStandardEval Retail:TB:Eval
+   (edition: ServerStandardEval, group: 1289, type: Retail:TB:Eval, act_id: {eacd97b0-a7d4-4366-85bd-d77818fac674})
+R:    1000000- 999999999 [X17-53880:Virtual]: 97Q3N-TJKG4-9R7TY-8RDBV-GCJYP
+
+C: WinServer Next ServerDatacenterEval Retail:TB:Eval
+   (edition: ServerDatacenterEval, group: 1290, type: Retail:TB:Eval, act_id: {bb593016-1237-4a72-a214-dbc784a30527})
+R:    1000000- 999999999 [X17-53881:Virtual]: T6JJW-DYN99-WK46B-9248V-HXG73
+
+C: WinServer Next ServerStorageWorkgroup Retail:TB:Eval
+   (edition: ServerStorageWorkgroup, group: 1291, type: Retail:TB:Eval, act_id: {94d4be0b-23d8-42c5-8b7f-c44534fe96e3})
+R:    1000000- 999999999 [X17-53882:Virtual]: 2N382-D6PKK-QTX4D-2X4KJ-W4XV4
+
+C: WinServer Next ServerStorageWorkgroup OEM:DM
+   (edition: ServerStorageWorkgroup, group: 1068, type: OEM:DM, act_id: {41fab9bb-d480-4494-b9d9-f9ed1f4b29fe})
+R:    1000000- 999999999 [X17-53883:Virtual]: NG268-CV83B-QHBBJ-43DPC-VFMC6
+
+C: WinServer Next ServerStorageWorkgroup OEM:SLP
+   (edition: ServerStorageWorkgroup, group: 1292, type: OEM:SLP, act_id: {3eb835a2-18cd-46d8-b21f-9a55fd7a3ae5})
+R:    1000000- 999999999 [X17-53884]: Q8NXJ-QP7PY-MX9HM-7GMDV-DRMRG
+
+C: WinServer Next ServerStorageWorkgroup OEM:NONSLP
+   (edition: ServerStorageWorkgroup, group: 1293, type: OEM:NONSLP, act_id: {66736b50-7916-4c89-bd40-fa1222482c89})
+R:    1000000- 999999999 [X17-53885:Virtual]: 4TMCN-6B4QM-THQQW-MJ62C-4RCMV
+
+C: WinServer Next ServerStorageWorkgroup OEM:COA
+   (edition: ServerStorageWorkgroup, group: 1294, type: OEM:COA, act_id: {37dae7cd-0218-4f20-a4a6-fc973d66b670})
+R:    1000000- 999999999 [X17-53886:Virtual]: JGRP6-TNJWX-KQWHJ-6TJ3H-2RXV8
+
+C: WinServer Next ServerStorageStandard Retail:TB:Eval
+   (edition: ServerStorageStandard, group: 1295, type: Retail:TB:Eval, act_id: {25aae206-6a83-4349-8869-83bba1e4d142})
+R:    1000000- 999999999 [X17-53887:Virtual]: NDM8R-B39PB-HDTBF-QC4TB-PRXV9
+
+C: WinServer Next ServerStorageStandard OEM:DM
+   (edition: ServerStorageStandard, group: 1069, type: OEM:DM, act_id: {e8e4cc9a-5d28-4ced-b44e-4d36ecda479b})
+R:    1000000- 999999999 [X17-53888:Virtual]: C9246-9NBK8-KXPWJ-M8HYC-6JBC7
+
+C: WinServer Next ServerStorageStandard OEM:SLP
+   (edition: ServerStorageStandard, group: 1296, type: OEM:SLP, act_id: {d44912a2-1e48-4763-acf5-751ae43432e5})
+R:    1000000- 999999999 [X17-53889]: 9NC89-JRBTX-KFRGX-6372K-MG6BY
+
+C: WinServer Next ServerStorageStandard OEM:NONSLP
+   (edition: ServerStorageStandard, group: 1297, type: OEM:NONSLP, act_id: {719608b5-b311-4f9a-a165-4eaef60112ee})
+R:    1000000- 999999999 [X17-53890:Virtual]: KXX3N-YC8VK-QY8P7-K7QK6-CGT8C
+
+C: WinServer Next ServerStorageStandard OEM:COA
+   (edition: ServerStorageStandard, group: 1298, type: OEM:COA, act_id: {13606c16-4264-4a78-b8ef-2b4958ebe3ea})
+R:    1000000- 999999999 [X17-53891:Virtual]: 2YPRX-DNYTF-QBVK4-X2MY6-VB9WD
+
+C: WinServer Next ServerHPC Retail:TB:Eval
+   (edition: ServerHPC, group: 1299, type: Retail:TB:Eval, act_id: {346e71f4-f965-4f5a-84f1-be351a9aa29d})
+R:    1000000- 999999999 [X17-53892:Virtual]: NV66T-4PPJT-KYRDY-HJ7QX-HB9WF
+
+C: WinServer Next ServerHPC OEM:DM
+   (edition: ServerHPC, group: 1070, type: OEM:DM, act_id: {d327b12d-39ac-41af-970b-3299c8853239})
+R:    1000000- 999999999 [X17-53893:Virtual]: 2TF6N-GWKB7-JCRMX-F38JX-WTTTW
+
+C: WinServer Next ServerHPC OEM:SLP
+   (edition: ServerHPC, group: 1300, type: OEM:SLP, act_id: {b55f3210-6ab8-44f3-8b0b-a9c357fe75d6})
+R:    1000000- 999999999 [X17-53894]: 2QCNB-RMDKJ-GC8PB-742CV-FJKWG
+
+C: WinServer Next ServerHPC OEM:NONSLP
+   (edition: ServerHPC, group: 1301, type: OEM:NONSLP, act_id: {e6e6e2f3-43cc-464a-872c-96d52314ccb7})
+R:    1000000- 999999999 [X17-53895:Virtual]: RPM6J-N62DM-DC6XH-2YF9F-9WWY7
+
+C: WinServer Next ServerHPC OEM:COA
+   (edition: ServerHPC, group: 1302, type: OEM:COA, act_id: {92091ac9-8508-4812-85cd-c52828eeb0ae})
+R:    1000000- 999999999 [X17-53896:Virtual]: B9V9Q-F6ND8-T4K4K-9MPVK-RMYRW
+
+C: WinServer Next ServerHPC Volume:MAK
+   (edition: ServerHPC, group: 1303, type: Volume:MAK, act_id: {1294f2d0-4f73-4bb1-80b2-8d733baed482})
+R:    1000000- 999999999 [X17-53897:Virtual]: HN8JP-87TQJ-PBF3P-2JM8B-6VFFX
+
+C: WinServer Next ServerHPC Volume:GVLK
+   (edition: ServerHPC, group: 1304, type: Volume:GVLK, act_id: {2412bea9-b6e0-441e-8dc2-a13720b42de9})
+R:    1000000- 999999999 [X17-53898]: 2FNVD-CPYC6-WXD8M-VJKXF-GXTCB
+
+C: WinServer Next ServerMultiPointStandard Retail:TB:Eval
+   (edition: ServerMultiPointStandard, group: 1305, type: Retail:TB:Eval, act_id: {d1fc30a7-6bd9-4942-85bd-5c825e57569d})
+R:    1000000- 999999999 [X17-53899:Virtual]: W3RFN-3Q6YM-DBQQK-T8J89-TFXWP
+
+C: WinServer Next ServerMultiPointStandard OEM:DM
+   (edition: ServerMultiPointStandard, group: 1071, type: OEM:DM, act_id: {3bcd4e85-02cb-45a6-a123-c1f200d78c7b})
+R:    1000000- 999999999 [X17-53900:Virtual]: WCNDG-H7323-RXVC6-2HK66-FVP6X
+
+C: WinServer Next ServerMultiPointStandard OEM:SLP
+   (edition: ServerMultiPointStandard, group: 1306, type: OEM:SLP, act_id: {4a0e1ebe-946b-4b37-b997-ba9f929f14d9})
+R:    1000000- 999999999 [X17-53901]: 9JCFQ-N4V9P-FWMX8-3CWMP-27FF3
+
+C: WinServer Next ServerMultiPointStandard OEM:NONSLP
+   (edition: ServerMultiPointStandard, group: 1307, type: OEM:NONSLP, act_id: {a4257435-e853-422f-b988-1a349eeb7468})
+R:    1000000- 999999999 [X17-53902:Virtual]: NK6K4-7C6DD-VGV63-X4DFM-WHQJR
+
+C: WinServer Next ServerMultiPointStandard OEM:COA
+   (edition: ServerMultiPointStandard, group: 1308, type: OEM:COA, act_id: {08e7ecc0-7611-4811-bf4e-477fb8102809})
+R:    1000000- 999999999 [X17-53903:Virtual]: BQ2NV-6Q4YX-2P7P6-67MRW-D9G8T
+
+C: WinServer Next ServerMultiPointStandard Volume:MAK
+   (edition: ServerMultiPointStandard, group: 1309, type: Volume:MAK, act_id: {92ae5b41-91fa-4dfc-afad-ebada7a86278})
+R:    1000000- 999999999 [X17-53904:Virtual]: J47B7-N896D-FMFDC-B73QP-FX4F7
+
+C: WinServer Next ServerMultiPointStandard Volume:GVLK
+   (edition: ServerMultiPointStandard, group: 1310, type: Volume:GVLK, act_id: {bfa6b683-56be-47b8-a22e-461b27b9cf11})
+R:    1000000- 999999999 [X17-53905]: 2WFGX-YXN3B-BT46K-4DPYX-T8W2J
+
+C: WinServer Next ServerMultiPointPremium Retail:TB:Eval
+   (edition: ServerMultiPointPremium, group: 1311, type: Retail:TB:Eval, act_id: {984bbe67-aff1-4bca-af83-490a751020c2})
+R:    1000000- 999999999 [X17-53906:Virtual]: RNWB7-R6WXF-GVTDF-CV43Y-TXTCK
+
+C: WinServer Next ServerMultiPointPremium OEM:DM
+   (edition: ServerMultiPointPremium, group: 1072, type: OEM:DM, act_id: {b6765c1c-caeb-4abe-8e26-a6c58db58433})
+R:    1000000- 999999999 [X17-53907:Virtual]: NYWVH-HT4XC-R2TB9-6FT3K-KP6TY
+
+C: WinServer Next ServerMultiPointPremium OEM:SLP
+   (edition: ServerMultiPointPremium, group: 1312, type: OEM:SLP, act_id: {acd7a99c-495f-42be-9484-73ae3cb9a45c})
+R:    1000000- 999999999 [X17-53908]: Y67NY-PKP48-2YD93-WCGPW-2GT8Y
+
+C: WinServer Next ServerMultiPointPremium OEM:NONSLP
+   (edition: ServerMultiPointPremium, group: 1313, type: OEM:NONSLP, act_id: {db003830-56b7-4ed5-b11a-ddf815fec8e0})
+R:    1000000- 999999999 [X17-53909:Virtual]: V3KKK-NXYRM-KGMXP-FMQ6H-FJKW2
+
+C: WinServer Next ServerMultiPointPremium OEM:COA
+   (edition: ServerMultiPointPremium, group: 1314, type: OEM:COA, act_id: {c7327125-3ac1-4d40-b25d-d0cb4be54fcb})
+R:    1000000- 999999999 [X17-53910:Virtual]: 89P23-2NK2R-JXM2M-36RD7-JQGCQ
+
+C: WinServer Next ServerMultiPointPremium Volume:MAK
+   (edition: ServerMultiPointPremium, group: 1315, type: Volume:MAK, act_id: {fc23c37f-8895-4530-b327-a972dfbdc7f9})
+R:    1000000- 999999999 [X17-53911:Virtual]: JN6F9-QJX7D-3MTC6-JHJBW-HMDJ4
+
+C: WinServer Next ServerMultiPointPremium Volume:GVLK
+   (edition: ServerMultiPointPremium, group: 1316, type: Volume:GVLK, act_id: {bc20fb5b-4097-484f-84d2-55b18dac95eb})
+R:    1000000- 999999999 [X17-53912]: CQN7Q-KH97X-TH9G4-JRGWM-R6T86
+
+C: WinServer Next ServerDatacenter OEM:DM
+   (edition: ServerDatacenter, group: 1042, type: OEM:DM, act_id: {92bea8b6-ac89-4fec-b644-71e279113e01})
+R:    1000000- 999999999 [X17-36775:Virtual]: 8F7N8-T8CCJ-WJ8PK-2GJ4X-QVY8D
+
+C: WinServer Next ServerDatacenter OEM:SLP
+   (edition: ServerDatacenter, group: 1043, type: OEM:SLP, act_id: {b613da48-2a03-41d2-8eb3-758d10a6f5d6})
+R:    1000000- 999999999 [X17-36776]: QBN2Y-9B284-9KW78-MHQ99-2YM8F
+
+C: WinServer Next ServerDatacenter OEM:NONSLP
+   (edition: ServerDatacenter, group: 1044, type: OEM:NONSLP, act_id: {2979826e-9d6a-47df-892f-fbbf5c09f0b7})
+R:    1000000- 999999999 [X17-36777:Virtual]: FN22C-W33VB-XM8HM-QGJJK-GJBB6
+
+C: WinServer Next ServerDatacenter OEM:COA
+   (edition: ServerDatacenter, group: 1045, type: OEM:COA, act_id: {07af5a93-a13b-45dc-b8ce-c72229fce371})
+R:    1000000- 999999999 [X17-36778:Virtual]: C2DQG-63NDB-QYPXY-P2DQV-M4B8H
+
+C: WinServer Next ServerEnterprise OEM:DM
+   (edition: ServerEnterprise, group: 1046, type: OEM:DM, act_id: {c76dcd25-16d1-42d4-961d-3ed260ab4c51})
+R:    1000000- 999999999 [X17-36783:Virtual]: YR992-N4D47-RHPVY-3HDF7-HXGRW
+
+C: WinServer Next ServerEnterprise OEM:SLP
+   (edition: ServerEnterprise, group: 1047, type: OEM:SLP, act_id: {dabd98ff-8ae0-467d-8f49-c056916e00f0})
+R:    1000000- 999999999 [X17-36784]: V3QN3-V4TR6-WYVFJ-3BGXK-YDQY9
+
+C: WinServer Next ServerEnterprise OEM:NONSLP
+   (edition: ServerEnterprise, group: 1048, type: OEM:NONSLP, act_id: {f241b8fe-5a32-4db1-a10e-132711b43835})
+R:    1000000- 999999999 [X17-36785:Virtual]: NGG2V-9VJJY-94GXB-R9V2F-FCVPB
+
+C: WinServer Next ServerEnterprise OEM:COA
+   (edition: ServerEnterprise, group: 1049, type: OEM:COA, act_id: {6995a980-91cd-4867-aa24-db3fd988c6dc})
+R:    1000000- 999999999 [X17-36786:Virtual]: GMYJ7-2N9Y8-T27WP-3WTVD-97Y8P
+
+C: WinServer Next ServerWinFoundation OEM:DM
+   (edition: ServerWinFoundation, group: 1050, type: OEM:DM, act_id: {fbfcc4bf-59a1-4032-8afb-3242f763c29e})
+R:    1000000- 999999999 [X17-36789:Virtual]: XR9WN-VF3XP-97TJX-9J96H-PWBCD
+
+C: WinServer Next ServerWinFoundation OEM:SLP
+   (edition: ServerWinFoundation, group: 1051, type: OEM:SLP, act_id: {10f19b39-9b03-4e11-af50-3e02811fe828})
+R:    1000000- 999999999 [X17-36790]: W8N92-2J8GW-697PK-JGG9P-TMM8R
+
+C: WinServer Next ServerWinFoundation OEM:NONSLP
+   (edition: ServerWinFoundation, group: 1052, type: OEM:NONSLP, act_id: {f0bf082b-4a03-4c2b-bdd5-f0040670f219})
+R:    1000000- 999999999 [X17-36791:Virtual]: 8NT4X-GQMCK-62X4P-VBPCM-8FB8T
+
+C: WinServer Next ServerWinFoundation OEM:COA
+   (edition: ServerWinFoundation, group: 1053, type: OEM:COA, act_id: {5766ed15-143d-445f-ae07-5a4f61ccacb6})
+R:    1000000- 999999999 [X17-36792:Virtual]: MDPMT-T3NH9-GD443-GPJGQ-8K32H
+
+C: WinServer Next ServerStandard OEM:DM
+   (edition: ServerStandard, group: 1054, type: OEM:DM, act_id: {3d174e0a-e2d4-4b95-8a95-5bc5eef9ef81})
+R:    1000000- 999999999 [X17-36795:Virtual]: 84GDN-MG8JH-DYJ3G-J8BYY-K7Y8W
+
+C: WinServer Next ServerStandard OEM:SLP
+   (edition: ServerStandard, group: 1055, type: OEM:SLP, act_id: {f5c93aff-bc5a-4a73-9afc-48555edb7716})
+R:    1000000- 999999999 [X17-36796]: KBPNW-64CMM-8KWCB-3FYQ4-F6TR9
+
+C: WinServer Next ServerStandard OEM:NONSLP
+   (edition: ServerStandard, group: 1056, type: OEM:NONSLP, act_id: {e67b3237-31c0-428a-b0e4-f1fa74dc1588})
+R:    1000000- 999999999 [X17-36797:Virtual]: FNGV2-T3DC2-G9D6D-DP2WM-3GHPM
+
+C: WinServer Next ServerStandard OEM:COA
+   (edition: ServerStandard, group: 1057, type: OEM:COA, act_id: {c437557d-5f33-4ecb-83ae-494015fe5a14})
+R:    1000000- 999999999 [X17-36798:Virtual]: GDB7H-X2NRB-X37X4-4PPKW-TQ26C
+
+C: WinServer Next ServerWeb OEM:DM
+   (edition: ServerWeb, group: 1058, type: OEM:DM, act_id: {0d17ff59-c618-4007-ab49-d48c941a8bcc})
+R:    1000000- 999999999 [X17-36803:Virtual]: WR43D-NMWQQ-HCQR2-V2F2R-BYYCQ
+
+C: WinServer Next ServerWeb OEM:SLP
+   (edition: ServerWeb, group: 1059, type: OEM:SLP, act_id: {cb20a646-4bcb-4615-820a-e832a5e79942})
+R:    1000000- 999999999 [X17-36804]: WYMNM-CGX82-BB7Q2-J9C27-B7P6F
+
+C: WinServer Next ServerWeb OEM:NONSLP
+   (edition: ServerWeb, group: 1060, type: OEM:NONSLP, act_id: {89dda8f4-eefe-498d-9f25-201a763c0824})
+R:    1000000- 999999999 [X17-36805:Virtual]: N84RB-6TWKH-2YX29-THTJ7-PWBCT
+
+C: WinServer Next ServerWeb OEM:COA
+   (edition: ServerWeb, group: 1061, type: OEM:COA, act_id: {793fbec3-7313-469e-bfd3-938123de3e85})
+R:    1000000- 999999999 [X17-36806:Virtual]: PDVG9-KN8Q8-887WY-V9DKH-KHD2V
+
+C: WinServer Next ServerDatacenter Retail
+   (edition: ServerDatacenter, group: 1333, type: Retail, act_id: {c3dbac02-e65b-48bc-a61e-e14befbdd674})
+R:    1000000- 999999999 [X17-66950:Virtual]: 4HYYF-N8VGQ-XJQTB-PC2RV-MBDKV
+
+C: WinServer Next ServerDatacenter Retail:TB:Eval
+   (edition: ServerDatacenter, group: 1334, type: Retail:TB:Eval, act_id: {b2d44123-c1ec-44b6-9873-a233bb7e3618})
+R:    1000000- 999999999 [X17-66951:Virtual]: HGKVP-2DNPX-TWTQM-Q8QXR-MWKXW
+
+C: WinServer Next ServerDatacenter Volume:MAK
+   (edition: ServerDatacenter, group: 1335, type: Volume:MAK, act_id: {3f701528-302a-4773-b382-9451a6c7b7c3})
+R:    1000000- 999999999 [X17-66952:Virtual]: DNDKC-MY2FD-MFTCV-Q6YJR-8BYT9
+
+C: WinServer Next ServerDatacenter Volume:GVLK
+   (edition: ServerDatacenter, group: 1336, type: Volume:GVLK, act_id: {ba947c44-d19d-4786-b6ae-22770bc94c54})
+R:    1000000- 999999999 [X17-66953]: T8N4T-C6P4F-W48KM-CYJT9-KP69Y
+
+C: WinServer Next ServerEnterprise Retail
+   (edition: ServerEnterprise, group: 1337, type: Retail, act_id: {965362a9-3906-4a33-a3d7-538e59975a15})
+R:    1000000- 999999999 [X17-66954:Virtual]: 3WQTN-MXX9T-D7DFF-4K9WT-QYDK2
+
+C: WinServer Next ServerEnterprise Retail:TB:Eval
+   (edition: ServerEnterprise, group: 1338, type: Retail:TB:Eval, act_id: {42ccd9f2-2fae-4e6b-9cc3-ea0b0e6232d7})
+R:    1000000- 999999999 [X17-66955:Virtual]: J2W28-TN9C8-26PWV-GJ4QG-FVQK3
+
+C: WinServer Next ServerEnterprise Volume:GVLK
+   (edition: ServerEnterprise, group: 1339, type: Volume:GVLK, act_id: {8a409d61-30fe-4903-bdbc-1fb28603ba3a})
+R:    1000000- 999999999 [X17-66956]: NBBBB-BBBBB-BBBBB-BPTW9-H483R
+
+C: WinServer Next ServerWinFoundation Retail:TB:Eval
+   (edition: ServerWinFoundation, group: 1340, type: Retail:TB:Eval, act_id: {8b123b6e-3576-454c-8eb7-056c36febf11})
+R:    1000000- 999999999 [X17-66957:Virtual]: HBHNP-HMT87-YFW9C-VX3BM-88BVG
+
+C: WinServer Next ServerStandard Retail
+   (edition: ServerStandard, group: 1341, type: Retail, act_id: {bc085914-2b22-4128-ad91-a8d7d2ef501f})
+R:    1000000- 999999999 [X17-66958:Virtual]: C7XBF-NY4WK-HX6WY-D9BQ9-M94HH
+
+C: WinServer Next ServerStandard Retail:TB:Eval
+   (edition: ServerStandard, group: 1342, type: Retail:TB:Eval, act_id: {94a8a35b-b757-44de-bda5-be26cb11842a})
+R:    1000000- 999999999 [X17-66959:Virtual]: QRK4V-K2NW9-PHK47-WCVCT-C9TDW
+
+C: WinServer Next ServerStandard Volume:GVLK
+   (edition: ServerStandard, group: 1343, type: Volume:GVLK, act_id: {d3872724-5c08-4b1b-91f2-fc9eafed4990})
+R:    1000000- 999999999 [X17-66960]: 3NMDC-G7C3W-68RGP-CQK9H-B7QK9
+
+C: WinServer Next ServerStandard;ServerEnterprise Volume:MAK
+   (edition: ServerStandard;ServerEnterprise, group: 1344, type: Volume:MAK, act_id: {a4e4cf4e-e8a9-450e-a046-696f87644ead})
+R:    1000000- 999999999 [X17-66961:Virtual]: NMHDC-JQKCX-TFD38-69QV9-T8W3Y
+
+C: WinServer Next ServerWeb Retail
+   (edition: ServerWeb, group: 1345, type: Retail, act_id: {1be52dfa-347b-4ea9-a5a0-903fe990a797})
+R:    1000000- 999999999 [X17-66962:Virtual]: BMK4W-6N88B-BP9QR-PWXYJ-WBYVP
+
+C: WinServer Next ServerWeb Retail:TB:Eval
+   (edition: ServerWeb, group: 1346, type: Retail:TB:Eval, act_id: {53cfae25-4180-4d86-bfcf-ff4d1adb9caa})
+R:    1000000- 999999999 [X17-66963:Virtual]: VYGRN-WPR22-HG4X3-7PHXD-YBDMD
+
+C: WinServer Next ServerWeb Volume:MAK
+   (edition: ServerWeb, group: 1347, type: Volume:MAK, act_id: {972ba9b4-65c4-47c2-9b12-febfdd2604b3})
+R:    1000000- 999999999 [X17-66964:Virtual]: Y3N36-YCHDK-XYWBG-MC9GT-H8KYF
+
+C: WinServer Next ServerWeb Volume:GVLK
+   (edition: ServerWeb, group: 1348, type: Volume:GVLK, act_id: {e5676f13-9b66-4a1f-8b0c-43490e236202})
+R:    1000000- 999999999 [X17-66965]: RN84D-7HCWY-FTCBK-J3GHK-RMYVT
+
+C: WinServerSolutions Next ServerSolution Retail
+   (edition: ServerSolution, group: 1318, type: Retail, act_id: {94151945-5f87-4406-9250-9fb147de6fcf})
+R:    1000000- 999999999 [X17-54013:Virtual]: 3WKCD-RN489-4M7XJ-GYH4P-7482W
+
+C: WinServerSolutions Next ServerSolution Retail:TB:Eval
+   (edition: ServerSolution, group: 1319, type: Retail:TB:Eval, act_id: {2b842591-7256-4469-874a-2af1710afc0a})
+R:    1000000- 999999999 [X17-54014:Virtual]: NR6YK-F867C-CTTB2-B39BH-BDRGK
+
+C: WinServerSolutions Next ServerSolution OEM:DM
+   (edition: ServerSolution, group: 1073, type: OEM:DM, act_id: {9ac91fd3-aa8a-440d-8bb4-39b7cf4dbcc2})
+R:    1000000- 999999999 [X17-54015:Virtual]: V6QFB-7N7G9-PF7W9-PKYCK-WTTT2
+
+C: WinServerSolutions Next ServerSolution OEM:SLP
+   (edition: ServerSolution, group: 1320, type: OEM:SLP, act_id: {ed10a794-2497-4b00-bdd5-f4d0b98037a2})
+R:    1000000- 999999999 [X17-54016]: 8CN4D-4X6KX-TKPP2-RHCWT-9KTCY
+
+C: WinServerSolutions Next ServerSolution OEM:NONSLP
+   (edition: ServerSolution, group: 1321, type: OEM:NONSLP, act_id: {b15997c6-523c-4901-83cc-9aaa4e201cd2})
+R:    1000000- 999999999 [X17-54017:Virtual]: KPBM9-N9YKP-V28RK-MYKDK-V2V6P
+
+C: WinServerSolutions Next ServerSolution OEM:COA
+   (edition: ServerSolution, group: 1322, type: OEM:COA, act_id: {b2ed5f0c-cc84-4304-be9c-1d800f1b7c9e})
+R:    1000000- 999999999 [X17-54018:Virtual]: YYHXG-KTNKF-XGRT7-JFTWD-GFXXD
+
+C: WinServerSolutions Next ServerSolution Volume:MAK
+   (edition: ServerSolution, group: 1323, type: Volume:MAK, act_id: {34b83d96-4771-46dc-86b3-e0f293c2746f})
+R:    1000000- 999999999 [X17-54019:Virtual]: VNWHF-FKFBW-Q2RGD-JC3HD-2WBTR
+
+C: WinServerSolutions Next ServerSolutionsPremium Retail
+   (edition: ServerSolutionsPremium, group: 1324, type: Retail, act_id: {fd288220-f61b-4b7b-8801-76b336d19c40})
+R:    1000000- 999999999 [X17-54020:Virtual]: 2YNYQ-FQMVG-CB8KW-7B6KC-W2J26
+
+C: WinServerSolutions Next ServerSolutionsPremium Retail:TB:Eval
+   (edition: ServerSolutionsPremium, group: 1325, type: Retail:TB:Eval, act_id: {29a94674-1989-463e-b047-7980c942f049})
+R:    1000000- 999999999 [X17-54021:Virtual]: TPTYN-2X7KK-678QG-FJBC8-MR827
+
+C: WinServerSolutions Next ServerSolutionsPremium OEM:DM
+   (edition: ServerSolutionsPremium, group: 1074, type: OEM:DM, act_id: {e3789e86-ee91-4773-a5b8-8a90538079f0})
+R:    1000000- 999999999 [X17-54022:Virtual]: JBH3N-P97FP-FRTJD-MV6MB-39GT3
+
+C: WinServerSolutions Next ServerSolutionsPremium OEM:SLP
+   (edition: ServerSolutionsPremium, group: 1326, type: OEM:SLP, act_id: {657133ab-8a46-4c13-b38e-71773571c8ca})
+R:    1000000- 999999999 [X17-54023]: CJHPD-JNDM6-P3K27-8VT34-84XXJ
+
+C: WinServerSolutions Next ServerSolutionsPremium OEM:NONSLP
+   (edition: ServerSolutionsPremium, group: 1327, type: OEM:NONSLP, act_id: {d333e06e-7783-4c2d-8d1a-92b34911d531})
+R:    1000000- 999999999 [X17-54024:Virtual]: NJ8QJ-PYYXJ-F6HVM-D6HB4-HQRGX
+
+C: WinServerSolutions Next ServerSolutionsPremium OEM:COA
+   (edition: ServerSolutionsPremium, group: 1328, type: OEM:COA, act_id: {de5b8609-683b-4f75-9573-a02bd192842c})
+R:    1000000- 999999999 [X17-54025:Virtual]: JGN3M-M48XX-8Q9HD-C43MQ-4F83B
+
+C: WinServerSolutions Next ServerSolutionsPremium Volume:MAK
+   (edition: ServerSolutionsPremium, group: 1329, type: Volume:MAK, act_id: {09af062c-e613-4085-b66e-c55b22f68dff})
+R:    1000000- 999999999 [X17-54026:Virtual]: B7WWN-9CRP4-3K9KX-MB8FK-T8W3C
+
+C: WinServerSolutions Next ServerHomeStandard Retail
+   (edition: ServerHomeStandard, group: 1349, type: Retail, act_id: {123cdf26-dc3c-4cdd-b8b3-4fda553bb194})
+R:    1000000- 999999999 [X17-90795:Virtual]: 3YP64-3BNYW-7MQW6-QXRBT-PDGD7
+
+C: WinServerSolutions Next ServerHomeStandard OEM:SLP
+   (edition: ServerHomeStandard, group: 1350, type: OEM:SLP, act_id: {2bfe3785-af38-40a6-9060-b6810cc8ff8c})
+R:    1000000- 999999999 [X17-90796]: H2WM2-N7W7R-JTTKT-PM2DT-KTH7W
+
+C: WinServerSolutions Next ServerHomeStandard OEM:NONSLP
+   (edition: ServerHomeStandard, group: 1351, type: OEM:NONSLP, act_id: {03567182-1dd4-4e2f-ab6b-6aea9ca843bc})
+R:    1000000- 999999999 [X17-90797:Virtual]: BC9NM-RDM2D-3RMRY-X2BB9-GJBVX
+
+C: Windows 7 Home Premium OEM:COA
+   (edition: HomePremium, group: 196, type: OEM:COA, act_id: {5e017a8a-f3f9-4167-b1bd-ba3e236a4d8f})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Professional OEM:COA
+   (edition: Professional, group: 186, type: OEM:COA, act_id: {da22eadd-46dc-4056-a287-f5041c852470})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home Basic OEM:COA
+   (edition: HomeBasic, group: 192, type: OEM:COA, act_id: {25a0d760-2580-4c99-adfb-d57ba93560f5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home Basic OEM:COA
+   (edition: HomeBasic, group: 190, type: OEM:COA, act_id: {9821c9cb-288b-4c98-96f9-adc75a15eaf4})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home Premium OEM:COA
+   (edition: HomePremium, group: 194, type: OEM:COA, act_id: {6a7d5d8a-92af-4e6a-af4b-8fddaec800e5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Starter OEM:COA
+   (edition: Starter, group: 190, type: OEM:COA, act_id: {1d90c7cc-f3cc-4c2f-9650-7ac451fc73eb})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home Premium OEM:COA
+   (edition: HomePremium, group: 198, type: OEM:COA, act_id: {01f5fc37-a99e-45c5-b65e-d762f3518ead})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Professional OEM:COA
+   (edition: Professional, group: 184, type: OEM:COA, act_id: {c1027486-8ae8-4633-9cf9-9658ed80504d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Ultimate OEM:COA
+   (edition: Ultimate, group: 188, type: OEM:COA, act_id: {022a1afb-b893-4190-92c3-8f69a49839fb})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Starter OEM:COA
+   (edition: Starter, group: 184, type: OEM:COA, act_id: {d56863eb-6e59-4f2d-ae01-46322b5fba79})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home Premium OEM:NONSLP
+   (edition: HomePremium, group: 176, type: OEM:NONSLP, act_id: {9f83d90f-a151-4665-ae69-30b3f63ec659})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Ultimate OEM:NONSLP
+   (edition: Ultimate, group: 182, type: OEM:NONSLP, act_id: {cfb3e52c-d707-4861-af51-11b27ee6169c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home Premium OEM:NONSLP
+   (edition: HomePremium, group: 174, type: OEM:NONSLP, act_id: {586bc076-c93d-429a-afe5-a69fbc644e88})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Professional OEM:NONSLP
+   (edition: Professional, group: 182, type: OEM:NONSLP, act_id: {d8e04254-f9a5-4729-ae86-886de6aa907c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Professional OEM:NONSLP
+   (edition: Professional, group: 180, type: OEM:NONSLP, act_id: {e120e868-3df2-464a-95a0-b52fa5ada4bf})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home Basic OEM:NONSLP
+   (edition: HomeBasic, group: 178, type: OEM:NONSLP, act_id: {774d5df6-d8dd-4d92-98bc-58825849d249})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Ultimate OEM:SLP
+   (edition: Ultimate, group: 178, type: OEM:SLP, act_id: {7cfd4696-69a9-4af7-af36-ff3d12b6b6c8})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 UltimateN OEM:SLP
+   (edition: UltimateN, group: 178, type: OEM:SLP, act_id: {b482b078-ed27-4750-9ce9-60da4f575c67})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Professional OEM:SLP
+   (edition: Professional, group: 178, type: OEM:SLP, act_id: {50e329f7-a5fa-46b2-85fd-f224e5da7764})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 ProfessionalN OEM:SLP
+   (edition: ProfessionalN, group: 178, type: OEM:SLP, act_id: {d932ba14-a8cd-4368-aa5a-90d6613afea7})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home Premium OEM:SLP
+   (edition: HomePremium, group: 178, type: OEM:SLP, act_id: {d2c04e90-c3dd-4260-b0f3-f845f5d27d64})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home PremiumN OEM:SLP
+   (edition: HomePremiumN, group: 178, type: OEM:SLP, act_id: {05d94d71-4ba4-427c-98f2-0e058edfe9af})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home Basic OEM:SLP
+   (edition: HomeBasic, group: 178, type: OEM:SLP, act_id: {bde0d4a5-2f2a-4bff-9d75-4a497d2d0019})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home BasicN OEM:SLP
+   (edition: HomeBasicN, group: 178, type: OEM:SLP, act_id: {89cc87b2-d442-4c79-99b2-addc5abcf2a5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Starter OEM:SLP
+   (edition: Starter, group: 178, type: OEM:SLP, act_id: {8be4a481-9b5c-4588-a5ec-5dad4b1f15da})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 StarterN OEM:SLP
+   (edition: StarterN, group: 178, type: OEM:SLP, act_id: {56f31729-c7c2-46b1-88a9-b2ebde10a7b1})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 ProfessionalN OEM:NONSLP
+   (edition: ProfessionalN, group: 178, type: OEM:NONSLP, act_id: {fc3d428b-656b-4129-8274-700966289991})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home Premium OEM:NONSLP
+   (edition: HomePremium, group: 172, type: OEM:NONSLP, act_id: {9ab82e0c-ffc9-4107-baa1-c65a8bd3ccc3})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Starter OEM:NONSLP
+   (edition: Starter, group: 172, type: OEM:NONSLP, act_id: {197247fa-8fb7-4a9d-9415-1ba0e14215e8})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Professional OEM:NONSLP
+   (edition: Professional, group: 178, type: OEM:NONSLP, act_id: {90a61a0d-0b76-4bf1-a8b8-89061855a4c9})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home PremiumN OEM:NONSLP
+   (edition: HomePremiumN, group: 172, type: OEM:NONSLP, act_id: {2143d01a-961c-4d9e-9150-6b5de0011274})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 UltimateN OEM:NONSLP
+   (edition: UltimateN, group: 182, type: OEM:NONSLP, act_id: {419c2448-cd87-48cd-94d4-7b9af5efd169})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home BasicN OEM:NONSLP
+   (edition: HomeBasicN, group: 178, type: OEM:NONSLP, act_id: {0fa327c5-2ba7-4090-ade8-0ec3eeda3242})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Starter OEM:COA
+   (edition: Starter, group: 188, type: OEM:COA, act_id: {276d6155-27e2-437a-95f9-f1251168c970})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Starter OEM:COA
+   (edition: Starter, group: 194, type: OEM:COA, act_id: {9dee7406-49c2-43f2-b479-09bc4d5c4399})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home PremiumN OEM:COA
+   (edition: HomePremiumN, group: 194, type: OEM:COA, act_id: {01039663-ab8e-4d11-ba6c-cb4dacb2d13e})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 ProfessionalN OEM:COA
+   (edition: ProfessionalN, group: 184, type: OEM:COA, act_id: {61dbe86e-9979-45b4-8607-ae8b56aead36})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 StarterN OEM:COA
+   (edition: StarterN, group: 188, type: OEM:COA, act_id: {1c48e75a-71d5-4871-b6f2-bc407894445b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 UltimateN OEM:COA
+   (edition: UltimateN, group: 188, type: OEM:COA, act_id: {9b6938df-398f-407d-962f-d99b2e1d5d1b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home BasicN OEM:COA
+   (edition: HomeBasicN, group: 192, type: OEM:COA, act_id: {d63316d0-1b6c-48e5-8db9-32b4d83fc7a0})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 StarterN OEM:NONSLP
+   (edition: StarterN, group: 172, type: OEM:NONSLP, act_id: {dd14134a-d56c-4bc0-a2e9-14c462b4295b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Ultimate Retail
+   (edition: Ultimate, group: 170, type: Retail, act_id: {ac96e1a8-6cc4-4310-a4ff-332ce77fb5b8})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 UltimateN Retail
+   (edition: UltimateN, group: 170, type: Retail, act_id: {fa3d0658-67f4-4a26-ba57-3fc6f39861f1})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Professional Retail
+   (edition: Professional, group: 170, type: Retail, act_id: {e838d943-63ed-4a0b-9fb1-47152908acc9})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 ProfessionalN Retail
+   (edition: ProfessionalN, group: 170, type: Retail, act_id: {0bdb55f8-df23-41e9-bd76-a3b9cc40d7ca})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home Premium Retail
+   (edition: HomePremium, group: 170, type: Retail, act_id: {2e7d060d-4714-40f2-9896-1e4f15b612ad})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home PremiumN Retail
+   (edition: HomePremiumN, group: 170, type: Retail, act_id: {8d2813f4-654e-4aad-9786-dba84bfe33d6})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home Basic Retail
+   (edition: HomeBasic, group: 170, type: Retail, act_id: {b1184982-a958-4643-8e66-445fa0f92832})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home BasicN Retail
+   (edition: HomeBasicN, group: 170, type: Retail, act_id: {d1b53b3d-38eb-46a7-9afa-47271d93aec4})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Ultimate Retail
+   (edition: Ultimate, group: 172, type: Retail, act_id: {a0cde89c-3304-4157-b61c-c8ad785d1fad})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 UltimateN Retail
+   (edition: UltimateN, group: 172, type: Retail, act_id: {dca01e19-01f5-4ce1-98b1-35fb7a323806})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Professional Retail
+   (edition: Professional, group: 172, type: Retail, act_id: {770bc271-8dc1-467d-b574-73cbacbeccd1})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 ProfessionalN Retail
+   (edition: ProfessionalN, group: 172, type: Retail, act_id: {c63f22b5-fdaf-4488-aeac-cc19411d0243})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home Premium Retail
+   (edition: HomePremium, group: 172, type: Retail, act_id: {3b965dfc-31d9-4903-886f-873a0382776c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home PremiumN Retail
+   (edition: HomePremiumN, group: 172, type: Retail, act_id: {b68cc682-9531-4b6c-bb5e-202c92a59946})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home Basic Retail
+   (edition: HomeBasic, group: 172, type: Retail, act_id: {6c7afc31-950c-4fa8-93ee-3e880aa97e5d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Home BasicN Retail
+   (edition: HomeBasicN, group: 172, type: Retail, act_id: {ca400347-52d3-45a2-a333-f7d4c33b6af5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Starter Retail
+   (edition: Starter, group: 170, type: Retail, act_id: {71c7c851-1863-4232-8ac2-cdd7f5e45dae})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 StarterN Retail
+   (edition: StarterN, group: 170, type: Retail, act_id: {51ba3bd9-c1cd-42b5-ada3-22451bc151f4})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 All Volume Editions Volume:MAK
+   (edition: Enterprise;EnterpriseN;Professional;ProfessionalN, group: 172, type: Volume:MAK, act_id: {9abf5984-9c16-46f2-ad1e-7fe15931a8dd})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Enterprise Retail
+   (edition: Enterprise, group: 170, type: Retail, act_id: {b793ff2d-9d80-407c-b521-85111c51028c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 EnterpriseN Retail
+   (edition: EnterpriseN, group: 170, type: Retail, act_id: {33eda5ad-ad65-4507-b585-abcac3cabae5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Enterprise Retail:TB:Eval
+   (edition: Enterprise, group: 170, type: Retail:TB:Eval, act_id: {8dffd6e4-0497-4c35-b7d7-e47cf464cf30})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 EnterpriseN Retail:TB:Eval
+   (edition: EnterpriseN, group: 170, type: Retail:TB:Eval, act_id: {f3ce0211-9843-4d7e-9e38-a55ae0cd3c33})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Enterprise OEM:SLP
+   (edition: Enterprise, group: 178, type: OEM:SLP, act_id: {358fb95b-0090-44fb-883a-75734e060c30})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 EnterpriseN OEM:SLP
+   (edition: EnterpriseN, group: 178, type: OEM:SLP, act_id: {07328a5d-8dee-4d3b-9974-8a6ad6ab6892})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Enterprise Volume:GVLK
+   (edition: Enterprise, group: 170, type: Volume:GVLK, act_id: {ae2ee509-1b34-41c0-acb7-6d4650168915})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 EnterpriseN Volume:GVLK
+   (edition: EnterpriseN, group: 170, type: Volume:GVLK, act_id: {1cb6d605-11b3-4e14-bb30-da91c8e3983a})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 Professional Volume:GVLK
+   (edition: Professional, group: 170, type: Volume:GVLK, act_id: {b92e9980-b9d5-4821-9c94-140f632f6312})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 ProfessionalN Volume:GVLK
+   (edition: ProfessionalN, group: 170, type: Volume:GVLK, act_id: {54a09a0d-d57b-4c10-8b69-a842d6590ad5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Hyper-V ProdAct All Programs
+   (edition: ServerHyper, group: 152, type: Retail, act_id: {2cf1c8d6-ebe1-4ce9-83c6-c4877fae1355})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Datacenter retail
+   (edition: ServerDatacenter, group: 168, type: Retail, act_id: {e1f0bb5b-2421-4b7c-81a1-03643106421d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Datacenter OEM:NONSLP
+   (edition: ServerDatacenter, group: 168, type: OEM:NONSLP, act_id: {1d63ae00-7733-4e46-b0d0-ae0ab81d7638})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Datacenter OEM:SLP
+   (edition: ServerDatacenter, group: 168, type: OEM:SLP, act_id: {b41df512-845d-4384-a2d7-ace3f778bff5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Datacenter Volume:GVLK
+   (edition: ServerDatacenter, group: 168, type: Volume:GVLK, act_id: {7482e61b-c589-4b7f-8ecc-46d455ac3b87})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Datacenter Retail:TB:Eval
+   (edition: ServerDatacenter, group: 168, type: Retail:TB:Eval, act_id: {c0c97b05-e71a-4fe4-b234-4165f96250f6})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 DC Volume:MAK (MAK_C)
+   (edition: ServerDatacenter, group: 168, type: Volume:MAK, act_id: {4ae528f4-05c3-446e-90ea-a4fbd460b83a})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Enterprise retail
+   (edition: ServerEnterprise, group: 168, type: Retail, act_id: {b297426d-464d-4af1-abb2-3474aeecb878})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Enterprise OEM:NONSLP
+   (edition: ServerEnterprise, group: 168, type: OEM:NONSLP, act_id: {c74dc7f6-ea35-4bd7-9776-333ab5dddae6})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Enterprise OEM:SLP
+   (edition: ServerEnterprise, group: 168, type: OEM:SLP, act_id: {ea36520d-fbfe-4042-acd8-fe926781b615})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Enterprise Volume:GVLK
+   (edition: ServerEnterprise, group: 168, type: Volume:GVLK, act_id: {620e2b3d-09e7-42fd-802a-17a13652fe7a})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Enterprise Retail:TB:Eval
+   (edition: ServerEnterprise, group: 168, type: Retail:TB:Eval, act_id: {4bcc8879-e699-4159-a810-f829566662ca})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Standard OEM:NONSLP
+   (edition: ServerStandard, group: 168, type: OEM:NONSLP, act_id: {6d47464d-e43d-4228-b051-fddd47fd403f})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Standard OEM:SLP
+   (edition: ServerStandard, group: 168, type: OEM:SLP, act_id: {a60c85a9-7eff-4690-8aa1-010ddf5d38f0})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Standard Retail
+   (edition: ServerStandard, group: 168, type: Retail, act_id: {039998e3-3ef5-4adf-b758-d25fa0128ff4})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Standard Volume:GVLK
+   (edition: ServerStandard, group: 168, type: Volume:GVLK, act_id: {68531fb9-5511-4989-97be-d11a0f55633f})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Standard Retail:TB:Eval
+   (edition: ServerStandard, group: 168, type: Retail:TB:Eval, act_id: {da71774d-b2c9-4c42-bb7b-a66365d5abb2})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Std and Ent Volume:MAK (MAK_B)
+   (edition: ServerStandard;ServerEnterprise, group: 168, type: Volume:MAK, act_id: {6a4bd364-4b60-4856-a727-efb59d94348e})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Web retail
+   (edition: ServerWeb, group: 168, type: Retail, act_id: {1393c801-f389-4c5b-bb4e-bd7d3478ea60})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Web OEM:NONSLP
+   (edition: ServerWeb, group: 168, type: OEM:NONSLP, act_id: {280f12e2-5412-4482-9004-b4c90a66e829})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Web OEM:SLP
+   (edition: ServerWeb, group: 168, type: OEM:SLP, act_id: {4d3ae49a-0bea-4cea-9a9f-a6fbdf699b28})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Web Volume:GVLK
+   (edition: ServerWeb, group: 168, type: Volume:GVLK, act_id: {a78b8bd9-8017-4df5-b86a-09f756affa7c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Web Retail:TB:Eval
+   (edition: ServerWeb, group: 168, type: Retail:TB:Eval, act_id: {1bc49a17-9894-49c8-ba63-1b52852556a3})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Web and CC Volume:MAK (MAK_A)
+   (edition: ServerWeb;ServerHPC, group: 168, type: Volume:MAK, act_id: {506fb694-7202-4d00-9069-f696ebf921f2})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Compute Cluster (HPC) retail
+   (edition: ServerHPC, group: 168, type: Retail, act_id: {855d35f4-a334-46e7-b7d7-23fc1a22be65})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Compute Cluster (HPC) OEM:COA
+   (edition: ServerHPC, group: 168, type: OEM:COA, act_id: {683b8d26-5471-4212-82fb-8148427ca281})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Compute Cluster (HPC) OEM:NONSLP
+   (edition: ServerHPC, group: 168, type: OEM:NONSLP, act_id: {23af83d3-8520-491e-88fb-3f6d7ab3783a})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Compute Cluster (HPC) OEM:SLP
+   (edition: ServerHPC, group: 168, type: OEM:SLP, act_id: {b4d69df9-cdc5-48aa-8b88-dcadf9b558ba})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Compute Cluster (HPC) Volume:GVLK
+   (edition: ServerHPC, group: 168, type: Volume:GVLK, act_id: {cda18cf3-c196-46ad-b289-60c072869994})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Foundation OEM:SLP
+   (edition: ServerWinFoundation, group: 168, type: OEM:SLP, act_id: {0e0d125d-173f-4752-8c1b-ced62118977f})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Foundation OEM:NONSLP
+   (edition: ServerWinFoundation, group: 168, type: OEM:NONSLP, act_id: {fe0e7d01-192a-47c1-858e-95df10baa491})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Foundation Retail
+   (edition: ServerWinFoundation, group: 168, type: Retail, act_id: {402ffdaa-6813-424a-b07b-c31f8d24054e})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Foundation OEM:NONSLP (GEO locked to CH)
+   (edition: ServerWinFoundation, group: 168, type: OEM:NONSLP, act_id: {e3913f37-c311-4a0d-b603-ad3d61be9e39})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Foundation Retail (GEO locked to CH)
+   (edition: ServerWinFoundation, group: 168, type: Retail, act_id: {0cbae191-195f-43b4-b53c-368b61652b74})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Standard Retail (GEO locked to CH)
+   (edition: ServerStandard, group: 168, type: Retail, act_id: {f14c8ee3-560d-441e-aee1-325c2e9ae74a})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Standard OEM:NONSLP (GEO locked to CH)
+   (edition: ServerStandard, group: 168, type: OEM:NONSLP, act_id: {9a159de8-d114-41d7-a5bf-d3574edb42fa})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 RC Standard OEM:SLP
+   (edition: ServerStandard, group: 168, type: OEM:SLP, act_id: {c837408d-3762-4dea-a4d7-6dba48f6c305})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Foundation OEM:SLP
+   (edition: ServerWinFoundation, group: 168, type: OEM:SLP, act_id: {2b1690e6-1066-4b17-883f-4f759db1a7dd})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: ServerSBSStandard Retail
+   (edition: ServerSBSStandard, group: 150, type: Retail, act_id: {46aa2e8e-142f-4504-bbdf-921b27c44440})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: ServerSBSPremium Retail
+   (edition: ServerSBSPremium, group: 150, type: Retail, act_id: {de57e6db-74a6-4de2-9b45-6305085bd104})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: ServerSolution Retail
+   (edition: ServerSolution, group: 150, type: Retail, act_id: {b0d479a0-f524-4da0-ad5f-ead4c2eac5d9})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: ServerforSBSolutions Retail
+   (edition: ServerForSBSolutions, group: 150, type: Retail, act_id: {93d59c57-b6e1-4c3d-8caf-204cd102a69a})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: ServerSolutionsPremium Retail
+   (edition: ServerSolutionsPremium, group: 150, type: Retail, act_id: {3c2baabd-257f-4f5c-9c3e-e3112a1c939e})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: ServerSolutionEM Retail
+   (edition: ServerSolutionEM, group: 150, type: Retail, act_id: {bdbaaa16-4622-4547-828b-abff92a18218})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: ServerforSBSolutionsEM Retail
+   (edition: ServerForSBSolutionsEM, group: 150, type: Retail, act_id: {fa0d7bfa-140f-4ca1-ae5b-e4a666549beb})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: ServerEmbeddedSolution Retail
+   (edition: ServerEmbeddedSolution, group: 150, type: Retail, act_id: {56cd5000-40b0-4e44-97a7-245191e7dfe3})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: ServerWinSBV Retail
+   (edition: ServerWinSBV, group: 150, type: Retail, act_id: {b7b1d450-fb87-4054-84ee-5db525088124})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 7 Server SBS Premium retail
+   (edition: ServerSBSPremium, group: 140, type: Retail, act_id: {ae486542-39df-4ec8-8483-ac502f5eed7f})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 7 Server SBS Standard retail
+   (edition: ServerSBSStandard, group: 140, type: Retail, act_id: {2bb92f71-6ab3-473b-a024-cd29226ca236})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 7 Home Server Standard
+   (edition: ServerHomeStandard, group: 140, type: Retail, act_id: {6a8ed375-e507-49d7-9b38-1623b8e6ff0c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 7 Home Server Premium
+   (edition: ServerHomePremium, group: 140, type: Retail, act_id: {b4b3dccb-b321-4393-8123-3659ec75a192})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 7 Home Server Standard - OEM SLP
+   (edition: ServerHomeStandard, group: 140, type: OEM:SLP, act_id: {3b18e76c-2384-4029-a596-c939c91cb7be})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 7 Home Server Premium - OEM SLP
+   (edition: ServerHomePremium, group: 140, type: OEM:SLP, act_id: {e40d338b-76d2-4755-a8a0-b530d9d970bc})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 7 Home Server Standard - OEM SLP COA
+   (edition: ServerHomeStandard, group: 140, type: OEM:COA, act_id: {0d621b72-d593-4e42-bbab-1911c7326549})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 7 Home Server Premium - OEM SLP COA
+   (edition: ServerHomePremium, group: 140, type: OEM:COA, act_id: {79295998-90ab-4eb2-a093-073ac441006f})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 7 Home Server Standard - OEM NONSLP
+   (edition: ServerHomeStandard, group: 140, type: OEM:NONSLP, act_id: {725a3567-0181-498f-be72-31741bf08070})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 7 Home Server Premium - OEM NONSLP
+   (edition: ServerHomePremium, group: 140, type: OEM:NONSLP, act_id: {5cb0425f-a4d4-4d4a-8b5f-9ceb4211b322})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 7 Home Server Standard
+   (edition: ServerHomeStandard, group: 140, type: Retail, act_id: {13d1b96c-1375-43a4-99e7-7e7fefe21f53})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 7 Home Server Premium
+   (edition: ServerHomePremium, group: 140, type: Retail, act_id: {26186aee-5833-4d48-b59d-a1a29c8cbc2d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 7 Server SB Retail
+   (edition: ServerWinSB, group: 150, type: Retail, act_id: {bc7ebf48-a543-4b10-a267-029e059b5c70})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 OCUR Retail
+   (edition: OCUR, group: 170, type: Retail, act_id: {4a8149bb-7d61-49f4-8822-82c7bf88d64b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Vista OCUR Retail
+   (edition: OCUR, group: 142, type: Retail, act_id: {afd5f68f-b70f-4000-a21d-28dbc8be8b07})
+   [PKEY2005 detected: Displaying only IDs]
+

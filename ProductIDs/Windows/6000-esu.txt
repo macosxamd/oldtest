@@ -1,0 +1,920 @@
+C: Windows Home Server Standard
+   (edition: ServerHomeStandard, group: 140, type: Retail, act_id: {6a8ed375-e507-49d7-9b38-1623b8e6ff0c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Server Premium
+   (edition: ServerHomePremium, group: 140, type: Retail, act_id: {b4b3dccb-b321-4393-8123-3659ec75a192})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Server Standard - OEM SLP
+   (edition: ServerHomeStandard, group: 140, type: OEM:SLP, act_id: {3b18e76c-2384-4029-a596-c939c91cb7be})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Server Premium - OEM SLP
+   (edition: ServerHomePremium, group: 140, type: OEM:SLP, act_id: {e40d338b-76d2-4755-a8a0-b530d9d970bc})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Server Standard - OEM SLP COA
+   (edition: ServerHomeStandard, group: 140, type: OEM:COA, act_id: {0d621b72-d593-4e42-bbab-1911c7326549})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Server Premium - OEM SLP COA
+   (edition: ServerHomePremium, group: 140, type: OEM:COA, act_id: {79295998-90ab-4eb2-a093-073ac441006f})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Server Standard - OEM NONSLP
+   (edition: ServerHomeStandard, group: 140, type: OEM:NONSLP, act_id: {725a3567-0181-498f-be72-31741bf08070})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Server Premium - OEM NONSLP
+   (edition: ServerHomePremium, group: 140, type: OEM:NONSLP, act_id: {5cb0425f-a4d4-4d4a-8b5f-9ceb4211b322})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Server Standard
+   (edition: ServerHomeStandard, group: 140, type: Retail, act_id: {13d1b96c-1375-43a4-99e7-7e7fefe21f53})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Server Premium
+   (edition: ServerHomePremium, group: 140, type: Retail, act_id: {26186aee-5833-4d48-b59d-a1a29c8cbc2d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Ultimate Retail
+   (edition: Ultimate, group: 142, type: Retail, act_id: {30fab9cc-8614-4339-989f-7ce61fb7a5c4})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business Retail
+   (edition: Business, group: 142, type: Retail, act_id: {9de9abe2-d01d-4538-af84-4498bdbc2ba3})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business N Retail
+   (edition: BusinessN, group: 142, type: Retail, act_id: {db442be4-81ed-4ab3-9d66-2417e8a5c81c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Basic Retail
+   (edition: HomeBasic, group: 142, type: Retail, act_id: {95c6e80a-0ff8-4bd0-95f2-c4a39b79d09e})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Basic N Retail
+   (edition: HomeBasicN, group: 142, type: Retail, act_id: {d0333dad-c14e-46f2-b62a-8b47a1b9768b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Premium Retail
+   (edition: HomePremium, group: 142, type: Retail, act_id: {9e042223-03bf-49ae-808f-ff37f128d40d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business - OEM:SLP
+   (edition: Business, group: 146, type: OEM:SLP, act_id: {fd3bcb98-5c55-4b2d-ae32-a4515e3c17a3})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business - OEM:COA
+   (edition: Business, group: 144, type: OEM:COA, act_id: {f758e09b-7c7c-492c-b78c-aba5bd4e3f5b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business - OEM:NONSLP
+   (edition: Business, group: 146, type: OEM:NONSLP, act_id: {177df7ed-709f-454a-91bd-947ec8a1e668})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business - D-OEM (CHS & RU) OEM:NONSLP
+   (edition: Business, group: 146, type: OEM:NONSLP, act_id: {f14a0fcc-9198-49d0-9b48-61398a545aae})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business N OEM:SLP
+   (edition: BusinessN, group: 146, type: OEM:SLP, act_id: {92bc39aa-055e-4919-adca-763fcde047b8})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business N OEM:COA
+   (edition: BusinessN, group: 144, type: OEM:COA, act_id: {e8d89889-a417-408a-8180-02a89339580d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business N OEM:NONSLP
+   (edition: BusinessN, group: 146, type: OEM:NONSLP, act_id: {fdc08872-563e-4e3a-ad19-981c2c58b4d9})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Basic N OEM:SLP
+   (edition: HomeBasicN, group: 146, type: OEM:SLP, act_id: {9680dca9-c58d-4f58-817e-ff16ffc626c8})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Basic N OEM:COA
+   (edition: HomeBasicN, group: 144, type: OEM:COA, act_id: {9c5c23f2-a6c3-4c6c-b9b4-1f8796b63254})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Basic N OEM:NONSLP
+   (edition: HomeBasicN, group: 146, type: OEM:NONSLP, act_id: {827661ef-a4de-4110-9b8a-4c7fdc42dc89})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Basic - OEM:SLP
+   (edition: HomeBasic, group: 146, type: OEM:SLP, act_id: {199086aa-6cb8-4e5b-b698-f2be56f1e8ee})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Basic - OEM:COA
+   (edition: HomeBasic, group: 144, type: OEM:COA, act_id: {91dbad68-4713-4f9c-b351-6e77a8361741})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Basic - OEM:NONSLP
+   (edition: HomeBasic, group: 146, type: OEM:NONSLP, act_id: {bb4c2c10-dc0d-4ce6-8824-ee71ddb63c07})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Basic - D-OEM (CHS & RU) OEM:NONSLP
+   (edition: HomeBasic, group: 146, type: OEM:NONSLP, act_id: {26241618-ffd9-4440-af04-2ab852b2767f})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Premium - OEM:SLP
+   (edition: HomePremium, group: 146, type: OEM:SLP, act_id: {bffdc375-bbd5-499d-8ef1-4f37b61c895f})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Premium - OEM:COA
+   (edition: HomePremium, group: 144, type: OEM:COA, act_id: {a4eec485-e375-48b4-8f51-80d13a4086b6})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Premium - OEM:NONSLP
+   (edition: HomePremium, group: 146, type: OEM:NONSLP, act_id: {f3acdd3c-119a-4932-a3d7-0b6f33a1dca9})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Premium - D-OEM (CHS & RU) OEM:NONSLP
+   (edition: HomePremium, group: 146, type: OEM:NONSLP, act_id: {b6795467-dc45-4acf-af87-e948ee3f15f4})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Starter - OEM:SLP
+   (edition: Starter, group: 146, type: OEM:SLP, act_id: {851f81c4-16c6-4de8-a20a-dcebd6b76c89})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Starter - OEM:COA
+   (edition: Starter, group: 144, type: OEM:COA, act_id: {94451d5d-8520-43d3-af38-4e54d817a407})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Starter - OEM:NONSLP
+   (edition: Starter, group: 146, type: OEM:NONSLP, act_id: {89e51a3c-76c0-4beb-a650-53d34c8f8186})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Ultimate - OEM:SLP
+   (edition: Ultimate, group: 146, type: OEM:SLP, act_id: {5e802570-4657-4e84-bfbc-6a0e531b84af})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Ultimate - OEM:COA
+   (edition: Ultimate, group: 144, type: OEM:COA, act_id: {f79b5e33-4a4e-451c-9e8a-55dcc9bdb89d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Ultimate - OEM:NONSLP
+   (edition: Ultimate, group: 146, type: OEM:NONSLP, act_id: {33a7e8d3-e2ab-413b-96a6-27c83b21c695})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Enterprise - OEM:SLP
+   (edition: Enterprise, group: 146, type: OEM:SLP, act_id: {d584adf1-69e1-4710-98a3-89f37b940020})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista ALL Volume SKUs - CSVLK
+   (edition: n/a, group: 142, type: Volume:CSVLK, act_id: {212a64dc-43b1-4d3d-a30c-2fc69d2095c6})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista ALL Volume SKUs - MAK
+   (edition: n/a, group: 142, type: Volume:MAK, act_id: {74e464f6-45db-41f6-9356-66260bdf3c65})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business N - GVLK
+   (edition: BusinessN, group: 142, type: Volume:GVLK, act_id: {2c682dc2-8b68-4f63-a165-ae291d4cf138})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business - GVLK
+   (edition: Business, group: 142, type: Volume:GVLK, act_id: {4f3d1606-3fea-4c01-be3c-8d671c401e3b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Enterprise - GVLK
+   (edition: Enterprise, group: 142, type: Volume:GVLK, act_id: {cfd8ff08-c0d7-452b-9f60-ef5c70c32094})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Enterprise Retail
+   (edition: Enterprise, group: 142, type: Retail, act_id: {b51791c2-b562-4b73-97b0-735a0e4429a6})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista OCUR add-on Retail
+   (edition: OCUR, group: 142, type: Retail, act_id: {afd5f68f-b70f-4000-a21d-28dbc8be8b07})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Standard Retail
+   (edition: ServerStandard, group: 152, type: Retail, act_id: {603504f9-109f-49f0-9271-8c66f7878f58})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Standard OEM:SLP
+   (edition: ServerStandard, group: 150, type: OEM:SLP, act_id: {15a581b4-f839-4d26-943c-b7e72f219849})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Standard OEM:NONSLP
+   (edition: ServerStandard, group: 150, type: OEM:NONSLP, act_id: {7acd9eb8-e300-444c-b38a-47cdbe065508})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Standard & Enterprise CSVLK
+   (edition: n/a, group: 152, type: Volume:CSVLK, act_id: {56df4151-1f9f-41bf-acaa-2941c071872b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Standard & Enterprise MAK
+   (edition: n/a, group: 152, type: Volume:MAK, act_id: {bb1d27c4-959d-4f82-b0fd-c02a7be54732})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Standard without Hyper-V Retail
+   (edition: ServerStandardV, group: 152, type: Retail, act_id: {65ab7338-9ad0-43fe-af1b-190b577495e2})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Standard without Hyper-V OEM:SLP
+   (edition: ServerStandardV, group: 150, type: OEM:SLP, act_id: {0e18c71e-3a85-4063-b380-419652de3733})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Standard without Hyper-V OEM:NONSLP
+   (edition: ServerStandardV, group: 150, type: OEM:NONSLP, act_id: {2e063f49-6ce7-4099-be9e-8b1c3590f5c8})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Datacenter Retail
+   (edition: ServerDatacenter, group: 152, type: Retail, act_id: {866e924e-c2a3-4872-aca1-6b48c13962d5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Datacenter OEM:SLP
+   (edition: ServerDatacenter, group: 150, type: OEM:SLP, act_id: {5762371d-a6fe-4fea-af1b-b9f0367d8e46})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Datacenter OEM:NONSLP
+   (edition: ServerDatacenter, group: 150, type: OEM:NONSLP, act_id: {28169020-83db-42d0-87bb-7709454c5f62})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Datacenter without Hyper-V OEM:SLP
+   (edition: ServerDatacenterV, group: 150, type: OEM:SLP, act_id: {f209258f-33ca-4a14-a45c-5cafa7259ab5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Datacenter without Hyper-V OEM:NONSLP
+   (edition: ServerDatacenterV, group: 150, type: OEM:NONSLP, act_id: {d020c729-07f0-4f8f-87ce-bf803275c786})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Datacenter & Itanium CSVLK
+   (edition: n/a, group: 152, type: Volume:CSVLK, act_id: {c90d1b4e-8aa8-439e-8b9e-b6d6b6a6d975})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Datacenter & Itanium MAK
+   (edition: n/a, group: 152, type: Volume:MAK, act_id: {e9add589-f877-4aad-af6b-d641674d4ac9})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 for Itanium-Based Systems nonSLP
+   (edition: ServerEnterpriseIA64, group: 150, type: OEM:NONSLP, act_id: {256cc990-1692-4ea8-965c-2d423d5dd24e})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 for Itanium-Based Systems OEM:SLP
+   (edition: ServerEnterpriseIA64, group: 150, type: OEM:SLP, act_id: {766d0cf7-accb-4fe9-b9a0-b4bfa8ae7550})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Enterprise Retail
+   (edition: ServerEnterprise, group: 152, type: Retail, act_id: {32b40e5e-0c6d-4c6f-ab12-a031933fd2c6})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Enterprise OEM:SLP
+   (edition: ServerEnterprise, group: 150, type: OEM:SLP, act_id: {94dd1d84-9d70-45ff-ae30-6c1643e583ac})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Enterprise OEM:NONSLP
+   (edition: ServerEnterprise, group: 150, type: OEM:NONSLP, act_id: {a6ad72e3-67a6-4d46-af1c-5f542c22ef7c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Enterprise without Hyper-V Retail
+   (edition: ServerEnterpriseV, group: 152, type: Retail, act_id: {1ba5e036-e386-42c4-b7eb-16bdb4fa1945})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Enterprise without Hyper-V OEM:SLP
+   (edition: ServerEnterpriseV, group: 150, type: OEM:SLP, act_id: {d063c01b-b1c3-442c-8cc4-4be55a1a01df})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Enterprise without Hyper-V OEM:NONSLP
+   (edition: ServerEnterpriseV, group: 150, type: OEM:NONSLP, act_id: {388afeb9-3b92-44a2-a3dd-1e68665f6d36})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Web Server 2008 Retail
+   (edition: ServerWeb, group: 152, type: Retail, act_id: {a77a6806-f59e-4953-97d7-229317b8e6a6})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Web Server 2008 OEM:SLP
+   (edition: ServerWeb, group: 150, type: OEM:SLP, act_id: {bab219ac-3f91-4cdc-8339-b643cbdd6c49})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Web Server 2008 OEM:NONSLP
+   (edition: ServerWeb, group: 150, type: OEM:NONSLP, act_id: {8210c9d1-4686-4f46-ac2e-56cf4e6ba674})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Web & Compute Cluster Server 2008 CSVLK
+   (edition: n/a, group: 152, type: Volume:CSVLK, act_id: {c448fa06-49d1-44ec-82bb-0085545c3b51})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Enterprise GVLK
+   (edition: ServerEnterprise, group: 152, type: Volume:GVLK, act_id: {c1af4d90-d1bc-44ca-85d4-003ba33db3b9})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 EnterpriseV GVLK
+   (edition: ServerEnterpriseV, group: 152, type: Volume:GVLK, act_id: {8198490a-add0-47b2-b3ba-316b12d647b4})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Web GVLK
+   (edition: ServerWeb, group: 152, type: Volume:GVLK, act_id: {ddfa9f7c-f09e-40b9-8c1a-be877a9a7f4b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Standard GVLK
+   (edition: ServerStandard, group: 152, type: Volume:GVLK, act_id: {ad2542d4-9154-4c6d-8a44-30f11ee96989})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 StandardV GVLK
+   (edition: ServerStandardV, group: 152, type: Volume:GVLK, act_id: {2401e3d0-c50a-4b58-87b2-7e794b7d2607})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Datacenter GVLK
+   (edition: ServerDatacenter, group: 152, type: Volume:GVLK, act_id: {68b6e220-cf09-466b-92d3-45cd964b9509})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 DatacenterV GVLK
+   (edition: ServerDatacenterV, group: 152, type: Volume:GVLK, act_id: {fd09ef77-5647-4eff-809c-af2b64659a45})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Itanium GVLK
+   (edition: ServerEnterpriseIA64, group: 152, type: Volume:GVLK, act_id: {01ef176b-3e0d-422a-b4f8-4ea880035e8f})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Web & Compute Cluster Server 2008 MAK
+   (edition: n/a, group: 152, type: Volume:MAK, act_id: {41606216-0fad-4425-8d6e-63be6ed8dc49})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2008 Compute Cluster GVLK
+   (edition: ServerComputeCluster, group: 152, type: Volume:GVLK, act_id: {7afb1156-2c1d-40fc-b260-aab7442b62fe})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business - OEM:NONSLP
+   (edition: Business, group: 156, type: OEM:NONSLP, act_id: {093e8e65-b6ab-4526-ab64-ae4e8269b656})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Starter OEM:SLP
+   (edition: Starter, group: 154, type: OEM:SLP, act_id: {12d7799d-9db2-4378-abb8-efaca84a6133})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business N Retail
+   (edition: BusinessN, group: 154, type: Retail, act_id: {132ccb0c-51e9-49c4-b157-ccf977259947})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Ultimate N - OEM:NONSLP
+   (edition: UltimateN, group: 156, type: OEM:NONSLP, act_id: {fbe5f9be-2204-480a-93da-a5f81b3c52d9})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business Retail
+   (edition: Business, group: 154, type: Retail, act_id: {faba8d9b-3ad6-4529-b11d-d41ec9b5d47b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business - OEM:COA
+   (edition: Business, group: 154, type: OEM:COA, act_id: {0101b69a-85c8-4344-8196-7a16a7790bb5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Premium N - OEM:NONSLP
+   (edition: HomePremiumN, group: 156, type: OEM:NONSLP, act_id: {776ec0e8-2a6f-4e55-94f2-b6b1fa9cf4c5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home PremiumN OEM:SLP
+   (edition: HomePremiumN, group: 154, type: OEM:SLP, act_id: {413036e1-7bcf-4a02-bab4-7b6916f17f87})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Starter - OEM:NONSLP
+   (edition: Starter, group: 156, type: OEM:NONSLP, act_id: {5722cd65-5a5c-4315-957a-0e4e5daef5cd})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Premium N OEM:COA
+   (edition: HomePremiumN, group: 154, type: OEM:COA, act_id: {55e6dada-345d-41ab-83f0-99ad84ac1d19})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Ultimate - OEM:COA
+   (edition: Ultimate, group: 158, type: OEM:COA, act_id: {d6a70f3f-2052-4633-a9aa-25ea0cdff672})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Premium Retail
+   (edition: HomePremium, group: 154, type: Retail, act_id: {3a1d44e2-bede-46fb-8a02-0cd485a1db8b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Basic - OEM:COA
+   (edition: HomeBasic, group: 160, type: OEM:COA, act_id: {b4b150d0-ec09-4f74-910d-371ed161b2ac})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Premium - OEM:NONSLP
+   (edition: HomePremium, group: 156, type: OEM:NONSLP, act_id: {c5d8ec70-e2ae-42d8-aaa9-eec3772438ee})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista EnterpriseN GVLK
+   (edition: EnterpriseN, group: 142, type: Volume:GVLK, act_id: {d4f54950-26f2-4fb4-ba21-ffab16afcade})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Ultimate N Retail
+   (edition: UltimateN, group: 142, type: Retail, act_id: {1eefed20-8ac0-478c-8774-70cd44782ea1})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Ultimate Retail
+   (edition: Ultimate, group: 154, type: Retail, act_id: {1f59edc8-ad79-4d96-a62d-c33ee78da2ec})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Ultimate - OEM:COA
+   (edition: Ultimate, group: 154, type: OEM:COA, act_id: {f00fa8e9-ac0f-4f43-a259-a26c110cbbf9})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Starter OEM:COA
+   (edition: Starter, group: 154, type: OEM:COA, act_id: {24d57dfd-f6e1-48f9-a045-0520a52f84c7})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Ultimate N - OEM:COA
+   (edition: UltimateN, group: 154, type: OEM:COA, act_id: {2bd10086-9094-4140-801e-3d8ec5b0ac25})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Ultimate MAK
+   (edition: Ultimate, group: 154, type: Volume:MAK, act_id: {56a13760-2b9c-406f-be8a-8f2ef22f10b5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Starter Retail
+   (edition: Starter, group: 142, type: Retail, act_id: {70453a75-42cb-49ba-83d8-d9dc6295901b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista UltimateN - OEM:SLP
+   (edition: UltimateN, group: 154, type: OEM:SLP, act_id: {7fbe00d4-bff2-47a3-99a7-6387fd509ae2})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business Retail
+   (edition: Business, group: 156, type: Retail, act_id: {829a4bc1-2a89-47ba-a638-0b8a206b0986})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Basic - OEM:COA
+   (edition: HomeBasic, group: 158, type: OEM:COA, act_id: {cd2e414a-e728-421e-a934-73506387d641})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Basic - OEM:COA
+   (edition: HomeBasic, group: 154, type: OEM:COA, act_id: {c2f2d79e-121d-482c-b665-83f052c8cbcc})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Basic - OEM:NONSLP
+   (edition: HomeBasic, group: 156, type: OEM:NONSLP, act_id: {8cc39469-8bf4-4859-9f14-639320501a1f})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business - OEM:COA
+   (edition: Business, group: 162, type: OEM:COA, act_id: {b13b0123-8661-4ee2-afb7-05c37481686b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Ultimate - OEM:NONSLP
+   (edition: Ultimate, group: 156, type: OEM:NONSLP, act_id: {a79a48fc-70d9-4413-ab47-81cf5d08f7ee})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista UltimateN MAK
+   (edition: UltimateN, group: 154, type: Volume:MAK, act_id: {8f1c2cd6-4d70-4122-8eee-b4de3fb9ba17})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista UltimateN Retail
+   (edition: UltimateN, group: 154, type: Retail, act_id: {90f4e13a-12fb-4840-b9ab-91cfb9fac5e2})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista StarterN Retail
+   (edition: StarterN, group: 154, type: Retail, act_id: {a797d61e-1475-470b-86c8-f737a72c188d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Premium - OEM:COA
+   (edition: HomePremium, group: 154, type: OEM:COA, act_id: {a3481201-436e-4fc9-88b4-34ccf7f81789})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Premium - OEM:COA
+   (edition: HomePremium, group: 148, type: OEM:COA, act_id: {c3505bd0-004a-49b9-84db-a1a4869eddf1})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Premium N Retail
+   (edition: HomePremiumN, group: 142, type: Retail, act_id: {92d8977c-d506-4e63-b500-6d39283b6cd5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Starter Retail
+   (edition: Starter, group: 154, type: Retail, act_id: {1105ac4c-f808-42d2-a6ae-f46183169f6f})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista ALL Volume SKUs - CSVLK
+   (edition: n/a, group: 154, type: Volume:CSVLK, act_id: {4871de8b-3adf-4455-a7d3-fd7b6c01c939})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista CODEC add-on Retail
+   (edition: CodecPack, group: 142, type: Retail, act_id: {95a6eef2-89d4-4759-b65b-0a0748994b82})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business OEM:SLP
+   (edition: Business, group: 154, type: OEM:SLP, act_id: {e12dd57d-07d5-4f64-9139-a92489a626b0})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista EnterpriseN  Retail
+   (edition: EnterpriseN, group: 142, type: Retail, act_id: {58c37517-42f8-4723-bb44-30b05791ff2a})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Server Premium Retail
+   (edition: ServerHomePremium, group: 152, type: Retail, act_id: {8df04457-07c8-4301-bce9-d61eb76cb2d6})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Server Standard Retail
+   (edition: ServerHomeStandard, group: 152, type: Retail, act_id: {5bd23b19-aa71-4a5b-8b68-c8801c2baff6})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Medium Business Server Management Retail
+   (edition: ServerMediumBusinessManagement, group: 152, type: Retail, act_id: {b86c7736-91ff-4de9-bfa9-b32b8a09acac})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Medium Business Server Messaging Retail
+   (edition: ServerMediumBusinessMessaging, group: 152, type: Retail, act_id: {d3f5642f-081d-40b2-a4b9-efd3054d4584})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Medium Business Server Security Retail
+   (edition: ServerMediumBusinessSecurity, group: 152, type: Retail, act_id: {c6936a36-69f3-4994-9857-3069c7b9ec7a})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn SBS Premium Retail
+   (edition: ServerSBSPremium, group: 152, type: Retail, act_id: {cc4c2cf8-ef29-4d8e-b168-2b65a3db3309})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn SBS Prime Retail
+   (edition: ServerSBSPrime, group: 152, type: Retail, act_id: {b3827b27-bd38-4284-98af-e4f4d1c051a0})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: ProdKey3 Windows Server Foundation 00150 ProdAct 10 nonOA II OEM
+   (edition: ServerSBSPrime, group: 150, type: OEM:NONSLP, act_id: {96fd21ec-7c70-4c04-9fce-b034941c0473})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: ProdKey3 Windows Server Foundation 2008 00150 OEMAct/Preinstall PrePop OA II
+   (edition: ServerSBSPrime, group: 150, type: OEM:SLP, act_id: {9f5cfb3d-6288-4f6f-9d57-fffd843d53e6})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn SBS Standard Retail
+   (edition: ServerSBSStandard, group: 152, type: Retail, act_id: {5dad0eff-3f6f-4310-8844-422f9dc7c84b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Enterprise  Retail
+   (edition: ServerStorageEnterprise, group: 152, type: Retail, act_id: {2be204da-24a0-4943-b66c-81e8464acd7e})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Express Retail
+   (edition: ServerStorageExpress, group: 152, type: Retail, act_id: {60207eba-8b4a-486c-a013-023b4b742c2f})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server  Standard Retail
+   (edition: ServerStorageStandard, group: 152, type: Retail, act_id: {368856e9-43f7-4601-8358-e561f36c7dd8})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Workgroup Retail
+   (edition: ServerStorageWorkgroup, group: 152, type: Retail, act_id: {4bf433fa-ab04-4c6c-b55b-00170e14b8cd})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Server for Small Business Retail
+   (edition: ServerWinSB, group: 152, type: Retail, act_id: {f92f836d-4d3e-4e90-a08f-2d612d65e716})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Server for Small Business V Retail
+   (edition: ServerWinSBV, group: 152, type: Retail, act_id: {3059a9fd-b068-4f0d-acaf-66324dca67ac})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Hyper-V ProdAct All Programs Retail
+   (edition: ServerHyper, group: 152, type: Retail, act_id: {2cf1c8d6-ebe1-4ce9-83c6-c4877fae1355})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Compute Cluster Retail
+   (edition: ServerComputeCluster, group: 152, type: Retail, act_id: {c9ad502b-ef48-41d1-a2a0-38a38e82fed0})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Compute Cluster V Retail
+   (edition: ServerComputeClusterV, group: 152, type: Retail, act_id: {5e9f548a-c8a9-44e6-a6c2-3f8d0a7a99dd})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Small Business Server Premium Retail
+   (edition: ServerSBSPremium, group: 150, type: Retail, act_id: {6860916b-c83f-4d66-a28c-c6b78499e7d0})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Small Business Server Standard OEM:NONSLP
+   (edition: ServerSBSStandard, group: 150, type: OEM:NONSLP, act_id: {58a6435c-0657-4912-b0f5-810215560e47})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Small Business Server Standard OEM:SLP
+   (edition: ServerSBSStandard, group: 150, type: OEM:SLP, act_id: {d034a056-e1d5-43e0-9511-7586b6d335eb})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Small Business Server Standard Retail
+   (edition: ServerSBSStandard, group: 150, type: Retail, act_id: {0fe34a6c-50a1-4cfb-9013-3fdf51127f04})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server for Small Business OEM:NONSLP
+   (edition: ServerWinSB, group: 150, type: OEM:NONSLP, act_id: {79303950-2706-45d7-8157-2f00cdf0d1a4})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server for Small Business OEM:SLP
+   (edition: ServerWinSB, group: 150, type: OEM:SLP, act_id: {9f6afe16-133b-4ee3-9278-3d5d32dd2579})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server for Small Business Retail
+   (edition: ServerWinSB, group: 150, type: Retail, act_id: {9e52b173-d1b8-4cc7-8a68-fd2ab63e25e0})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server for Small Business OEM:NONSLP
+   (edition: ServerWinSBV, group: 150, type: OEM:NONSLP, act_id: {104434dc-1ca5-43dd-a2c1-aa662b5dc912})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server for Small Business OEM:SLP
+   (edition: ServerWinSBV, group: 150, type: OEM:SLP, act_id: {7f8cb0c8-047f-4544-a308-0e3561354ea8})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server for Small Business Retail
+   (edition: ServerWinSBV, group: 150, type: Retail, act_id: {7b5306ad-0d02-463c-8177-59087ff8a58b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server HPC Retail
+   (edition: ServerComputeCluster, group: 152, type: Retail, act_id: {88a30fce-0fde-49b0-8cc6-4fbd568e7b5d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server HPC Retail virtual
+   (edition: ServerComputeCluster, group: 152, type: Retail, act_id: {4e491fef-6f37-42a3-ab48-4314d83e3627})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server HPC OEM:SLP
+   (edition: ServerComputeCluster, group: 150, type: OEM:SLP, act_id: {0447e96f-4062-4c1b-b068-98c8326016f2})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server HPC OEM:SLP
+   (edition: ServerComputeCluster, group: 150, type: OEM:NONSLP, act_id: {9515b08e-d839-4df3-bfe7-daecde02d97e})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server HPC OEM:COA
+   (edition: ServerComputeCluster, group: 150, type: OEM:COA, act_id: {911e20cb-83ea-44ed-8799-073be1f77f22})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Medium Business Server Management  Retail
+   (edition: ServerMediumBusinessManagement, group: 164, type: Retail, act_id: {b7c0e03c-9b98-4219-82dd-d17d9543891c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Medium Business Server Messaging  Retail
+   (edition: ServerMediumBusinessMessaging, group: 164, type: Retail, act_id: {92da208a-1a89-4407-88e6-bb5ca02aec47})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Medium Business Server Security  Retail
+   (edition: ServerMediumBusinessSecurity, group: 164, type: Retail, act_id: {9c07c927-9017-4dbf-84e7-06c3a61fed6a})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Medium Business Server Management OEM:SLP
+   (edition: ServerMediumBusinessManagement, group: 164, type: OEM:SLP, act_id: {7c4ab58c-78f4-4403-bda2-d5bfb449ddf1})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Medium Business Server Messaging OEM:SLP
+   (edition: ServerMediumBusinessMessaging, group: 164, type: OEM:SLP, act_id: {feb01ead-d438-4556-a5b3-2b6557da8737})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Medium Business Server Security OEM:SLP
+   (edition: ServerMediumBusinessSecurity, group: 164, type: OEM:SLP, act_id: {c135db9b-0074-4ef9-a405-a415de4e31a5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Medium Business Server Management OEM:NONSLP
+   (edition: ServerMediumBusinessManagement, group: 164, type: OEM:NONSLP, act_id: {1404ea26-d078-4786-886a-0da035b2cd5a})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Medium Business Server Messaging OEM:NONSLP
+   (edition: ServerMediumBusinessMessaging, group: 164, type: OEM:NONSLP, act_id: {c99b1d91-25f1-4024-a20c-0e9da8d15225})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Medium Business Server Security OEM:NONSLP
+   (edition: ServerMediumBusinessSecurity, group: 164, type: OEM:NONSLP, act_id: {74143dee-b000-419d-badc-b650f7e316e4})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Standard - MSDN
+   (edition: ServerStorageStandard, group: 164, type: Retail, act_id: {7139ded4-7373-4651-b44b-9de7ea72ccd4})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Workgroup - MSDN
+   (edition: ServerStorageWorkgroup, group: 164, type: Retail, act_id: {ce0df6b6-ff0f-463c-93ed-3cd71752a8ac})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Enterprise - MSDN
+   (edition: ServerStorageEnterprise, group: 164, type: Retail, act_id: {0dddb5b3-94b1-4b69-a916-6c82ea5542c5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Express - MSDN
+   (edition: ServerStorageExpress, group: 164, type: Retail, act_id: {374a5900-7184-43cd-a96f-abfcc30a1b27})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Express - OEM COA
+   (edition: ServerStorageExpress, group: 164, type: OEM:COA, act_id: {8e87fd23-319d-4cd6-8aa2-c590b7b0a42c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Standard - OEM COA
+   (edition: ServerStorageStandard, group: 164, type: OEM:COA, act_id: {3c73fddf-ec70-43b2-b642-abd2d575e102})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Workgroup - OEM COA
+   (edition: ServerStorageWorkgroup, group: 164, type: OEM:COA, act_id: {527803e5-f705-433b-a7f1-10b647e5369a})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Enterprise - OEM COA
+   (edition: ServerStorageEnterprise, group: 164, type: OEM:COA, act_id: {43329da1-7874-4e67-b612-3d59697b1677})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Express - OEM SLP
+   (edition: ServerStorageExpress, group: 164, type: OEM:SLP, act_id: {b2b347e5-e754-468d-afc1-7b2187288814})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Standard - OEM SLP
+   (edition: ServerStorageStandard, group: 164, type: OEM:SLP, act_id: {f6c23d59-6d32-4b41-acad-b0fa170733cb})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Workgroup - OEM SLP
+   (edition: ServerStorageWorkgroup, group: 164, type: OEM:SLP, act_id: {a499fe43-12de-4873-8971-1cff6173cdaa})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Enterprise - OEM SLP
+   (edition: ServerStorageEnterprise, group: 164, type: OEM:SLP, act_id: {fdd923f8-4409-4a72-becd-d7e9aa59bca3})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Express - OEM NSLP
+   (edition: ServerStorageExpress, group: 164, type: OEM:NONSLP, act_id: {f6a8f9fe-e072-4cb4-9fe2-a8276a1f161a})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Standard - OEM NSLP
+   (edition: ServerStorageStandard, group: 164, type: OEM:NONSLP, act_id: {5f4eb8c3-37e4-4a56-97c9-60ad9a03763d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Workgroup - OEM NSLP
+   (edition: ServerStorageWorkgroup, group: 164, type: OEM:NONSLP, act_id: {abb3e789-58ae-42ae-b308-bb2c831db127})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Enterprise - OEM NSLP
+   (edition: ServerStorageEnterprise, group: 164, type: OEM:NONSLP, act_id: {416733c6-d43f-4ba1-b6e0-722aa4573cdf})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Starter OEM:NONSLP
+   (edition: Starter, group: 142, type: OEM:NONSLP, act_id: {e0872c5d-9308-4c2a-ba9b-22f04a9b9480})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Ultimate OEM:NONSLP
+   (edition: Ultimate, group: 142, type: OEM:NONSLP, act_id: {136595fa-543f-4a64-8326-873935b7b7a1})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Home Basic OEM:COA
+   (edition: HomeBasic, group: 142, type: OEM:COA, act_id: {acc41c6f-dc9f-40ca-b0da-108c7a5f8d90})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Business OEM:COA
+   (edition: Business, group: 142, type: OEM:COA, act_id: {2d2d5664-88bd-4ebc-959a-dea6b1b80dc0})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Home Basic OEM:COA
+   (edition: HomeBasic, group: 152, type: OEM:COA, act_id: {f23dba60-517a-4184-bd26-066d9e3c19a9})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Home PremiumN OEM:NONSLP
+   (edition: HomePremiumN, group: 158, type: OEM:NONSLP, act_id: {08efb8fe-c403-4019-a084-9da91108cead})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Business OEM:NONSLP
+   (edition: Business, group: 164, type: OEM:NONSLP, act_id: {7e0e0685-8eef-47b8-8b25-f03f9819eb17})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Home Premium OEM:COA
+   (edition: HomePremium, group: 158, type: OEM:COA, act_id: {da0483a8-c443-45fd-9b52-2bba9b2ee8ab})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Home Basic OEM:NONSLP
+   (edition: HomeBasic, group: 164, type: OEM:NONSLP, act_id: {121059c3-724a-48ba-b745-5ab6daad8e37})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Home Premium OEM:NONSLP
+   (edition: HomePremium, group: 164, type: OEM:NONSLP, act_id: {a7a4a974-ad47-420e-8e1a-83d28572058a})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Home Basic OEM:NONSLP
+   (edition: HomeBasic, group: 166, type: OEM:NONSLP, act_id: {657fd7f1-652f-4a7f-9cef-e45e60f8b4c7})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 UltimateN OEM:NONSLP
+   (edition: UltimateN, group: 166, type: OEM:NONSLP, act_id: {70449d13-fe2e-453e-a19f-68b031ff1a19})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Home Premium OEM:COA
+   (edition: HomePremium, group: 166, type: OEM:COA, act_id: {6b16d38b-7dac-4614-9948-b4a92ddba889})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Home PremiumN OEM:NONSLP
+   (edition: HomePremiumN, group: 166, type: OEM:NONSLP, act_id: {c6166b46-aba5-4374-8bdf-be06bde66223})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Starter OEM:NONSLP
+   (edition: Starter, group: 164, type: OEM:NONSLP, act_id: {4cb70ae9-faf0-4cc1-88e5-f9d1d388e39a})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Ultimate OEM:NONSLP
+   (edition: Ultimate, group: 164, type: OEM:NONSLP, act_id: {95fac25a-4268-48c3-ae04-071ea19594fa})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Home Basic OEM:COA
+   (edition: HomeBasic, group: 166, type: OEM:COA, act_id: {6f4429fd-9729-443a-abfc-a3daf21ba4b6})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Home Premium OEM:NONSLP
+   (edition: HomePremium, group: 166, type: OEM:NONSLP, act_id: {11db994f-af86-4eb9-af35-fb4e3b0256f5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Starter OEM:COA
+   (edition: Starter, group: 166, type: OEM:COA, act_id: {920b06bf-f7d3-4291-80d3-5d3d91a8be4c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Ultimate OEM:COA
+   (edition: Ultimate, group: 166, type: OEM:COA, act_id: {7fd7e3ea-1a64-4e14-abc6-541992c5ef64})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 UltimateN OEM:COA
+   (edition: UltimateN, group: 166, type: OEM:COA, act_id: {e9528038-4625-4693-ac4d-43387ec18233})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Home PremiumN OEM:COA
+   (edition: HomePremiumN, group: 166, type: OEM:COA, act_id: {ab8e6bc4-0499-484e-8da1-761697126843})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Home Business Retail
+   (edition: Business, group: 146, type: Retail, act_id: {24a6d36e-9110-4081-bec6-fa27c8e860d0})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Home Premium Retail
+   (edition: HomePremium, group: 146, type: Retail, act_id: {cdb090c3-053c-4cd1-9cb2-e35b1738747a})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Home Basic Retail
+   (edition: HomeBasic, group: 146, type: Retail, act_id: {5f44767a-daac-470f-8e93-294b3217f956})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP2 Home Premium OEM:COA
+   (edition: HomePremium, group: 164, type: OEM:COA, act_id: {e05164a4-fb9a-471f-8c3a-6959b4cf1b72})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista SP1 Business OEM:NONSLP
+   (edition: Business, group: 150, type: OEM:NONSLP, act_id: {86e0a073-040b-4e10-aaf1-55f75482b5a4})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 All Volume Editions Volume:CSVLK
+   (edition: n/a, group: 172, type: Volume:CSVLK, act_id: {d188820a-cb63-4bad-a9a2-40b843ee23b7})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 DC and IA64 Volume:CSVLK (KMS_C)
+   (edition: n/a, group: 168, type: Volume:CSVLK, act_id: {8fe15d04-fc66-40e6-bf34-942481e06fd8})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Std and Ent Volume:CSVLK (KMS_B)
+   (edition: n/a, group: 168, type: Volume:CSVLK, act_id: {c99b641f-c4ea-4e63-bec3-5ed2ccd0f357})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Server 2008 R2 Web and CC Volume:CSVLK (KMS_A)
+   (edition: n/a, group: 168, type: Volume:CSVLK, act_id: {f73d1bcd-0802-47dd-b2d9-81bf2f8c0744})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 8 RTM Enterprise;EnterpriseN;Professional;ProfessionalN Volume:CSVLK
+   (edition: n/a, group: 206, type: Volume:CSVLK, act_id: {24259a22-3bf0-44af-a68b-1b858bce1894})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2012 RTM ServerDatacenter;ServerStandard;ServerMultiPointStandard;ServerMultiPointPremium Volume:CSVLK
+   (edition: n/a, group: 206, type: Volume:CSVLK, act_id: {7b37c913-252b-46be-ad80-b2b5ceade8af})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 8.1 RTM Client Volume SKUs - CSVLK
+   (edition: n/a, group: 206, type: Volume:CSVLK, act_id: {29d0b60f-66da-4858-bcaf-9eb513cd310d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2012 R2 RTM All Volume SKUs - CSVLK
+   (edition: n/a, group: 206, type: Volume:CSVLK, act_id: {dcb88f6f-b090-405b-850e-dabcccf3693f})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server Extended Security Updates add-on MAK
+   (edition: Server-ESU-Year1, group: 168, type: Volume:MAK, act_id: {553673ed-6ddf-419c-a153-b760283472fd})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server Extended Security Updates add-on MAK
+   (edition: Server-ESU-Year2, group: 168, type: Volume:MAK, act_id: {04fa0286-fa74-401e-bbe9-fbfbb158010d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server Extended Security Updates add-on MAK
+   (edition: Server-ESU-Year3, group: 168, type: Volume:MAK, act_id: {16c08c85-0c8b-4009-9b2b-f1f7319e45f9})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server Extended Security Updates add-on MAK
+   (edition: Server-ESU-PA, group: 168, type: Volume:MAK, act_id: {8e7bfb1e-acc1-4f56-abae-b80fce56cd4b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server For Embedded Systems Extended Security Updates add-on MAK
+   (edition: Server-FES-ESU-Year1, group: 168, type: Volume:MAK, act_id: {3ca9443e-6f68-4747-bb5e-7f0fbbd55ef0})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server For Embedded Systems Extended Security Updates add-on MAK
+   (edition: Server-FES-ESU-Year2, group: 168, type: Volume:MAK, act_id: {66c3d302-3a0e-4fca-9558-5a185996e592})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server For Embedded Systems Extended Security Updates add-on MAK
+   (edition: Server-FES-ESU-Year3, group: 168, type: Volume:MAK, act_id: {c5958cad-5b44-4780-8a6c-aa0d7033d261})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Srvs 2008 SP2 Extended Security Updates add-on Volume:GVLK
+   (edition: Server-ESU-Year1, group: 142, type: Volume:GVLK, act_id: {130ab21f-ca91-4aae-b67f-ac3b45534731})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Srvs 2008 SP2 Extended Security Updates add-on Volume:GVLK
+   (edition: Server-ESU-Year2, group: 142, type: Volume:GVLK, act_id: {a7e6fb3c-cb11-4832-bab0-deee887af138})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Srvs 2008 SP2 Extended Security Updates add-on Volume:GVLK
+   (edition: Server-ESU-Year3, group: 142, type: Volume:GVLK, act_id: {151db6a5-3dfa-4c7f-b5ba-af8d7991adc9})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Srvs 2008 SP2 Extended Security Updates add-on Volume:GVLK
+   (edition: Server-ESU-PA, group: 142, type: Volume:GVLK, act_id: {d9205746-5f80-4062-ab75-eda24319d0fc})
+   [PKEY2005 detected: Displaying only IDs]
+

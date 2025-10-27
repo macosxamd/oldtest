@@ -1,0 +1,828 @@
+C: RTM_HomeBusiness_Retail2
+   (edition: HomeBusinessR, group: 54, type: Retail, act_id: {00495466-527F-442F-A681-F36FAD813F86})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HomeBusiness_OEM_Perp3
+   (edition: HomeBusinessR, group: 54, type: OEM:NONSLP, act_id: {00B6BBFC-4091-4182-BB81-93A9A6DEB46A})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_InfoPath_SubPrepid
+   (edition: InfoPathR, group: 96, type: Retail, act_id: {0209AC7B-8A4B-450B-92F2-B583152A2613})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_SmallBusBasics_SubPrepid
+   (edition: SmallBusBasicsR, group: 78, type: Retail, act_id: {08CEF85D-8704-417E-A749-B87C7D218CAD})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_VisioPro_Retail2
+   (edition: VisioSIR, group: 60, type: Retail, act_id: {0993043D-664F-4B2E-A7F1-FD92091FA81F})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Mondo_Retail3
+   (edition: MondoR, group: 30, type: Retail, act_id: {09AE19CA-75F8-407F-BF70-8D9F24C8D222})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HomeStudent_Retail
+   (edition: HomeStudentR, group: 20, type: Retail, act_id: {09E2D37E-474B-4121-8626-58AD9BE5776F})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Mondo_KMS_Client
+   (edition: MondoVL, group: 76, type: Volume:GVLK, act_id: {09ED9640-F020-400A-ACD8-D7D867DFD9C2})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_VisioPro_OEM_Perp2
+   (edition: VisioSIR, group: 62, type: OEM:NONSLP, act_id: {0B172E55-95AE-4C78-8C58-81AA98AB7F94})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HomeBusinessDemo_BypassTrial
+   (edition: HomeBusinessDemoR, group: 22, type: Retail, act_id: {0B1ACA01-5C25-468F-809D-DA81CB49AC3A})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Excel_SubPrepid
+   (edition: ExcelR, group: 76, type: Retail, act_id: {0BE50797-9053-4F15-B9B1-2F2C5A310816})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HomeStudent_OEM_Perp2
+   (edition: HomeStudentR, group: 52, type: OEM:NONSLP, act_id: {0E795CCE-5BAD-40B1-8803-CE71FB89031D})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HomeBusiness_OEM_Perp2
+   (edition: HomeBusinessR, group: 22, type: OEM:NONSLP, act_id: {0EAAF923-70A2-48BD-A6F1-54CC1AA95C13})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_VisioPro_SubPrepid
+   (edition: VisioSIR, group: 60, type: Retail, act_id: {0EC894E8-A5A9-48DE-9463-061C4801EE8F})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_OneNote_OEM_Perp
+   (edition: OneNoteR, group: 58, type: OEM:NONSLP, act_id: {115A5CF2-D4CF-4627-91DC-839DF666D082})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProjectStd_MAK
+   (edition: ProjectStdVL, group: 98, type: Volume:MAK, act_id: {11B39439-6B93-4642-9570-F2EB81BE2238})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HSPowerPoint_Trial
+   (edition: HSPowerPointR, group: 96, type: Retail:TB:Eval, act_id: {131E900A-EFA8-412E-BA20-CB0F4BE43054})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_PowerPoint_Retail
+   (edition: PowerPointR, group: 76, type: Retail, act_id: {133C8359-4E93-4241-8118-30BB18737EA0})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_VisioPro_OEM_Perp
+   (edition: VisioSIR, group: 60, type: OEM:NONSLP, act_id: {1359DCE0-0DC8-4171-8C43-BA8B9F2E5D1D})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Personal_SubPrepid
+   (edition: PersonalR, group: 62, type: Retail, act_id: {148CE971-9CCE-4DE0-9FD6-4871BEBD5666})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Mondo_Retail
+   (edition: MondoR, group: 30, type: Retail, act_id: {14F5946A-DEBC-4716-BABC-7E2C240FEC08})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_VisioProMSDN_Retail
+   (edition: VisioSIR, group: 138, type: Retail, act_id: {15A9D881-3184-45E0-B407-466A68A691B1})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Professional_OEM_Perp
+   (edition: ProfessionalR, group: 30, type: OEM:NONSLP, act_id: {1783C7A6-840C-4B33-AF05-2B1F5CD73527})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Publisher_SubPrepid
+   (edition: PublisherR, group: 76, type: Retail, act_id: {17B7CE1A-92A9-4B59-A7D0-E872D8A9A994})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProPlusAcad_MAK
+   (edition: ProPlusAcadVL, group: 76, type: Volume:MAK, act_id: {191301D3-A579-428C-B0C7-D7988500F9E3})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HomeBusinessSub_SubPrepid
+   (edition: HomeBusinessSubR, group: 22, type: Retail, act_id: {19316117-30A8-4773-8FD9-7F7231F4E060})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Word_Trial
+   (edition: WordR, group: 58, type: Retail:TB:Eval, act_id: {195E23D7-E0B7-4C30-8A30-8E9941AFD07E})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Publisher_Trial
+   (edition: PublisherR, group: 76, type: Retail:TB:Eval, act_id: {1A069855-55EC-4CCF-9C45-2AC5D500F792})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_PowerPoint_Trial
+   (edition: PowerPointR, group: 76, type: Retail:TB:Eval, act_id: {1C57AD8F-60BE-4CE0-82EC-8F55AA09751F})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HomeStudent_Retail2
+   (edition: HomeStudentR, group: 52, type: Retail, act_id: {1CAEF4EC-ADEC-4236-A835-882F5AFD4BF0})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProjectPro_MAK
+   (edition: ProjectProVL, group: 98, type: Volume:MAK, act_id: {1CF57A59-C532-4E56-9A7D-FFA2FE94B474})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HomeBusiness_Trial2
+   (edition: HomeBusinessR, group: 54, type: Retail:TB:Eval, act_id: {1DFBB6C1-0C4D-44E9-A0EA-77F59146E011})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_PowerPoint_SubPrepid
+   (edition: PowerPointR, group: 76, type: Retail, act_id: {1EEA4120-6699-47E9-9E5D-2305EE108BAC})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Standard_MAK
+   (edition: StandardVL, group: 76, type: Volume:MAK, act_id: {1F76E346-E0BE-49BC-9954-70EC53A4FCFE})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Groove_OEM_Perp
+   (edition: GrooveR, group: 96, type: OEM:NONSLP, act_id: {209408DF-98DB-4EEB-B96B-D0B9A4B13468})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_PersonalPrepaid_Trial
+   (edition: PersonalPrepaidR, group: 62, type: Retail:TB:Eval, act_id: {20F986B2-048B-4810-9421-73F31CA97657})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProfessionalAcad_Trial
+   (edition: ProfessionalAcadR, group: 78, type: Retail:TB:Eval, act_id: {23037F94-D654-4F38-962F-FF5B15348630})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_PowerPoint_OEM_Perp
+   (edition: PowerPointR, group: 76, type: OEM:NONSLP, act_id: {247E7706-0D68-4F56-8D78-2B8147A11CA8})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HSOneNote_Retail
+   (edition: HSOneNoteR, group: 58, type: Retail, act_id: {25FE4611-B44D-49CC-AE87-2143D299194E})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HomeBusinessSub_Subscription
+   (edition: HomeBusinessSubR, group: 98, type: Retail:TB:Sub, act_id: {2637E47C-CD16-45A1-8FF7-B7938723FD10})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Starter_ByPass
+   (edition: StarterR, group: 98, type: Retail, act_id: {2745E581-565A-4670-AE90-6BF7C57FFE43})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProjectLPK_ByPass
+   (edition: ProjectLPK, group: 98, type: Retail, act_id: {288B2C51-35B5-41CA-AA5B-524DA113B4BD})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProPlus_SubPrepid
+   (edition: ProPlusR, group: 98, type: Retail, act_id: {28FE27A7-2E11-4C05-8DD0-E1F1C08DC3AE})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProfessionalDemo_BypassTrial
+   (edition: ProfessionalDemoR, group: 30, type: Retail, act_id: {2BCDDDBE-4EBE-4728-9594-625E26137761})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HomeBusiness_BypassTrial
+   (edition: HomeBusinessR, group: 54, type: Retail, act_id: {2BEB303E-66C6-4422-B2EC-5AEA48B75EE5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Outlook_Trial
+   (edition: OutlookR, group: 20, type: Retail:TB:Eval, act_id: {2C8ACFCA-F0D9-4CCF-BA28-2F2C47DA8BA5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Mondo_Subscription
+   (edition: MondoVL, group: 30, type: Retail:TB:Sub, act_id: {2C971DC3-E122-4DBD-8ADF-B5777799799A})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Word_KMS_Client
+   (edition: WordVL, group: 62, type: Volume:GVLK, act_id: {2D0882E7-A4E7-423B-8CCC-70D91E0158B1})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProjectProSub_Subscription
+   (edition: ProjectProSubR, group: 98, type: Retail:TB:Sub, act_id: {3047CDE0-03E2-4BAE-ABC9-40AD640B418D})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HSPowerPoint_SubPrepid
+   (edition: HSPowerPointR, group: 96, type: Retail, act_id: {31E631F4-EE62-4B1F-AEB6-3B30393E0045})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_VisioPrem_SubPrepid
+   (edition: VisioSIR, group: 62, type: Retail, act_id: {3513C04B-9085-43A9-8F9A-639993C19E80})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_VisioPrem_MAK
+   (edition: VisioSIVL, group: 138, type: Volume:MAK, act_id: {36756CB8-8E69-4D11-9522-68899507CD6A})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_PowerPoint_MAK
+   (edition: PowerPointVL, group: 138, type: Volume:MAK, act_id: {38252940-718C-4AA6-81A4-135398E53851})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HomeStudent_Trial
+   (edition: HomeStudentR, group: 52, type: Retail:TB:Eval, act_id: {3850C794-B06F-4633-B02F-8AC4DF0A059F})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_PersonalDemo_BypassTrial
+   (edition: PersonalDemoR, group: 62, type: Retail, act_id: {3B02A9FF-CED3-46D6-9298-A4334829748F})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Publisher_MAK
+   (edition: PublisherVL, group: 138, type: Volume:MAK, act_id: {3D014759-B128-4466-9018-E80F6320D9D0})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Mondo_SubPrepid
+   (edition: MondoR, group: 30, type: Retail, act_id: {3D9F0DCA-BCF1-4A47-8F90-EB53C6111AFD})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_OneNote_Retail
+   (edition: OneNoteR, group: 58, type: Retail, act_id: {3F7AA693-9A7E-44FC-9309-BB3D8E604925})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_VisioStd_OEM_Perp
+   (edition: VisioSIR, group: 62, type: OEM:NONSLP, act_id: {40BECF98-1D17-43EF-989F-1D92396A2741})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Personal_OEM_Perp
+   (edition: PersonalR, group: 62, type: OEM:NONSLP, act_id: {40EC9524-41D7-41D7-95C7-E5F185F92EA3})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Professional_Trial2
+   (edition: ProfessionalR, group: 56, type: Retail:TB:Eval, act_id: {42122F59-2850-485E-B0C0-1AACA1C88923})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProPlusMSDN_Retail
+   (edition: ProPlusMSDNR, group: 76, type: Retail, act_id: {42CBF3F6-4D5E-49C6-991A-0D99B8429A6D})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Professional_BypassTrial
+   (edition: ProfessionalR, group: 56, type: Retail, act_id: {4365667B-8304-463E-B542-2DF8D0A73EA9})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_SmallBusBasics_Trial
+   (edition: SmallBusBasicsR, group: 78, type: Retail:TB:Eval, act_id: {4519ABCF-23DB-487B-AC28-7C9EBE801716})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_PowerPoint_KMS_Client
+   (edition: PowerPointVL, group: 138, type: Volume:GVLK, act_id: {45593B1D-DFB1-4E91-BBFB-2D5D0CE2227A})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Personal_Retail2
+   (edition: PersonalR, group: 62, type: Retail, act_id: {45AB9E9F-C1DC-4BC7-8E37-89E0C1241776})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Mondo_Retail2
+   (edition: MondoR, group: 30, type: Retail, act_id: {4671E3DF-D7B8-4502-971F-C1F86139A29A})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProPlus_Retail2
+   (edition: ProPlusR, group: 98, type: Retail, act_id: {46C84AAD-65C7-482D-B82A-1EDC52E6989A})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HomeBusiness_Trial
+   (edition: HomeBusinessR, group: 22, type: Retail:TB:Eval, act_id: {4790B2A5-BBF2-4C26-976F-D7736E516CCE})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProjectProMSDN_Retail
+   (edition: ProjectProMSDNR, group: 98, type: Retail, act_id: {47A5840C-8124-4A1F-A447-50168CD6833D})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_VisioLPK_ByPass
+   (edition: VisioLPK, group: 98, type: Retail, act_id: {4A8825CE-A527-4A42-B59C-17B22CFE644F})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Access_OEM_Perp
+   (edition: AccessR, group: 138, type: OEM:NONSLP, act_id: {4B17D082-D27D-467D-9E70-40B805714C0A})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_VisioStd_SubPrepid
+   (edition: VisioSIR, group: 62, type: Retail, act_id: {4CC91C85-44A8-4834-B15D-FFEA4616E4E4})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProjectProSub_SubPrepid
+   (edition: ProjectProSubR, group: 98, type: Retail, act_id: {4D06F72E-FD50-4BC2-A24B-D448D7F17EF2})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Access_Retail
+   (edition: AccessR, group: 138, type: Retail, act_id: {4D463C2C-0505-4626-8CDB-A4DA82E2D8ED})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Publisher_OEM_Perp
+   (edition: PublisherR, group: 76, type: OEM:NONSLP, act_id: {4E6F61A8-989B-463C-9948-83B894540AD4})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Excel_Retail
+   (edition: ExcelR, group: 76, type: Retail, act_id: {4EAFF0D0-C6CB-4187-94F3-C7656D49A0AA})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HomeBusiness_Retail3
+   (edition: HomeBusinessR, group: 54, type: Retail, act_id: {4EFBD4C4-5422-434C-8C25-75DA21B9381C})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_InfoPath_Trial
+   (edition: InfoPathR, group: 96, type: Retail:TB:Eval, act_id: {4F0B7650-A09D-4180-976D-76D8B31EA1B4})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Professional_Retail2
+   (edition: ProfessionalR, group: 56, type: Retail, act_id: {50AC2361-FE88-4E5E-B0B2-13ACC96CA9AE})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Mondo_MAK
+   (edition: MondoVL, group: 30, type: Volume:MAK, act_id: {533B656A-4425-480B-8E30-1A2358898350})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HSWord_Trial
+   (edition: HSWordR, group: 58, type: Retail:TB:Eval, act_id: {533D80CB-BF68-48DB-AB3E-165B5377599E})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_VisioPro_MAK
+   (edition: VisioSIVL, group: 138, type: Volume:MAK, act_id: {5980CF2B-E460-48AF-921E-0C2A79025D23})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_StarterPrem_SubPrepid
+   (edition: StarterPremR, group: 98, type: Retail, act_id: {59EC6B79-F6F5-4ADD-A5A0-B755BFB77422})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HomeStudent_OEM_Perp
+   (edition: HomeStudentR, group: 20, type: OEM:NONSLP, act_id: {5DBE2163-3FA9-464C-B8B7-CAADDE61E4FF})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProjectStd_KMS_Client
+   (edition: ProjectStdVL, group: 98, type: Volume:GVLK, act_id: {5DC7BF61-5EC9-4996-9CCB-DF806A2D0EFE})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Mondo_ByPass
+   (edition: MondoVL, group: 30, type: Retail, act_id: {60CD7BD4-F23C-4E58-9D81-968591E793EA})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_VisioPrem_Retail
+   (edition: VisioSIR, group: 62, type: Retail, act_id: {66CAD568-C2DC-459D-93EC-2F3CB967EE34})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_VisioPro_Trial
+   (edition: VisioSIR, group: 60, type: Retail:TB:Eval, act_id: {673EA9EA-9BC0-463F-93E5-F77655E46630})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_OneNote_MAK
+   (edition: OneNoteVL, group: 56, type: Volume:MAK, act_id: {6860B31F-6A67-48B8-84B9-E312B3485C4B})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProjectStd_Retail
+   (edition: ProjectStdR, group: 76, type: Retail, act_id: {688F6589-2BD9-424E-A152-B13F36AA6DE1})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Professional_DeltaTrial
+   (edition: ProfessionalR, group: 56, type: Retail, act_id: {6912CCDF-557A-497C-9903-3DE6CE9FA631})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProjectPro_Trial
+   (edition: ProjectProR, group: 74, type: Retail:TB:Eval, act_id: {694E35B9-F965-47D7-AA19-AB2783224ADF})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_OneNote_SubPrepid
+   (edition: OneNoteR, group: 58, type: Retail, act_id: {698FA94F-EB99-43BE-AB8C-5A085C36936C})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProPlus_KMS_Client
+   (edition: ProPlusVL, group: 96, type: Volume:GVLK, act_id: {6F327760-8C5C-417C-9B61-836A98287E0C})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Groove_Retail
+   (edition: GrooveR, group: 96, type: Retail, act_id: {7004B7F0-6407-4F45-8EAC-966E5F868BDE})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProPlus_Retail
+   (edition: ProPlusR, group: 98, type: Retail, act_id: {71AF7E84-93E6-4363-9B69-699E04E74071})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Excel_MAK
+   (edition: ExcelVL, group: 138, type: Volume:MAK, act_id: {71DC86FF-F056-40D0-8FFB-9592705C9B76})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Professional_SubPrepid
+   (edition: ProfessionalR, group: 56, type: Retail, act_id: {71FB05B7-19E2-4567-AF77-8F31681D39D2})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProjectPro_Retail
+   (edition: ProjectProR, group: 74, type: Retail, act_id: {725714D7-D58F-4D12-9FA8-35873C6F7215})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_AccessRuntime_ByPass
+   (edition: AccessRuntimeR, group: 22, type: Retail, act_id: {745FB377-0A59-4CA9-B9A9-C359557A2C4E})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProPlusAcad_Retail
+   (edition: ProPlusAcadR, group: 78, type: Retail, act_id: {75BB133B-F5DD-423C-8321-3BD0B50322A5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_VisioPrem_Trial
+   (edition: VisioSIR, group: 62, type: Retail:TB:Eval, act_id: {7616C283-5C5B-4054-B52C-902F03E4DCDF})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HomeStudent_Retail3
+   (edition: HomeStudentR, group: 52, type: Retail, act_id: {7B0FF49B-22DA-4C74-876F-B039616D9A4E})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HomeBusiness_Retail
+   (edition: HomeBusinessR, group: 22, type: Retail, act_id: {7B7D1F17-FDCB-4820-9789-9BEC6E377821})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProjectPro_OEM_Perp2
+   (edition: ProjectProR, group: 96, type: OEM:NONSLP, act_id: {7B8EBE34-08FC-46C5-8BFA-161B12A43E41})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Professional_OEM_Perp2
+   (edition: ProfessionalR, group: 56, type: OEM:NONSLP, act_id: {7D4627B9-9467-4AA7-AE7F-892807D78D8F})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Professional_OEM_Perp3
+   (edition: ProfessionalR, group: 56, type: OEM:NONSLP, act_id: {7E05FC0C-7CE4-4849-BB0B-231BDF5DCA70})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_SmallBusBasics_MAK
+   (edition: SmallBusBasicsVL, group: 58, type: Volume:MAK, act_id: {8090771E-D41A-4482-929E-DE87F1F47E46})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Groove_SubPrepid
+   (edition: GrooveR, group: 96, type: Retail, act_id: {84155B23-BAE0-4748-967B-40E12917B0BB})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_InfoPath_MAK
+   (edition: InfoPathVL, group: 138, type: Volume:MAK, act_id: {85E22450-B741-430C-A172-A37962C938AF})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_InfoPath_OEM_Perp
+   (edition: InfoPathR, group: 96, type: OEM:NONSLP, act_id: {866AC003-01A0-49FD-A6EC-F8F56ABDCFAB})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_SmallBusBasics_OEM_Perp
+   (edition: SmallBusBasicsR, group: 78, type: OEM:NONSLP, act_id: {88B5EC99-C9D1-47F9-B1F2-3C6C63929B7B})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Groove_KMS_Client
+   (edition: GrooveVL, group: 138, type: Volume:GVLK, act_id: {8947D0B8-C33B-43E1-8C56-9B674C052832})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Mondo_Trial
+   (edition: MondoR, group: 30, type: Retail:TB:Eval, act_id: {8A730535-A343-44EB-91A2-B1650DE0A872})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProjectStd_OEM_Perp
+   (edition: ProjectStdR, group: 76, type: OEM:NONSLP, act_id: {8B1F0A02-07D6-411C-9FC7-9CAA3F86D1FE})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Professional_Retail
+   (edition: ProfessionalR, group: 30, type: Retail, act_id: {8B559C37-0117-413E-921B-B853AEB6E210})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Outlook_OEM_Perp
+   (edition: OutlookR, group: 20, type: OEM:NONSLP, act_id: {8C54246A-31FE-4274-90C7-687987735848})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProPlusMSDN_Retail2
+   (edition: ProPlusMSDNR, group: 96, type: Retail, act_id: {8C5EDB5D-9AA0-47A7-9416-D61C7419A60A})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProPlus_Trial
+   (edition: ProPlusR, group: 98, type: Retail:TB:Eval, act_id: {8C5FA740-5DCA-43F9-BE1B-D0281BCF9779})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HSExcel_OEM_Perp
+   (edition: HSExcelR, group: 96, type: OEM:NONSLP, act_id: {8C7E3A91-E176-4AB3-84B9-A7E0EFB3A6DD})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Mondo_BypassTrial2
+   (edition: MondoR, group: 30, type: Retail, act_id: {8C893555-CB79-4BAA-94EA-780E01C3AB15})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_OneNote_Trial
+   (edition: OneNoteR, group: 58, type: Retail:TB:Eval, act_id: {8CC3794C-4B71-44EA-BAAE-D95CC1D17042})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Access_KMS_Client
+   (edition: AccessVL, group: 96, type: Volume:GVLK, act_id: {8CE7E872-188C-4B98-9D90-F8F90B7AAD02})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProPlusSub_Subscription2
+   (edition: ProPlusSubR, group: 140, type: Retail:TB:Sub, act_id: {8D1E5912-B904-40A6-ADDD-8C7482879E87})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Outlook_SubPrepid
+   (edition: OutlookR, group: 20, type: Retail, act_id: {8FB0D83E-2BCC-43CD-871A-6AD7A06349F4})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Excel_Trial
+   (edition: ExcelR, group: 76, type: Retail:TB:Eval, act_id: {8FC26056-52E4-4519-889F-CDBEDEAC7C31})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HomeStudentDemo_BypassTrial
+   (edition: HomeStudentDemoR, group: 52, type: Retail, act_id: {8FC4269F-A845-4D1F-9DF0-9F499C92D9CB})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_VisioPrem_KMS_Client
+   (edition: VisioSIVL, group: 138, type: Volume:GVLK, act_id: {92236105-BB67-494F-94C7-7F7A607929BD})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Access_MAK
+   (edition: AccessVL, group: 96, type: Volume:MAK, act_id: {95AB3EC8-4106-4F9D-B632-03C019D1D23F})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HSPowerPoint_OEM_Perp
+   (edition: HSPowerPointR, group: 96, type: OEM:NONSLP, act_id: {95FF18B9-F2CF-4291-AB2E-BC17D54AA756})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Publisher_Retail
+   (edition: PublisherR, group: 76, type: Retail, act_id: {98677603-A668-4FA4-9980-3F1F05F78F69})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Word_MAK
+   (edition: WordVL, group: 62, type: Volume:MAK, act_id: {98D4050E-9C98-49BF-9BE1-85E12EB3AB13})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Word_SubPrepid
+   (edition: WordR, group: 58, type: Retail, act_id: {99279F42-6DE2-4346-87B1-B0EC99C7525C})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProjectPro_SubPrepid
+   (edition: ProjectProR, group: 74, type: Retail, act_id: {9A13EB9C-006F-450A-9F59-4CEC1EAB88F5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Standard_KMS_Client
+   (edition: StandardVL, group: 76, type: Volume:GVLK, act_id: {9DA2A678-FB6B-4E67-AB84-60DD6A9C819A})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_VisioStd_KMS_Client
+   (edition: VisioSIVL, group: 138, type: Volume:GVLK, act_id: {9ED833FF-4F92-4F36-B370-8683A4F13275})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HSOneNote_OEM_Perp
+   (edition: HSOneNoteR, group: 58, type: OEM:NONSLP, act_id: {9F82274C-C0EF-4212-B8D9-97A6BFBC2DC7})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_VisioStd_Trial
+   (edition: VisioSIR, group: 62, type: Retail:TB:Eval, act_id: {A27DF0C4-AE71-4DDD-BBEB-6D6222FE3A17})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Mondo_BypassTrial
+   (edition: MondoVL, group: 30, type: Retail, act_id: {A42E403B-B141-4FA2-9781-647604D09BFB})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_PTK_ByPass
+   (edition: PTK, group: 98, type: Retail, act_id: {A4F824FC-C80E-4111-9884-DCEECE7D81A1})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Professional_Retail3
+   (edition: ProfessionalR, group: 56, type: Retail, act_id: {A7971F62-61D0-4C67-ABCC-085C10CF470F})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HSWord_Retail
+   (edition: HSWordR, group: 58, type: Retail, act_id: {A963D7AE-7A88-41A7-94DA-8BB5635A8AF9})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Outlook_MAK
+   (edition: OutlookVL, group: 98, type: Volume:MAK, act_id: {A9AEABD8-63B8-4079-A28E-F531807FD6B8})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProjectPro_Retail2
+   (edition: ProjectProR, group: 74, type: Retail, act_id: {AA188B61-D3D3-443C-9DEC-5B42393EE5CB})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Mondo_Trial3
+   (edition: MondoR, group: 30, type: Retail:TB:Eval, act_id: {AB324F86-606E-42EC-93E3-FC755989FE19})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_OneNote_KMS_Client
+   (edition: OneNoteVL, group: 56, type: Volume:GVLK, act_id: {AB586F5C-5256-4632-962F-FEFD8B49E6F4})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Personal_Retail
+   (edition: PersonalR, group: 62, type: Retail, act_id: {ACB51361-C0DB-4895-9497-1831C41F31A6})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProPlusSub_Subscription
+   (edition: ProPlusSubR, group: 98, type: Retail:TB:Sub, act_id: {AE28E0AB-590F-4BE3-B7F6-438DDA6C0B1C})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProfessionalAcad_OEM_Perp
+   (edition: ProfessionalAcadR, group: 78, type: OEM:NONSLP, act_id: {AE3ED6AE-2654-4B82-A4BA-331265BB8972})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_SmallBusBasicsMSDN_Retail
+   (edition: SmallBusBasicsMSDNR, group: 58, type: Retail, act_id: {AF2AFE5B-55DD-4252-AF42-E6F79CC07EBC})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HomeStudent_SubPrepid
+   (edition: HomeStudentR, group: 52, type: Retail, act_id: {AFCA9E83-152D-48A8-A492-6D552E40EE8A})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HomeBusiness_SubPrepid
+   (edition: HomeBusinessR, group: 54, type: Retail, act_id: {B21DA2D5-50F1-4C5C-BF59-07BAA35E25BA})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Access_SubPrepid
+   (edition: AccessR, group: 138, type: Retail, act_id: {B3DADE99-DE64-4CEC-BCC7-A584D510782A})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HSOneNote_Trial
+   (edition: HSOneNoteR, group: 58, type: Retail:TB:Eval, act_id: {B49D9ABE-7F30-40AA-9A4C-BDE08A14832D})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Publisher_KMS_Client
+   (edition: PublisherVL, group: 138, type: Volume:GVLK, act_id: {B50C4F75-599B-43E8-8DCD-1081A7967241})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_StandardMSDN_Retail
+   (edition: StandardMSDNR, group: 76, type: Retail, act_id: {B6D2565C-341D-4768-AD7D-ADDBE00BB5CE})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProjectStd_MAK2
+   (edition: ProjectStdVL, group: 138, type: Volume:MAK, act_id: {B6E9FAE1-1A0E-4C61-99D0-4AF068915378})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_SPD_ByPass
+   (edition: SPDR, group: 98, type: Retail, act_id: {B78DF69E-0966-40B1-AE85-30A5134DEDD0})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_VisioStd_Retail
+   (edition: VisioSIR, group: 62, type: Retail, act_id: {BA24D057-8B5F-462E-87FE-485038C68954})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_VisioPrem_OEM_Perp
+   (edition: VisioSIR, group: 62, type: OEM:NONSLP, act_id: {BB42DD2B-070C-4F5B-947A-55F56A16D4F3})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Standard_SubPrepid
+   (edition: StandardR, group: 52, type: Retail, act_id: {BC8275B7-D67A-4390-8C5E-CC57CFC74328})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Word_OEM_Perp
+   (edition: WordR, group: 58, type: OEM:NONSLP, act_id: {BED40A3E-6ACA-4512-8012-70AE831A2FC5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProPlus_KMS_Host
+   (edition: ProPlusVL, group: 96, type: Volume:CSVLK, act_id: {BFE7A195-4F8F-4F0B-A622-CF13C7D16864})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_OEM_ByPass
+   (edition: OEM, group: 78, type: Retail, act_id: {C1CEDA8B-C578-4D5D-A4AA-23626BE4E234})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HSExcel_Retail
+   (edition: HSExcelR, group: 96, type: Retail, act_id: {C3AE020C-5A71-4CC5-A27A-2A97C2D46860})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProfessionalAcad_Retail
+   (edition: ProfessionalAcadR, group: 78, type: Retail, act_id: {C4109E90-6C4A-44F6-B380-EF6137122F16})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HSWord_SubPrepid
+   (edition: HSWordR, group: 58, type: Retail, act_id: {C735DCC2-F5E9-4077-A72F-4B6D254DDC43})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HSExcel_SubPrepid
+   (edition: HSExcelR, group: 96, type: Retail, act_id: {C7DF3516-425A-4A84-9420-0112F3094D90})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_InfoPath_KMS_Client
+   (edition: InfoPathVL, group: 138, type: Volume:GVLK, act_id: {CA6B6639-4AD6-40AE-A575-14DEE07F6430})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_VisioStd_MAK
+   (edition: VisioSIVL, group: 138, type: Volume:MAK, act_id: {CAB3A4C4-F31A-4C12-AFA9-A0EECC86BD95})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Excel_KMS_Client
+   (edition: ExcelVL, group: 138, type: Volume:GVLK, act_id: {CEE5D470-6E3B-4FCC-8C2B-D17428568A9F})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_VisioPro_Retail
+   (edition: VisioSIR, group: 60, type: Retail, act_id: {D0A97E12-08A1-4A45-ADD5-1155B204E766})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Standard_Retail
+   (edition: StandardR, group: 52, type: Retail, act_id: {D3422CFB-8D8B-4EAD-99F9-EAB0CCD990D7})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HSPowerPoint_Retail
+   (edition: HSPowerPointR, group: 96, type: Retail, act_id: {D652AD8D-DA5C-4358-B928-7FB1B4DE7A7C})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HSWord_OEM_Perp
+   (edition: HSWordR, group: 58, type: OEM:NONSLP, act_id: {D79A3F4F-E768-4114-8D3A-7F9F45687F67})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HSOneNote_SubPrepid
+   (edition: HSOneNoteR, group: 58, type: Retail, act_id: {D82665D5-2D8F-46BA-ABEC-FDF06206B956})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Word_Retail
+   (edition: WordR, group: 58, type: Retail, act_id: {DB3BBC9C-CE52-41D1-A46F-1A1D68059119})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_SmallBusBasics_Retail
+   (edition: SmallBusBasicsR, group: 78, type: Retail, act_id: {DBE3AEE0-5183-4FF7-8142-66050173CB01})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Groove_Trial
+   (edition: GrooveR, group: 96, type: Retail:TB:Eval, act_id: {DD1E0912-6816-4DC2-A8BF-AA2971DB0E25})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_StandardAcad_MAK
+   (edition: StandardAcadVL, group: 76, type: Volume:MAK, act_id: {DD457678-5C3E-48E4-BC67-A89B7A3E3B44})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HomeStudent_OEM_Perp3
+   (edition: HomeStudentR, group: 52, type: OEM:NONSLP, act_id: {DDB12F7C-CE7E-4EE5-A01C-E6AF9EDBC020})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Professional_Trial
+   (edition: ProfessionalR, group: 30, type: Retail:TB:Eval, act_id: {DF01848D-8F9D-4589-9198-4AC51F2547F3})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProjectPro_KMS_Client
+   (edition: ProjectProVL, group: 98, type: Volume:GVLK, act_id: {DF133FF7-BF14-4F95-AFE3-7B48E7E331EF})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_VisioPro_KMS_Client
+   (edition: VisioSIVL, group: 138, type: Volume:GVLK, act_id: {E558389C-83C3-4B29-ADFE-5E4D7F46C358})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProPlusSub_SubPrepid
+   (edition: ProPlusSubR, group: 62, type: Retail, act_id: {E98EF0C0-71C4-42CE-8305-287D8721E26C})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_SmallBusBasics_KMS_Client
+   (edition: SmallBusBasicsVL, group: 58, type: Volume:GVLK, act_id: {EA509E87-07A1-4A45-9EDC-EBA5A39F36AF})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Excel_OEM_Perp
+   (edition: ExcelR, group: 76, type: OEM:NONSLP, act_id: {EAEED721-9715-46FC-B2F8-03EEA2EF1FE2})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Outlook_KMS_Client
+   (edition: OutlookVL, group: 98, type: Volume:GVLK, act_id: {ECB7C192-73AB-4DED-ACF4-2399B095D0CC})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Access_Trial
+   (edition: AccessR, group: 138, type: Retail:TB:Eval, act_id: {ED826596-52C4-4A81-85BD-0F343CBC6D67})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_InfoPath_Retail
+   (edition: InfoPathR, group: 96, type: Retail, act_id: {EF1DA464-01C8-43A6-91AF-E4E5713744F9})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Mondo_KMS_Client2
+   (edition: MondoVL, group: 30, type: Volume:GVLK, act_id: {EF3D4E49-A53D-4D81-A2B1-2CA6C2556B2C})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Mondo_Trial2
+   (edition: MondoR, group: 30, type: Retail:TB:Eval, act_id: {EFEEFEDE-44B4-44FF-84D5-01B67A380024})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HomeBusinessSub_Subscription2
+   (edition: HomeBusinessSubR, group: 140, type: Retail:TB:Sub, act_id: {EFF11B33-79B0-4D87-B05F-AE5E4EC5F209})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Sub4_Subscription
+   (edition: Sub4R, group: 98, type: Retail:TB:Sub, act_id: {EFF34BA1-2794-4908-9501-5190C8F2025E})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HomeStudent_BypassTrial
+   (edition: HomeStudentR, group: 52, type: Retail, act_id: {F10D4C70-F7CC-452A-B4B8-F12E3D6F4EEC})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_OfficeLPK_ByPass
+   (edition: OfficeLPK, group: 98, type: Retail, act_id: {F3329A70-BB26-4DD1-AF64-68E10C1AE635})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProjectStd_SubPrepid
+   (edition: ProjectStdR, group: 76, type: Retail, act_id: {F4C9C7E4-8C96-4513-ADA3-0A514B3AC5CF})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HSExcel_Trial
+   (edition: HSExcelR, group: 96, type: Retail:TB:Eval, act_id: {F4F25E2B-C13C-4256-8E4C-5D4D82E1B862})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProjectStd_Trial
+   (edition: ProjectStdR, group: 76, type: Retail:TB:Eval, act_id: {F510F8DE-4325-4461-BD33-571EDBE0A933})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Mondo_OEM_Perp
+   (edition: MondoR, group: 30, type: OEM:NONSLP, act_id: {F6183964-39E3-46A9-A641-734041BAFF89})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_HomeBusiness_OEM_Perp
+   (edition: HomeBusinessR, group: 22, type: OEM:NONSLP, act_id: {F63B84D0-ED9D-4B05-99E4-19D33FD7AFBD})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProjectPro_OEM_Perp
+   (edition: ProjectProR, group: 74, type: OEM:NONSLP, act_id: {FABC9393-6174-4192-B3EE-6340E16CF90D})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Outlook_Retail
+   (edition: OutlookR, group: 20, type: Retail, act_id: {FBF4AC36-31C8-4340-8666-79873129CF40})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProjectPro_Trial2
+   (edition: ProjectProR, group: 96, type: Retail:TB:Eval, act_id: {FD2BBCED-F8DB-45BC-B4D6-AC05A47D3691})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_Groove_MAK
+   (edition: GrooveVL, group: 138, type: Volume:MAK, act_id: {FDAD0DFA-417D-4B4F-93E4-64EA8867B7FD})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProPlus_MAK
+   (edition: ProPlusVL, group: 96, type: Volume:MAK, act_id: {FDF3ECB9-B56F-43B2-A9B8-1B48B6BAE1A7})
+   [PKEY2005 detected: Displaying only IDs]
+

@@ -1,0 +1,33 @@
+C: Win Next Pre-Release Education Volume:CSVLK
+   (edition: Education, group: 2998, type: Volume:CSVLK, act_id: {666dd2be-3c83-4756-9a1b-8ffb7067c8d9})
+R:          0-      9999 [[TH]X19-81074]: M8NRB-39PBH-DTBFP-YJ7CF-X2DT8
+R:      10000- 999999999 [[TH]res-v2998]: 2TF6N-GWKB7-JCRMX-FPR8V-HXK68
+
+C: Win 8.1 RTM Enterprise;EnterpriseN;Professional;ProfessionalN Volume:CSVLK
+   (edition: Enterprise;EnterpriseN;Professional;ProfessionalN, group: 206, type: Volume:CSVLK, act_id: {29d0b60f-66da-4858-bcaf-9eb513cd310d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 8.1 RTM Enterprise;EnterpriseN;Professional;ProfessionalN Volume:CSVLK VL Additional Lab
+   (edition: Enterprise;EnterpriseN;Professional;ProfessionalN, group: 206, type: Volume:CSVLK, act_id: {4614b66f-a1d7-441c-9731-23f22d0ff4e5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2012 R2 RTM ServerDatacenter;ServerStandard Volume:CSVLK
+   (edition: ServerDatacenter;ServerStandard, group: 206, type: Volume:CSVLK, act_id: {dcb88f6f-b090-405b-850e-dabcccf3693f})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2012 R2 RTM ServerDatacenter;ServerStandard Volume:CSVLK VL Additional Lab
+   (edition: ServerDatacenter;ServerStandard, group: 206, type: Volume:CSVLK, act_id: {acf1b4fd-1c55-4f2d-a60b-415ac958ad88})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: WinNext Beta Enterprise;EnterpriseN;Professional;ProfessionalN;Education;EducationN;ProfessionalS;ProfessionalSN;EnterpriseS;EnterpriseSN Volume:CSVLK
+   (edition: Enterprise;EnterpriseN;Professional;ProfessionalN;Education;EducationN;ProfessionalS;ProfessionalSN;EnterpriseS;EnterpriseSN, group: 204, type: Volume:CSVLK, act_id: {a40c3047-54c3-4bf9-8f09-fb7146cfcb02})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win Next Edition Next Volume:CSVLK
+   (edition: Enterprise;EnterpriseN;Professional;ProfessionalN, group: 206, type: Volume:CSVLK, act_id: {99cb2a2c-f7ee-48e9-98b0-ae72906c6d45})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: WinServer Next ServerDatacenter;ServerStandard Volume:CSVLK
+   (edition: ServerDatacenter;ServerStandard, group: 206, type: Volume:CSVLK, act_id: {c609957a-dc23-48b3-8c6b-31b303479de2})
+   [PKEY2005 detected: Displaying only IDs]
+

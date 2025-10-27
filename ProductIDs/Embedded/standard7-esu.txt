@@ -1,0 +1,56 @@
+C: Embedded Standard Volume:BA Std Edtn OEM
+   (edition: Embedded, group: 150, type: Volume:BA, act_id: {e1a8296a-db37-44d1-8cce-7bc961d59c54})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Embedded Standard Retail Std Edtn Eval OEM
+   (edition: Embedded, group: 150, type: Retail, act_id: {d49ab3d8-bdf9-45f8-9383-e106831bda60})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Embedded Standard Volume:BA Prem Edtn OEM
+   (edition: Embedded, group: 150, type: Volume:BA, act_id: {eb788ea6-a0ee-41fd-a238-1a9163b0be0e})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Embedded Standard Retail Prem Edtn Eval OEM
+   (edition: Embedded, group: 150, type: Retail, act_id: {adb4e385-907b-45da-8c1c-cd428e2f9a06})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Embedded Standard Volume:BA SMB Std Edtn OEM
+   (edition: Embedded, group: 150, type: Volume:BA, act_id: {402ad928-b65e-4f1f-859c-0cbd4060ddef})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Embedded Standard Volume:BA SMB Prem Edtn OEM
+   (edition: Embedded, group: 150, type: Volume:BA, act_id: {7393f438-73bf-44f0-a954-12edfb724145})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Embedded Standard Volume:BA Lckd Edtn OEM
+   (edition: Embedded, group: 150, type: Volume:BA, act_id: {1d30a37d-c938-48ae-8e77-96686f5ef87f})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Embedded Standard Volume:BA SMB Lckd Edtn OEM
+   (edition: Embedded, group: 150, type: Volume:BA, act_id: {dea43b09-c900-4e4c-a611-999261148089})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Embedded Standard Retail Acad Edtn OEM
+   (edition: Embedded, group: 150, type: Retail, act_id: {febe415b-b7d4-4aac-a9c6-8cebf4f9d14d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Embedded Standard Retail Default Key Evl OEM
+   (edition: Embedded, group: 150, type: Retail, act_id: {602a3fcf-02ac-4ef4-975a-57d096cc4d69})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows 7 OCUR Retail
+   (edition: OCUR, group: 170, type: Retail, act_id: {4a8149bb-7d61-49f4-8822-82c7bf88d64b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Embedded Standard Extended Security Updates add-on Volume:MAK
+   (edition: WES-ESU-Year1, group: 178, type: Volume:MAK, act_id: {b1703b31-8bd5-49f4-9011-811c4ddfd760})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Embedded Standard Extended Security Updates add-on Volume:MAK
+   (edition: WES-ESU-Year2, group: 178, type: Volume:MAK, act_id: {84153ded-345e-4871-af77-19758b7da9fb})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Embedded Standard Extended Security Updates add-on Volume:MAK
+   (edition: WES-ESU-Year3, group: 178, type: Volume:MAK, act_id: {6aaf1c7d-527f-4ed5-b908-9fc039dfc654})
+   [PKEY2005 detected: Displaying only IDs]
+

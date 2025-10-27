@@ -1,0 +1,80 @@
+C: RTM_SearchServer_ByPass
+   (edition: SearchServer, group: 98, type: Retail, act_id: {08460AA2-A176-442C-BDCA-26928704D80B})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_SearchServerExpress_ByPass
+   (edition: SearchServerExpress, group: 98, type: Retail, act_id: {1328E89E-7EC8-4F7E-809E-7E945796E511})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_MOSSFISEnt_ByPass
+   (edition: MOSSFISEnt, group: 78, type: Retail, act_id: {1F230F82-E3BA-4053-9B6D-E8F061A933FC})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_WCServer_BypassTrial
+   (edition: WCServer, group: 98, type: Retail, act_id: {2D45B535-68E6-44E0-8496-FC74F1491566})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_MOSS_ByPass
+   (edition: MOSS, group: 78, type: Retail, act_id: {3FDFBCC8-B3E4-4482-91FA-122C6432805C})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_GrooveServer_ByPass
+   (edition: GrooveServer, group: 52, type: Retail, act_id: {71391382-EFB5-48B3-86BD-0450650FED7D})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_GrooveServerEMS_BypassTrial
+   (edition: GrooveServerEMS, group: 52, type: Retail, act_id: {7C7F5B37-6BBA-49D2-B0DE-27CC76BCE67D})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProjectServer_BypassTrial
+   (edition: ProjectServer, group: 52, type: Retail, act_id: {84902853-59F6-4B20-BC7C-DE4F419FEFAD})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_MOSSPremium_BypassTrial
+   (edition: MOSSPremium, group: 78, type: Retail, act_id: {88BED06D-8C6B-4E62-AB01-546D6005FE97})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_MOSSFISStd_BypassTrial
+   (edition: MOSSFISStd, group: 78, type: Retail, act_id: {8F23C830-C19B-4249-A181-B20B6DCF7DBE})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_WCServer_ByPass
+   (edition: WCServer, group: 98, type: Retail, act_id: {926E4E17-087B-47D1-8BD7-91A394BC6196})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_MOSSFISStd_ByPass
+   (edition: MOSSFISStd, group: 78, type: Retail, act_id: {9C2C3D66-B43B-4C22-B105-67BDD5BB6E85})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_GrooveServer_BypassTrial
+   (edition: GrooveServer, group: 52, type: Retail, act_id: {B13B737A-E990-4819-BC00-1A12D88963C3})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_MOSS_BypassTrial
+   (edition: MOSS, group: 78, type: Retail, act_id: {B2C0B444-3914-4ACB-A0B8-7CF50A8F7AA0})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_GrooveServerEMS_ByPass
+   (edition: GrooveServerEMS, group: 52, type: Retail, act_id: {B5300EA3-8300-42D6-A3CD-4BFFA76397BA})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_SearchServer_BypassTrial
+   (edition: SearchServer, group: 98, type: Retail, act_id: {BC4C1C97-9013-4033-A0DD-9DC9E6D6C887})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_MOSSPremium_ByPass
+   (edition: MOSSPremium, group: 78, type: Retail, act_id: {D5595F62-449B-4061-B0B2-0CBAD410BB51})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ServerLPK_ByPass
+   (edition: ServerLPK, group: 98, type: Retail, act_id: {DAF85377-642C-4222-BCD8-DF5925C70AFB})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_ProjectServer_ByPass
+   (edition: ProjectServer, group: 52, type: Retail, act_id: {ED21638F-97FF-4A65-AD9B-6889B93065E2})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: RTM_MOSSFISEnt_BypassTrial
+   (edition: MOSSFISEnt, group: 78, type: Retail, act_id: {F48AC5F3-0E33-44D8-A6A9-A629355F3F0C})
+   [PKEY2005 detected: Displaying only IDs]
+

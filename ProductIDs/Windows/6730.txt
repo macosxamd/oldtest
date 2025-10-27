@@ -1,0 +1,576 @@
+C: Longhorn SBS Standard
+   (edition: ServerSBSStandard, group: 140, type: Retail, act_id: {2bb92f71-6ab3-473b-a024-cd29226ca236})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn SBS Premium
+   (edition: ServerSBSPremium, group: 140, type: Retail, act_id: {ae486542-39df-4ec8-8483-ac502f5eed7f})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn SBS Prime
+   (edition: ServerSBSPrime, group: 140, type: Retail, act_id: {6e95e93f-2b94-4c3d-80e5-360f6bd162fb})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Medium Business Server Management
+   (edition: ServerMediumBusinessManagement, group: 140, type: Retail, act_id: {41d2d873-0ebb-4346-bf27-3389616e86d3})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Medium Business Server Messaging
+   (edition: ServerMediumBusinessMessaging, group: 140, type: Retail, act_id: {31f395ce-fc28-4a33-b676-81b109902ee8})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Medium Business Server Security
+   (edition: ServerMediumBusinessSecurity, group: 140, type: Retail, act_id: {31ac603c-0483-4db9-8006-1831517ae142})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Server for Small Business
+   (edition: ServerWinSB, group: 140, type: Retail, act_id: {7d481b79-8e06-4722-b9d6-b13c8bc800b8})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn SBS Standard - OEM SLP Bypass
+   (edition: ServerSBSStandard, group: 140, type: OEM:SLP, act_id: {6c5ed930-475f-4b67-a7db-19205ee419ca})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn SBS Premium - OEM SLP Bypass
+   (edition: ServerSBSPremium, group: 140, type: OEM:SLP, act_id: {b0593bb3-f0cf-4967-a4a5-53af84c6d29b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn SBS Prime - OEM SLP Bypass
+   (edition: ServerSBSPrime, group: 140, type: OEM:SLP, act_id: {0bdbb717-9a8e-449b-b57d-763decd05c2a})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Medium Business Server Management - OEM SLP Bypass
+   (edition: ServerMediumBusinessManagement, group: 140, type: OEM:SLP, act_id: {734ec80d-44e4-40c6-b6cd-a0acb3ca8421})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Medium Business Server Messaging - OEM SLP Bypass
+   (edition: ServerMediumBusinessMessaging, group: 140, type: OEM:SLP, act_id: {b86971e5-2264-43c4-ad85-acec5fc78d1c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Medium Business Server Security - OEM SLP Bypass
+   (edition: ServerMediumBusinessSecurity, group: 140, type: OEM:SLP, act_id: {2cade295-51c0-4718-b89f-2e8944003d26})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Server for Small Business - OEM SLP Bypass
+   (edition: ServerWinSB, group: 140, type: OEM:SLP, act_id: {de0a1b88-376e-4ee0-9975-a46b2ec18aa4})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn SBS Standard - OEM SLP COA
+   (edition: ServerSBSStandard, group: 140, type: OEM:COA, act_id: {4c8a4ef8-77a1-4820-93ed-48e55909e37b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn SBS Premium - OEM SLP COA
+   (edition: ServerSBSPremium, group: 140, type: OEM:COA, act_id: {a8c7a60d-a1a5-4390-957c-ebec9e8b1a24})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn SBS Prime - OEM SLP COA
+   (edition: ServerSBSPrime, group: 140, type: OEM:COA, act_id: {d6670835-2583-4c5f-a147-4ebdef90c962})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Medium Business Server Management - OEM SLP COA
+   (edition: ServerMediumBusinessManagement, group: 140, type: OEM:COA, act_id: {658d9331-fcf8-4eee-8256-7ba65c58cbbe})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Medium Business Server Messaging - OEM SLP COA
+   (edition: ServerMediumBusinessMessaging, group: 140, type: OEM:COA, act_id: {1dc5fe8c-65a6-42e0-9778-7510abef2f2b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Medium Business Server Security - OEM SLP COA
+   (edition: ServerMediumBusinessSecurity, group: 140, type: OEM:COA, act_id: {0b7d7918-8b22-49ef-9cd0-4f04bfde5c99})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Server for Small Business - OEM SLP COA
+   (edition: ServerWinSB, group: 140, type: OEM:COA, act_id: {04bcfa8f-fb66-4d42-98a1-ab3d27108dd3})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Server Standard
+   (edition: ServerHomeStandard, group: 140, type: Retail, act_id: {6a8ed375-e507-49d7-9b38-1623b8e6ff0c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Server Premium
+   (edition: ServerHomePremium, group: 140, type: Retail, act_id: {b4b3dccb-b321-4393-8123-3659ec75a192})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Server Standard - OEM SLP
+   (edition: ServerHomeStandard, group: 140, type: OEM:SLP, act_id: {3b18e76c-2384-4029-a596-c939c91cb7be})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Server Premium - OEM SLP
+   (edition: ServerHomePremium, group: 140, type: OEM:SLP, act_id: {e40d338b-76d2-4755-a8a0-b530d9d970bc})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Server Standard - OEM SLP COA
+   (edition: ServerHomeStandard, group: 140, type: OEM:COA, act_id: {0d621b72-d593-4e42-bbab-1911c7326549})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Server Premium - OEM SLP COA
+   (edition: ServerHomePremium, group: 140, type: OEM:COA, act_id: {79295998-90ab-4eb2-a093-073ac441006f})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Server Standard - OEM NONSLP
+   (edition: ServerHomeStandard, group: 140, type: OEM:NONSLP, act_id: {725a3567-0181-498f-be72-31741bf08070})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Server Premium - OEM NONSLP
+   (edition: ServerHomePremium, group: 140, type: OEM:NONSLP, act_id: {5cb0425f-a4d4-4d4a-8b5f-9ceb4211b322})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Server Standard
+   (edition: ServerHomeStandard, group: 140, type: Retail, act_id: {13d1b96c-1375-43a4-99e7-7e7fefe21f53})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Server Premium
+   (edition: ServerHomePremium, group: 140, type: Retail, act_id: {26186aee-5833-4d48-b59d-a1a29c8cbc2d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Standard 
+   (edition: ServerStorageStandard, group: 140, type: Retail, act_id: {320c5bda-6cab-4736-a827-789d8390b041})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Enterprise 
+   (edition: ServerStorageEnterprise, group: 140, type: Retail, act_id: {b510fd83-c941-47e3-b3c1-b6b8785d77ee})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Express 
+   (edition: ServerStorageExpress, group: 140, type: Retail, act_id: {9f9a3e71-f510-4bc0-b87d-25f43cd43b2e})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Workgroup 
+   (edition: ServerStorageWorkgroup, group: 140, type: Retail, act_id: {ef7eccdc-7353-4b44-a153-57c767af0bcf})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Standard OEM:SLP
+   (edition: ServerStorageStandard, group: 140, type: OEM:SLP, act_id: {b14681a9-dba0-4512-aaa4-0500332f2823})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Enterprise OEM:SLP
+   (edition: ServerStorageEnterprise, group: 140, type: OEM:SLP, act_id: {51af4918-f017-487c-9cea-70041577d4b8})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Express OEM:SLP
+   (edition: ServerStorageExpress, group: 140, type: OEM:SLP, act_id: {fcd2462a-64f8-4516-b417-2f4845a4809b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Workgroup OEM:SLP
+   (edition: ServerStorageWorkgroup, group: 140, type: OEM:SLP, act_id: {f1949a7a-1c7b-4486-abbb-98fe7feb166e})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Standard OEM:COA
+   (edition: ServerStorageStandard, group: 140, type: OEM:COA, act_id: {0a6fcbd1-bcfe-4084-b96e-11abc23cbb1d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Enterprise OEM:COA
+   (edition: ServerStorageEnterprise, group: 140, type: OEM:COA, act_id: {1fa6b5e0-eceb-4693-ac2d-a33b3c9f05e9})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Express OEM:COA
+   (edition: ServerStorageExpress, group: 140, type: OEM:COA, act_id: {3373a73b-8376-41a6-a099-d19fca0ccd70})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Workgroup OEM:COA
+   (edition: ServerStorageWorkgroup, group: 140, type: OEM:COA, act_id: {8affafda-4ba1-446c-b4fc-d55495dabadd})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Standard OEM:NONSLP
+   (edition: ServerStorageStandard, group: 140, type: OEM:NONSLP, act_id: {5c28538a-730c-43c6-a278-ad450c927903})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Enterprise OEM:NONSLP
+   (edition: ServerStorageEnterprise, group: 140, type: OEM:NONSLP, act_id: {d5224a3d-38d5-456a-8384-84e0b39be105})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Hyper-V ProdAct All Programs
+   (edition: ServerHyper, group: 140, type: Retail, act_id: {b2ce91d8-d515-41a6-b04c-4a13768f7cc5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Express OEM:NONSLP
+   (edition: ServerStorageExpress, group: 140, type: OEM:NONSLP, act_id: {1a113027-5c6f-46a5-8567-451f2b1155ad})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Storage Server Workgroup OEM:NONSLP
+   (edition: ServerStorageWorkgroup, group: 140, type: OEM:NONSLP, act_id: {d61ce74c-00a6-4bdf-9a16-ebe868fe12b7})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Server for Small Business without Hyper-V
+   (edition: ServerWinSBV, group: 140, type: Retail, act_id: {97a60026-ca3d-4fd2-a454-9e1a4831164a})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business - TBA
+   (edition: Business, group: 140, type: Retail:TBA, act_id: {6d2677aa-d088-4a22-8683-6eb555c77b98})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business - TBB
+   (edition: Business, group: 140, type: Retail:TBB, act_id: {7d23d097-aad6-4a90-8a32-a1f6fd434caa})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business - TBC
+   (edition: Business, group: 140, type: Retail:TBC, act_id: {6777acf0-bc42-49a9-8c35-92522168eb4c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business - TBD
+   (edition: Business, group: 140, type: Retail:TBD, act_id: {ce4e1ef5-0475-4c0f-8a01-ae6dcaf5e8a7})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Enterprise - TBA
+   (edition: Enterprise, group: 140, type: Retail:TBA, act_id: {6e1ebb55-1b5f-453e-9d60-206fe2bdcdde})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Enterprise - TBB
+   (edition: Enterprise, group: 140, type: Retail:TBB, act_id: {bcfbd654-2254-48d1-b050-f0d76596cd8d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Enterprise - TBC
+   (edition: Enterprise, group: 140, type: Retail:TBC, act_id: {dc249460-3f0b-4d57-9349-df4d59946ca0})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Enterprise - TBD
+   (edition: Enterprise, group: 140, type: Retail:TBD, act_id: {f4dba1f6-8a90-4a3a-9783-ec97a17cd5ba})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Basic N
+   (edition: HomeBasicN, group: 140, type: Retail, act_id: {f95a1596-2bcc-41a8-b475-688ffdc52ce2})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business N
+   (edition: BusinessN, group: 140, type: Retail, act_id: {95158e38-c18c-4c6e-a450-7e5c19822ccb})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista OCUR add-on
+   (edition: OCUR, group: 140, type: Retail, act_id: {18579d00-6c51-4907-a16e-3ba4aa9ba6f7})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista ALL Volume SKUs - CSVLK
+   (edition: Business;BusinessN;Enterprise;EnterpriseN, group: 140, type: Volume:CSVLK, act_id: {b8cf7a60-5668-41b0-addd-6de32e69b0c6})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business+N/Enterprise - MAK
+   (edition: Business;BusinessN;Enterprise;EnterpriseN, group: 140, type: Volume:MAK, act_id: {3c92f348-df6e-4cf0-961c-9851328ba3e3})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business N - GVLK
+   (edition: BusinessN, group: 140, type: Volume:GVLK, act_id: {af46f56f-f06b-49f0-a420-caa8a8d2bf8c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Enterprise
+   (edition: Enterprise, group: 140, type: Retail, act_id: {9a7e05c0-a424-4fe5-b786-09fdf615cf07})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Enterprise - SLP Bypass
+   (edition: Enterprise, group: 140, type: OEM:SLP, act_id: {b6e740a1-8030-4570-a441-5b20707fac70})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Starter - OEM SLP Bypass
+   (edition: Starter, group: 140, type: OEM:SLP, act_id: {889d40d1-491a-4237-80f3-ef4b1f9c6845})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Basic - OEM SLP Bypass
+   (edition: HomeBasic, group: 140, type: OEM:SLP, act_id: {a0103e3a-99bd-41b1-84c5-77c98856d538})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Premium - OEM SLP Bypass
+   (edition: HomePremium, group: 140, type: OEM:SLP, act_id: {5a9b0253-41d9-4818-94ca-24153a333bb4})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Ultimate - OEM SLP Bypass
+   (edition: Ultimate, group: 140, type: OEM:SLP, act_id: {922e9409-ee45-4660-ba4e-a1792c7a197a})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business - OEM SLP Bypass
+   (edition: Business, group: 140, type: OEM:SLP, act_id: {4bc32e2f-76a8-41e2-93f3-bda7ad012b3f})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Starter - OEM SLP COA
+   (edition: Starter, group: 140, type: OEM:COA, act_id: {6e5a3ef9-5d24-4b43-a292-eb5b72a18094})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Basic - OEM SLP COA
+   (edition: HomeBasic, group: 140, type: OEM:COA, act_id: {40ec3399-60d5-427d-aa44-4c3f1bd3733e})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Premium - OEM SLP COA
+   (edition: HomePremium, group: 140, type: OEM:COA, act_id: {6e8fcf66-68c5-418c-89fa-f06143b16e0b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Ultimate - OEM SLP COA
+   (edition: Ultimate, group: 140, type: OEM:COA, act_id: {76ff6e22-06ce-4340-b386-2b2f6c5a6e77})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business - OEM SLP COA
+   (edition: Business, group: 140, type: OEM:COA, act_id: {4fe8fb4b-b264-4378-a15d-2f275fc213a0})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Starter - OEM nonSLP/SBC COA
+   (edition: Starter, group: 140, type: OEM:NONSLP, act_id: {379474f4-1cf9-44a8-999c-f68ef14bfe49})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Basic - OEM nonSLP/SBC COA
+   (edition: HomeBasic, group: 140, type: OEM:NONSLP, act_id: {14108a69-7278-4841-b915-1227ddb40774})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Premium - OEM nonSLP/SBC COA
+   (edition: HomePremium, group: 140, type: OEM:NONSLP, act_id: {47581abb-3ba8-421a-aa2d-d1a60a78e509})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Ultimate - OEM nonSLP/SBC COA
+   (edition: Ultimate, group: 140, type: OEM:NONSLP, act_id: {7a7a77b8-8ed9-456e-8d0f-d1b743e5730c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business - OEM nonSLP/SBC COA
+   (edition: Business, group: 140, type: OEM:NONSLP, act_id: {a50faa13-7694-4abd-8b74-042ecc8acc2c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Starter
+   (edition: Starter, group: 140, type: Retail, act_id: {2ba44e77-c7b8-48f3-8e51-284b35493fae})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Standard/Enterprise Server - MAK
+   (edition: ServerEnterprise;ServerStandard, group: 140, type: Volume:MAK, act_id: {da638349-358a-4e04-bdcb-c85c8ea036a9})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn CSVLK for Web Server & Compute Cluster
+   (edition: ServerComputeCluster;ServerWeb, group: 140, type: Volume:CSVLK, act_id: {625e13e0-7339-461b-a39b-1f2f0317449b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn CSVLK for Standard Server and Enterprise Edition
+   (edition: ServerComputeCluster;ServerEnterprise;ServerStandard;ServerWeb, group: 140, type: Volume:CSVLK, act_id: {8f5c1ee4-4a9b-4fe1-96bd-e9290c5e14d4})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn CSVLK for DataCenter and Itanium Edition
+   (edition: ServerComputeCluster;ServerDatacenter;ServerEnterprise;ServerEnterpriseIA64;ServerStandard;ServerWeb, group: 140, type: Volume:CSVLK, act_id: {f1658734-6bf4-48fe-862b-074740d0e51b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Compute Cluster/Web Edition - MAK
+   (edition: ServerComputeCluster;ServerWeb, group: 140, type: Volume:MAK, act_id: {d769269e-b1f1-437b-9401-2150feeb7780})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Datacenter/Itanium Edition - MAK
+   (edition: ServerDatacenter;ServerEnterpriseIA64, group: 140, type: Volume:MAK, act_id: {1c15d2b7-0392-4005-a70a-d4d16a3863d4})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Basic
+   (edition: HomeBasic, group: 140, type: Retail, act_id: {1fb350e3-9ee4-4ee0-aad0-2f84bd844394})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Premium
+   (edition: HomePremium, group: 140, type: Retail, act_id: {465f39d6-319f-4135-a96f-59e74378557b})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Compute Cluster - OEM SLP
+   (edition: ServerComputeCluster, group: 140, type: OEM:SLP, act_id: {9ce5fa82-900d-4242-95d3-62b6b7325fd4})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Compute Cluster - OEM NONSLP
+   (edition: ServerComputeCluster, group: 140, type: OEM:NONSLP, act_id: {8ad3e8d5-ef2b-427f-a761-a5bfaee2e54d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Compute Cluster - OEM COA
+   (edition: ServerComputeCluster, group: 140, type: OEM:COA, act_id: {3a51fb61-1f52-48bd-ab74-782599836f89})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Compute Cluster
+   (edition: ServerComputeCluster, group: 140, type: Retail, act_id: {e82290ba-62b0-41be-89af-cc3f8957125e})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Compute Cluster - GVLK
+   (edition: ServerComputeCluster, group: 140, type: Volume:GVLK, act_id: {8372b47d-5221-41d8-88d0-3f924e50623e})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Itanium Edition
+   (edition: ServerEnterpriseIA64, group: 140, type: Retail, act_id: {b93651cc-4b94-41de-8ae2-62f7cfc20b1a})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Enterprise Server - GVLK
+   (edition: ServerEnterprise, group: 140, type: Volume:GVLK, act_id: {5a99526c-1c09-4481-80fb-b60e8b3d99f8})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Standard Server
+   (edition: ServerStandard, group: 140, type: Retail, act_id: {61d6a4f0-3285-4ea8-a9de-f938b973a0ec})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Datacenter Server
+   (edition: ServerDatacenter, group: 140, type: Retail, act_id: {d01edb83-a9cd-4219-8c42-460d5cc085ef})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Standard Server - GVLK
+   (edition: ServerStandard, group: 140, type: Volume:GVLK, act_id: {7ea4f647-9e67-453b-a7ba-56f7102afde2})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Datacenter Server - GVLK
+   (edition: ServerDatacenter, group: 140, type: Volume:GVLK, act_id: {932ef1f5-4327-4548-b147-51b0f5502995})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Enterprise Server (ADS) - OEM SLP COA
+   (edition: ServerEnterprise, group: 140, type: OEM:COA, act_id: {e2668a94-212e-4992-aac8-1298cd4aedaf})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Enterprise Server (ADS) - OEM SLP Bypass
+   (edition: ServerEnterprise, group: 140, type: OEM:SLP, act_id: {4c5d3c79-122f-428e-a55c-45f6d1654247})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Itanium Edition - OEM SLP COA
+   (edition: ServerEnterpriseIA64, group: 140, type: OEM:COA, act_id: {61e091dd-1975-4708-8a9b-698bae44ced6})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Itanium Edition - OEM SLP Bypass
+   (edition: ServerEnterpriseIA64, group: 140, type: OEM:SLP, act_id: {0c5c8ade-0f10-40fe-9a29-fb714e9b921e})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Datacenter Server - OEM SLP COA
+   (edition: ServerDatacenter, group: 140, type: OEM:COA, act_id: {a7ebbb8f-8fee-4de9-a4cf-53bc962c01d0})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Datacenter Server - OEM SLP Bypass
+   (edition: ServerDatacenter, group: 140, type: OEM:SLP, act_id: {364e4f73-fdca-4947-a509-30b8438270c1})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Standard Server - OEM SLP COA
+   (edition: ServerStandard, group: 140, type: OEM:COA, act_id: {3c805a06-632e-451e-a8ea-80a0b084fbb5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Standard Server - OEM SLP Bypass
+   (edition: ServerStandard, group: 140, type: OEM:SLP, act_id: {c2c3c743-bcfe-40c8-82e4-ed335c53a86c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Longhorn Server Enterprise
+   (edition: ServerEnterprise, group: 140, type: Retail, act_id: {f00d81ce-df2c-47cb-a359-36d652296e56})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Itanium Edition - GVLK
+   (edition: ServerEnterpriseIA64, group: 140, type: Volume:GVLK, act_id: {bebf03b1-a184-4c5e-9103-88af08055e68})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Standard Server - OEM nonSLP/SBC COA
+   (edition: ServerStandard, group: 140, type: OEM:NONSLP, act_id: {79d3bf31-319f-49f9-aa02-7e40332b0644})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Itanium Edition - OEM nonSLP/SBC COA
+   (edition: ServerEnterpriseIA64, group: 140, type: OEM:NONSLP, act_id: {7360c111-bef4-4462-becc-1b6f623f957d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Enterprise Server - OEM nonSLP/SBC COA
+   (edition: ServerEnterprise, group: 140, type: OEM:NONSLP, act_id: {9fa561f6-0230-4cd3-9f60-176ccc8961be})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Datacenter Server - OEM nonSLP/SBC COA
+   (edition: ServerDatacenter, group: 140, type: OEM:NONSLP, act_id: {fe1c2736-507b-4b90-a739-15d2b9b03990})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Web Edition - OEM SLP
+   (edition: ServerWeb, group: 140, type: OEM:SLP, act_id: {bf5920fb-e20b-4f08-b9d9-90f3d26f6641})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Web Edition - OEM NONSLP
+   (edition: ServerWeb, group: 140, type: OEM:NONSLP, act_id: {d56e10e1-8373-48ef-98c2-25e2b9fb17a9})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Web Edition - OEM COA
+   (edition: ServerWeb, group: 140, type: OEM:COA, act_id: {a407b19d-68d6-47f3-8e8a-1c0d1df29ad0})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Web Edition
+   (edition: ServerWeb, group: 140, type: Retail, act_id: {2e3108b4-de27-4d71-8a59-ed6fa329f519})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Web Edition - GVLK
+   (edition: ServerWeb, group: 140, type: Volume:GVLK, act_id: {3ddb92aa-332e-46f9-abb7-8bdf62f8d967})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Ultimate
+   (edition: Ultimate, group: 140, type: Retail, act_id: {93e4d97f-9aec-45f9-8eb8-f7f3b67bf400})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business
+   (edition: Business, group: 140, type: Retail, act_id: {0761585a-2ba4-4f2e-bae8-88c204f70d93})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business - GVLK
+   (edition: Business, group: 140, type: Volume:GVLK, act_id: {90284483-de09-44a2-a406-98957f8dd09d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Enterprise N GVLK
+   (edition: EnterpriseN, group: 140, type: Volume:GVLK, act_id: {0707c7fc-143d-46a4-a830-3705e908202c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Enterprise - GVLK
+   (edition: Enterprise, group: 140, type: Volume:GVLK, act_id: {14478aca-ea15-4958-ac34-359281101c99})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windwos Vista Home Basic - D-OEM (CHS & RU)
+   (edition: HomeBasic, group: 140, type: OEM:NONSLP, act_id: {881ea035-fccc-49c2-b014-8de55bb3cb5e})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Home Premium - D-OEM (CHS & RU)
+   (edition: HomePremium, group: 140, type: OEM:NONSLP, act_id: {3ee09c34-7752-4e95-a6f3-52d343bf1064})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Business - D-OEM (CHS & RU)
+   (edition: Business, group: 140, type: OEM:NONSLP, act_id: {cd04deab-6f73-4ac4-826c-09d2ae22e818})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Enterprise N
+   (edition: EnterpriseN, group: 140, type: Retail, act_id: {d0997a77-2ecb-42a5-9b18-816ac1d91287})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Enterprise N - OEM SLP
+   (edition: EnterpriseN, group: 140, type: OEM:SLP, act_id: {b8929dfa-5b29-4feb-a30b-6c2d0ac0b458})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Ultimate N
+   (edition: UltimateN, group: 140, type: Retail, act_id: {226108e7-746d-47d3-8dd7-8272a4277840})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Ultimate N - OEM SLP
+   (edition: UltimateN, group: 140, type: OEM:SLP, act_id: {a0f37727-3001-4ee3-91f0-7da289402961})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Ultimate N - OEM COA
+   (edition: UltimateN, group: 140, type: OEM:COA, act_id: {67bbc59a-06a9-4740-9451-ba9cb7bbdcb9})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Ultimate N - OEM NONSLP
+   (edition: UltimateN, group: 140, type: OEM:NONSLP, act_id: {c2b40cd9-71a1-4a6d-8680-a92f2db68b87})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Premium N
+   (edition: HomePremiumN, group: 140, type: Retail, act_id: {d0554583-4205-48d5-a914-6306b8e95feb})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Premium N - OEM SLP
+   (edition: HomePremiumN, group: 140, type: OEM:SLP, act_id: {9e59c27a-45ec-462a-a9c8-1de4cb9db719})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Premium N - OEM COA
+   (edition: HomePremiumN, group: 140, type: OEM:COA, act_id: {edff41f7-3fa5-4976-8389-4948a5eae7cd})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Vista Home Premium N - OEM NONSLP
+   (edition: HomePremiumN, group: 140, type: OEM:NONSLP, act_id: {4a0e27cd-8332-43cd-94a6-7ac946a20187})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Home Server
+   (edition: ServerHome, group: 140, type: Retail, act_id: {a96f6f41-34e8-47ab-9ca1-3749d3776f21})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Home Server - OEM SLP Bypass
+   (edition: ServerHome, group: 140, type: OEM:SLP, act_id: {495e1b35-670b-4449-902b-a16fc2a9c0a8})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Home Server - OEM SLP COA
+   (edition: ServerHome, group: 140, type: OEM:COA, act_id: {aee7b4de-98dc-4e93-999f-041035637c9c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Standard Server without Hyper-V
+   (edition: ServerStandardV, group: 140, type: Retail, act_id: {18135975-c710-41d2-b6fa-3775340f1ae1})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Longhorn Server Enterprise without Hyper-V
+   (edition: ServerEnterpriseV, group: 140, type: Retail, act_id: {c745d3ba-1471-4b99-8951-17528ee25aef})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Longhorn Datacenter Server without Hyper-V
+   (edition: ServerDatacenterV, group: 140, type: Retail, act_id: {f6aa2373-262b-4716-ae42-8fd847bd3ef3})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Hyper-V ProdAct All Programs
+   (edition: ServerHyper, group: 152, type: Retail, act_id: {2cf1c8d6-ebe1-4ce9-83c6-c4877fae1355})
+   [PKEY2005 detected: Displaying only IDs]
+

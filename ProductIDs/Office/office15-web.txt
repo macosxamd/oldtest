@@ -1,0 +1,48 @@
+C: Office15_MOSSFISStd_BypassTrial180
+   (edition: MOSSFISStdNone, group: 2004, type: Retail, act_id: {062FDB4F-3FCB-4A53-9B36-03262671B841})
+R:          0- 998999999 [X18-32897]: HGKVP-2DNPX-TWTQM-QT8BT-D3TM6
+
+C: Office15_MOSSPremium_BypassTrial180
+   (edition: MOSSPremiumNone, group: 2006, type: Retail, act_id: {298A586A-E3C1-42F0-AFE0-4BCFDC2E7CD0})
+R:          0- 998999999 [X18-32899]: P8RNP-9W2GY-V47QQ-RG9M4-R3HJJ
+
+C: Office15_MOSSFISStd_Bypass
+   (edition: MOSSFISStdNone, group: 2003, type: Retail, act_id: {2CD676C7-3937-4AC7-B1B5-565EDA761F13})
+R:          0- 998999999 [X18-32896]: B7WWN-9CRP4-3K9KX-KXPTM-KD4RR
+
+C: Office15_MOSSFISEnt_BypassTrial180
+   (edition: MOSSFISEntNone, group: 2002, type: Retail, act_id: {2F05F7AA-6FF7-49AB-884A-14696A7BD1A4})
+R:          0- 998999999 [X18-32895]: JGN3M-M48XX-8Q9HD-CQH2R-VMFRQ
+
+C: Office15_ProjectServer_Bypass
+   (edition: ProjectServerNone, group: 2145, type: Retail, act_id: {35466B1A-B17B-4DFB-A703-F74E2A1F5F5E})
+R:          0- 998999999 [X18-32810]: YTFNQ-9886P-32WCW-MRKMB-TXVTC
+
+C: Office15_ServerLPK_Bypass
+   (edition: ServerLPKNone, group: 2173, type: Retail, act_id: {7930E9BD-12B8-4B32-88CE-733B4A594EDF})
+R:          0- 998999999 [X18-33238]: GXRNF-6BC9M-2HDB7-MC683-3PCDV
+
+C: Office15_MOSSFISEnt_Bypass
+   (edition: MOSSFISEntNone, group: 2001, type: Retail, act_id: {B695D087-638E-439A-8BE3-57DB429D8A77})
+R:          0- 998999999 [X18-32894]: N34DV-VXVTK-HM2WC-D6D4C-27GM2
+
+C: Office15_MOSSPremium_Bypass
+   (edition: MOSSPremiumNone, group: 2005, type: Retail, act_id: {B7D84C2B-0754-49E4-B7BE-7EE321DCE0A9})
+R:          0- 998999999 [X18-32898]: DNDKC-MY2FD-MFTCV-QRFXT-YG7JH
+
+C: Office15_ProjectServer_BypassTrial180
+   (edition: ProjectServerNone, group: 2146, type: Retail, act_id: {BC7BAF08-4D97-462C-8411-341052402E71})
+R:          0- 998999999 [X18-32811]: KNG8G-4XD6X-2KCBB-RBC6H-8HR2Q
+
+C: Office15_MOSS_Bypass
+   (edition: MOSSNone, group: 1999, type: Retail, act_id: {C5D855EE-F32B-4A1C-97A8-F0A28CE02F9C})
+R:          0- 998999999 [X18-32892]: TPTYN-2X7KK-678QG-D6RQ9-DYFRK
+
+C: Office15_MOSS_BypassTrial180
+   (edition: MOSSNone, group: 2000, type: Retail, act_id: {CBF97833-C73A-4BAF-9ED3-D47B3CFF51BE})
+R:          0- 998999999 [X18-32893]: VD7YJ-GN9H7-RJ43W-8VQVD-RJM4M
+
+C: Office15_WCServer_Bypass
+   (edition: WCServerNone, group: 2208, type: Retail, act_id: {D6B57A0D-AE69-4A3E-B031-1F993EE52EDC})
+R:          0- 998999999 [X18-33328]: TPNYF-942K6-GQD8C-2THJC-XTKPM
+

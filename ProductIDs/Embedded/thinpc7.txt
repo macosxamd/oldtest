@@ -1,0 +1,16 @@
+C: Windows Thin PC Embedded Retail
+   (edition: Embedded, group: 206, type: Retail, act_id: {7e622c6b-d9bc-42d7-8bff-7f83d5716860})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Thin PC Embedded Retail:TB:Eval
+   (edition: Embedded, group: 206, type: Retail:TB:Eval, act_id: {5d087edc-5df1-4b8e-a28f-f6cd9c72d9d3})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Thin PC Embedded Volume:GVLK
+   (edition: Embedded, group: 206, type: Volume:GVLK, act_id: {aa6dd3aa-c2b4-40e2-a544-a6bbb3f5c395})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Thin PC Embedded Volume:MAK
+   (edition: Embedded, group: 206, type: Volume:MAK, act_id: {745b16c2-2df9-4287-aa5c-c95fda7c611d})
+   [PKEY2005 detected: Displaying only IDs]
+

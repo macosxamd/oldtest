@@ -1,0 +1,29 @@
+C: Windows Server 2016 RTM ServerDatacenter;ServerStandard Volume:CSVLK
+   (edition: ServerDatacenter;ServerStandard, group: 206, type: Volume:CSVLK, act_id: {d6992aac-29e7-452a-bf10-bbfb8ccabe59})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2016 RTM ServerDatacenter;ServerStandard Volume:CSVLK VL Additional Lab
+   (edition: ServerDatacenter;ServerStandard, group: 206, type: Volume:CSVLK, act_id: {3c2da9a5-1c6e-45d1-855f-fdbef536676f})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 10 RTM Enterprise;EnterpriseN;Professional;ProfessionalN;EnterpriseS;EnterpriseSN;Education;EducationN Volume:CSVLK
+   (edition: Enterprise;EnterpriseN;Professional;ProfessionalN;EnterpriseS;EnterpriseSN;Education;EducationN, group: 206, type: Volume:CSVLK, act_id: {0724cb7d-3437-4cb7-93cb-830375d0079d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 10 RTM Enterprise;EnterpriseN;Professional;ProfessionalN;EnterpriseS;EnterpriseSN;Education;EducationN Volume:CSVLK VL Additional Lab
+   (edition: Enterprise;EnterpriseN;Professional;ProfessionalN;EnterpriseS;EnterpriseSN;Education;EducationN, group: 206, type: Volume:CSVLK, act_id: {7a802526-4c94-4bd1-ba14-835a1aca2120})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 10 RTM Enterprise;EnterpriseN;Professional;ProfessionalN;EnterpriseS;EnterpriseSN;Education;EducationN Volume:CSVLK
+   (edition: Enterprise;EnterpriseN;Professional;ProfessionalN;EnterpriseS;EnterpriseSN;Education;EducationN, group: 206, type: Volume:CSVLK, act_id: {30a42c86-b7a0-4a34-8c90-ff177cb2acb7})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 10 RTM Enterprise;EnterpriseN;Professional;ProfessionalN;EnterpriseS;EnterpriseSN;Education;EducationN Volume:CSVLK VL Additional Lab
+   (edition: Enterprise;EnterpriseN;Professional;ProfessionalN;EnterpriseS;EnterpriseSN;Education;EducationN, group: 206, type: Volume:CSVLK, act_id: {d552befb-48cc-4327-8f39-47d2d94f987c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 10 RTM EnterpriseG;EnterpriseGN Volume:CSVLK
+   (edition: EnterpriseG;EnterpriseGN, group: 3858, type: Volume:CSVLK, act_id: {ecc0774a-aed3-4e1a-b815-2b31781adfea})
+R:          0-  14999999 [[RS2]X21-24740]: HNBM6-RTM9P-9X4Q9-F79GT-H8TB3
+R:   15000000- 999999999 [[RS2]res-v3858]: NVK2G-2MY4G-7JX2Q-FC2TJ-GVKWD
+

@@ -1,0 +1,32 @@
+C: Windows Embedded POSReady 7 POSReady OEM:SLP
+   (edition: Embedded, group: 206, type: OEM:SLP, act_id: {93c7415c-3e5d-4dc8-a26c-023e0f8f00a1})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Embedded POSReady 7 POSReady OEM:COA
+   (edition: Embedded, group: 206, type: OEM:COA, act_id: {1a9f80cb-6f23-4791-b7de-dfeb37e0919c})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Embedded POSReady 7 POSReady OEM:NONSLP
+   (edition: Embedded, group: 206, type: OEM:NONSLP, act_id: {c6769ae2-cbd6-4813-b6f7-22fd8fd32f61})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Embedded POSReady 7 POSReady Volume:GVLK
+   (edition: Embedded, group: 206, type: Volume:GVLK, act_id: {db537896-376f-48ae-a492-53d0547773d0})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Embedded POSReady 7 POSReady Retail:TB:Eval
+   (edition: Embedded, group: 206, type: Retail:TB:Eval, act_id: {d1c316c5-7779-4580-a817-6622d3ccc02d})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Embedded POSReady 7 POSReady Retail
+   (edition: Embedded, group: 206, type: Retail, act_id: {18ad7339-2650-459e-a35b-cbf15b109b32})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Embedded POSReady 7 POSReady Volume:MAK
+   (edition: Embedded, group: 206, type: Volume:MAK, act_id: {9e069bbd-f940-457c-b921-a6c73a117bc5})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Embedded POSReady 7 POSReady Volume:BA
+   (edition: Embedded, group: 206, type: Volume:BA, act_id: {3980d3c2-e988-46e3-8e3e-7367c2834920})
+   [PKEY2005 detected: Displaying only IDs]
+

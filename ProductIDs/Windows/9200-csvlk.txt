@@ -1,0 +1,16 @@
+C: Win 8 RTM Enterprise;EnterpriseN;Professional;ProfessionalN Volume:CSVLK
+   (edition: Enterprise;EnterpriseN;Professional;ProfessionalN, group: 206, type: Volume:CSVLK, act_id: {24259a22-3bf0-44af-a68b-1b858bce1894})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Win 8 RTM Enterprise;EnterpriseN;Professional;ProfessionalN Volume:CSVLK VL Additional
+   (edition: Enterprise;EnterpriseN;Professional;ProfessionalN, group: 206, type: Volume:CSVLK, act_id: {044ba67a-4c54-47ee-941a-d6f2efaa6891})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2012 RTM ServerDatacenter;ServerStandard;ServerMultiPointStandard;ServerMultiPointPremium Volume:CSVLK
+   (edition: ServerDatacenter;ServerStandard;ServerMultiPointStandard;ServerMultiPointPremium, group: 206, type: Volume:CSVLK, act_id: {7b37c913-252b-46be-ad80-b2b5ceade8af})
+   [PKEY2005 detected: Displaying only IDs]
+
+C: Windows Server 2012 RTM ServerDatacenter;ServerStandard;ServerMultiPointStandard;ServerMultiPointPremium Volume:CSVLK VL Additional
+   (edition: ServerDatacenter;ServerStandard;ServerMultiPointStandard;ServerMultiPointPremium, group: 206, type: Volume:CSVLK, act_id: {fe27276b-a5a9-4b4d-88e3-14271beb79be})
+   [PKEY2005 detected: Displaying only IDs]
+

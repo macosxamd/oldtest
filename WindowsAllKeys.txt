@@ -161,6 +161,7 @@ FDTP7-HXQ6K-B4WGK-H8KH4-46MD7 Windows Server 2008 Web Volume GVLK
 9D32D-Y6D29-34HCQ-JY6KK-FQH8M Windows Server 2008 Standard Volume MAK
 7QDPK-J3GHR-76GCK-BFDDR-DXRC3 Windows Server 2008 Standard Volume GVLK
 MRB7H-QJRHG-FXTBR-B2Q2M-8WMTJ Windows Server 2008 Enterprise Retail
+26Y2H-YTJY6-CYD4F-DMB6V-KXFCQ Windows Server 2008 Enterprise OEM SLP
 YMDJ3-2M72Q-79G4F-GFG39-2JVK7 Windows Server 2008 Enterprise Volume MAK
 TTP8Y-TXGJC-K33JR-6XJGK-8FF78 Windows Server 2008 Enterprise Volume GVLK
 6QBHY-DXTPJ-T9W3P-DTJXX-4VQMB Windows Server 2008 Datacenter Retail
@@ -172,14 +173,18 @@ MR23X-CD7Y6-H9TM3-4VGHJ-2KCCX Windows Server 2008 Datacenter Volume GVLK
 D694V-CMWKH-PY92X-PFQKQ-JCB69 Windows Server Medium Business Security Retail
 MRDK3-YYQF3-88BQJ-D6FJG-69YJY Windows Small Business Server Premium Retail
 2KB23-GJRBD-W3T9C-6CH2W-39B7V Windows Small Business Server Prime Retail
+BHFGK-YDHVJ-49M49-FT9B3-WKG8Y Windows Small Business Server Prime OEM SLP
 H4XDD-B27GY-667P6-XWVV7-GYG8J Windows Small Business Server Standard Retail
+76GGM-4MQ6T-XCJH9-6R2XQ-PW2D2 Windows Small Business Server Standard OEM SLP
 RGBMC-PQBVF-94Q9K-HD63B-VY6MP Windows Server Home Premium Retail
 6C8KR-MD3QK-9GWFW-44CY2-W9CBM Windows Server Home Standard Retail
 2264C-TD9T8-P8HPW-CC9GH-MHM2V Windows Storage Server Enterprise Retail
 RCYMT-YX342-8T6YY-XYHYC-3DD7X Windows Storage Server Express Retail
 FKFT2-WXYY9-WBPY7-6YMY4-X48JF Windows Storage Server Standard Retail
+264YC-6W6Q8-2W6M9-Q77M8-QYD4J Windows Storage Server Standard OEM SLP
 8X9J7-HCJ7J-3WDJT-QM7D8-464YH Windows Storage Server Workgroup Retail
 BHC4Q-6D7B7-QMVH7-4MKQH-Y9VK7 Windows Server 2008 Volume CSVLK
+9FPV7-MWGT8-7XPDF-JC23W-WT7TW Windows Server 2008 ESU Volume MAK
 -------------------- Windows 7 -----------------------------------------------------
 7Q28W-FT9PC-CMMYT-WHMY2-89M6G Windows 7 Starter Retail
 73JWR-XQM3H-DTP3W-WQH99-27MC6 Windows 7 Starter OEM COA
@@ -212,17 +217,23 @@ MGBJF-PPY7X-FRWHK-2P9GQ-8YGWY Windows 7 Embedded Standard 2011 Runtime OEM
 WY7TH-QDRM4-MWTBQ-32HMR-B33WH Windows 7 Embedded POSReady 2011 OEM
 73KQT-CD9G6-K7TQG-66MRP-CQ22C Windows 7 Embedded ThinPC 2011 Volume
 -------------------- Windows Server 2008 R2 ------------------------------------------
+2VJWV-F8KM6-THWWP-6M2C3-P729K Windows Server 2008 R2 Foundation OEM SLP
 36RXV-4Y4PJ-B7DWH-XY4VW-KQXDQ Windows Server 2008 R2 Essentials Retail
+6GTGP-QY2VH-QWJCK-D8KPB-TVJYB Windows Server 2008 R2 Essentials OEM SLP
 YGTGP-9XH8D-8BVGY-BVK4V-3CPRF Windows Server 2008 R2 Web Retail
+FBP7P-TBFFF-DQ8HF-33QJM-MT2BK Windows Server 2008 R2 Web OEM SLP
 37PHV-V77Q8-KY9KT-8JWF7-J8FQD Windows Server 2008 R2 Web Volume MAK
 6TPJF-RBVHG-WBW2R-86QPH-6RTM4 Windows Server 2008 R2 Web Volume GVLK
 HMG6P-C7VGP-47GJ9-TWBD4-2YYCD Windows Server 2008 R2 Standard Retail
+23DMG-46YWG-G6FB8-RPVQC-3H6V4 Windows Server 2008 R2 Standard OEM SLP
 X9V3R-QHWR2-YQXVD-Q667F-YKYRV Windows Server 2008 R2 Standard Volume MAK
 YC6KT-GKW9T-YTKYR-T4X34-R7VHC Windows Server 2008 R2 Standard Volume GVLK
 7P8GH-FV2FF-8FDCR-YK49D-D7P97 Windows Server 2008 R2 Enterprise Retail
+22P9W-86F2J-JTHXK-FMFQ4-2DQDR Windows Server 2008 R2 Enterprise OEM SLP
 GF4Q4-RWRCH-8GQ2B-J37D8-HFXK6 Windows Server 2008 R2 Enterprise Volume MAK
 489J6-VHDMP-X63PK-3K798-CPX3Y Windows Server 2008 R2 Enterprise Volume GVLK
 7X29B-RDCR7-J6R29-K27FF-H9CR9 Windows Server 2008 R2 Datacenter Retail
+26FXG-KYC7Q-XG29P-T2HFQ-KPF96 Windows Server 2008 R2 Datacenter OEM SLP
 PXFPB-PF9TH-F4HDG-RJHGM-GW6TY Windows Server 2008 R2 Datacenter Volume MAK
 74YFP-3QFB3-KQT8W-PMXWJ-7M648 Windows Server 2008 R2 Datacenter Volume GVLK
 CTPQ9-JMY4K-6DR2G-Q632M-T4962 Windows Server 2008 R2 Std/Ent CSVLK
@@ -231,13 +242,17 @@ XHK8T-79GQ6-KT6DR-7QMWJ-QBYJQ Windows Server 2008 R2 Dtc/IA CSVLK
 TT8MH-CG224-D3D7Q-498W2-9QCTX Windows Server 2008 R2 Compute Cluster Server Volume GVLK
 RBY6X-FDBHT-P86CY-MVFV8-4W43X Windows Small Business Server 2008 R2 Retail
 YT76W-VD3W9-QDCK4-9QFPX-WQY4J Windows Small Business Server 2008 R2 Standard Retail
+243Y6-MBHYD-FDXPK-CCWPH-R98GG Windows Small Business Server 2008 R2 Standard OEM SLP
 BXQQP-Q6Q6D-TR7TR-3YXQW-VFHKM Windows Small Business Server 2008 R2 Premium Retail
 YJXJC-Q227R-YBMG7-7VF8K-H24QY Windows Essentials Management Server Retail
 VKP7D-84WCR-YHGQP-TXT76-6283H Windows Essentials Additional Server Retail
 FD499-FD79G-V9D2W-F9WQ6-MD2VC Windows Server Medium Business Management Retail
 YVYC7-KVQ8G-XF6K4-9MG8M-QXFC2 Windows Server Medium Business Messaging Retail
 YQ3V7-79DM4-42PVW-BYRH8-69VXK Windows Server Medium Business Security Retail
+2M74M-6DJHT-Y49MG-22FGH-B6XFP Windows Server Home Premium OEM SLP
+24HKG-38D9W-TCG2V-K4G44-RQ2CC Windows Server Home Standard OEM SLP
 Q7PRR-M2WBM-RJJ99-FG393-MGY3B Windows Compute Cluster Server Retail
+9FPV7-MWGT8-7XPDF-JC23W-WT7TW Windows Server 2008 R2 ESU Volume MAK
 -------------------- Windows 8 ---------------------------------------------------------
 KNG8G-4XD6X-2KCBB-R4FDG-P7F9Q Windows 8 Retail
 9NXDK-MRY98-2VJV8-H3BJF-R3G7T Windows 8 OEM DM
@@ -302,6 +317,9 @@ MX4NX-D7D3K-HVBG4-2C39C-W2KXC Windows Server 2012 Storage Server Workgroup OEM S
 QXY8H-99ND2-6YWJ9-2FXCT-WW823 Windows Server 2012 Storage Server Workgroup OEM NONSLP
 HN27K-JHJ8R-7T7KK-WJYC3-FM2P6 Windows Server 2012 Storage Server Workgroup Volume MAK
 PVGXB-C2TPT-Y3PBJ-VGBTD-K6PQW Windows Server 2012 Volume CSVLK
+WHK4N-YQGHB-XWXCC-G3HYC-6JJW3 Windows Server 2012 ESU Y1 Volume MAK
+2KN8G-3C7VX-DDPPQ-XQ9HR-QGR84 Windows Server 2012 ESU Y2 Volume MAK
+RNB7V-P48F4-3FYY6-2P3R3-63FCT Windows Server 2012 ESU Y3 Volume MAK
 ------------------- Windows 8.1 ---------------------------------------------------------
 4YV2J-VNG7W-YGTP4-4XK8Q-C36TG Windows 8.1 Retail
 KPFN6-JFTK7-7JD9J-24KXC-DC9F3 Windows 8.1 OEM DM
@@ -369,6 +387,9 @@ GXGHK-YPN8M-DG2CD-D3PMV-YY3Y2 Windows Storage Server Workgroup Retail
 9MNQ7-YPQ3B-6WJXM-G83T3-B97MX Windows Storage Server Workgroup OEM SLP
 BN4XJ-R9DYY-96W48-YK8DM-MY3YY Windows Storage Server Workgroup OEM NONSLP
 GQ6XT-3B7FC-DRX72-V3JY8-2R6FK Windows Server 2012 R2 Volume CSVLK
+WHK4N-YQGHB-XWXCC-G3HYC-6JJW3 Windows Server 2012 R2 ESU Y1 Volume MAK
+2KN8G-3C7VX-DDPPQ-XQ9HR-QGR84 Windows Server 2012 R2 ESU Y2 Volume MAK
+RNB7V-P48F4-3FYY6-2P3R3-63FCT Windows Server 2012 R2 ESU Y3 Volume MAK
 ------------------- Windows 10 ----------------------------------------------------------
 G2N2Q-4QD2T-DY4TP-GY489-3RR7H Windows 10 Home Retail
 BNXJF-4J7G8-TPMM6-V227B-7MHX3 Windows 10 Home OEM DM
@@ -417,6 +438,30 @@ N42BF-CBY9F-W2C7R-X397X-DYKPD Windows 10 Enterprise LTSC 2021 Volume GVLK
 PDN6F-RXWR9-V9JWR-37CJR-FC4FG Windows 10 IoT Enterprise LTSC 2021 OEM DM
 79TN4-6H4VT-D4X8H-WGV9M-2PTBV Windows 10 IoT Enterprise LTSC 2021 OEM NONSLP
 YMFDW-9CMG9-VBBQY-TGC9Q-2Q36M Windows 10 Volume CSVLK
+XWHN7-TV4PV-PPH3F-4TQHR-F64WW Windows 10 ESU Y1 Volume MAK
+G98Q2-B6N77-CFH9J-K824G-XQFY4 Windows 10 ESU Y1 Volume GVLK
+VHF9H-NXBBB-63VJD-4GPVK-RM9F9 Windows 10 ESU Y2 Volume MAK
+B2HTN-JPH8C-J6Y6V-HCHKB-43Q4T Windows 10 ESU Y2 Volume GVLK
+3TB3F-C4NG6-P7GF3-KX3GH-X8BCM Windows 10 ESU Y3 Volume MAK
+JBNPH-YF2F7-Q9Y29-86CTG-C934V Windows 10 ESU Y3 Volume GVLK
+NRYKG-RJXPJ-WCHVW-74JF8-J8KHQ Windows 10 ESU Y4 Volume MAK
+N3W2Q-69MBT-27RD9-BH8V3-JT4Y8 Windows 10 ESU Y4 Volume GVLK
+3P78P-4NWRH-K7XGG-CYT9F-GX334 Windows 10 ESU Y5 Volume MAK
+T8TVV-TN23D-94VKT-49JK3-98BFX Windows 10 ESU Y5 Volume GVLK
+VV8GW-N9Q9V-42DGK-BM298-QDFYG Windows 10 ESU Y6 Volume MAK
+DDBD6-NPCDC-2FFC3-HFYCK-WT42B Windows 10 ESU Y6 Volume GVLK
+RN3QB-GT6D7-YB3VH-F3RPB-3GTTC Windows 10 IoT ESU Y1 Volume MAK
+HGWNR-8B3QY-FW7QF-X6PW2-GRCCC Windows 10 IoT ESU Y1 Volume GVLK
+97NWH-3QFHM-KBDBW-T2KGY-RC6TD Windows 10 IoT ESU Y2 Volume MAK
+3NTRF-7VKJP-MP2XR-FW9VV-JQQ43 Windows 10 IoT ESU Y2 Volume GVLK
+HVHJC-NHPPY-4CH6Q-JPBJH-WMC6F Windows 10 IoT ESU Y3 Volume MAK
+QXY8H-99ND2-6YWJ9-YJGX6-KTTWR Windows 10 IoT ESU Y3 Volume GVLK
+YYTNV-YXGMG-JG6TY-RCRVM-BBPBH Windows 10 IoT ESU Y4 Volume MAK
+334XN-CK7RJ-WMMWH-7TXG6-YHD46 Windows 10 IoT ESU Y4 Volume GVLK
+JNX36-2WQPM-J7HW3-FHVGK-TF8MJ Windows 10 IoT ESU Y5 Volume MAK
+VFNGW-3TXJ8-DKG3Q-F68FK-T87R7 Windows 10 IoT ESU Y5 Volume GVLK
+84BXD-CNDHY-4GDJJ-X63JW-VJBD9 Windows 10 IoT ESU Y6 Volume MAK
+NBGPD-YYHR3-RRJRD-DWGHK-RM9JW Windows 10 IoT ESU Y6 Volume GVLK
 ------------------- Windows Server 2016 -------------------------------------------------
 YKRP3-9CNKW-YH8W2-BVXTR-9W39J Windows Server 2016 Essentials Retail
 9GNC3-92HJJ-PFBGJ-DMWKQ-VXPGT Windows Server 2016 Essentials OEM SLP
@@ -525,6 +570,7 @@ WKKGF-TTN8F-QC9T2-6C2DC-3YMTR Windows 11 IoT Enterprise LTSC 2024 Retail
 PGYBY-WFNGW-B8QWM-FJ9CY-43QGQ Windows 11 IoT Enterprise LTSC 2024 OEM NONSLP
 JNRP3-B8G7V-4P9FY-BXM9B-B4KTT Windows 11 IoT Enterprise LTSC 2024 Volume GVLK
 B4G62-RWNXG-CMCMH-6MY2B-3GR9H Windows 11 IoT Enterprise LTSC 2024 Volume MAK
+YMFDW-9CMG9-VBBQY-TGC9Q-2Q36M Windows 11 Volume CSVLK
 ----------------- Windows Server 2025 ---------------------------------------------------
 67DYQ-NBWWM-8R6X4-K936P-MP6DY Windows Server 2025 Standard Retail
 7N4KG-P2QDH-86V9C-DJFVF-37DK8 Windows Server 2025 Standard OEM SLP
